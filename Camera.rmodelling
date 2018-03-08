@@ -1,0 +1,42 @@
+library(boot) 
+library(car)
+library(QuantPsyc)
+library(lmtest)
+library(sandwich)
+library(vars)
+library(nortest)
+library(MASS)
+
+read.csv("camera.csv")
+getwd()
+setwd("C:\\Users\\SAYAN RAY\\Downloads\\Datasets")
+data<-read.csv("camera.csv")
+data
+str(data)
+Max resolution	Low resolution	Effective pixels	Zoom wide (W)
+ data$Dimensions  <- as.factor(data$ Dimensions  )
+Normal focus range	Macro focus range		Dimensions
+Normal.focus.range  Macro.focus.range  Dimensions 
+str(data) 
+summary(data)
+boxplot(data$Price)
+quantile(data$price,c(0,0.05,0.10,0.25,0.50,0.75,0.90,0.95,0.99,0.995,1))
+data2<-data[data$Price<7000,]
+boxplot(data2$Price)
+data3<-data2[data2$Price<6000,]
+boxplot(data3$Price)
+Data<-data3[data3$Price<3000,]
+boxplot(Data$Price)
+Data1<-Data[Data$Price<2000,]
+Data1
+boxplot(Data1$Price)
+sapply(Data1, function(x) sum(is.na(x)))
+Data2<-na.omit(Data1)
+summary(Data2)
+sapply(Data2, function(x) sum(is.na(x)))
+fit<-lm(Price~+  Model  +Release.date +Max.resolution +Low.resolution+ Effective.pixels +Zoom.wide..W.+Zoom.tele..T. + Normal.focus.range+Macro.focus.range +Storage.included+ Weight..inc..batteries. +Dimensions,data=Data2 )
+summary(fit)
+vif(fit)
+Data2$pred<-fitted(fit)
+(sum(abs(Data2$Price-Data2$pred)/Data2$Price))/nrow(Data2)
+dwt(fit)
