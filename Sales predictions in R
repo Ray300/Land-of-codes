@@ -1,0 +1,34 @@
+getwd()
+data<-read.csv("WA_Sales_Products_2012-14.csv")
+summary(data)
+str(data)
+boxplot(data$Revenue)
+quantile(data$Revenue,c(0,0.05,0.1,0.25,0.5,0.75,0.90,0.95,0.99,0.995,1))
+Data<-data[data$Revenue>1700,]
+boxplot(Data$Revenue)
+Data1<-Data[Data$Revenue>8200,]
+boxplot(Data1$Revenue)
+Data2<-Data1[Data1$Revenue<300000,]
+boxplot(Data2$Revenue)
+Data3<-Data2[Data2$Revenue<150000,]
+boxplot(Data3$Revenue)
+Datam<-Data3[Data3$Revenue<120000,]
+boxplot(Datam$Revenue)
+Datame<-Datam[Datam$Revenue<90000,]
+boxplot(Datame$Revenue)
+boxplot(Datame$Gross_margin)
+quantile(Datame$Gross_margin,c(0,0.05,0.1,0.25,0.5,0.75,0.90,0.95,0.99,0.995,1))
+datame<- Datame[(Datame$Gross_margin>0.39),]
+boxplot(datame$Gross_margin)
+datas <- datame[(datame$Gross_margin<0.5),]
+boxplot(datas$Gross_margin)
+datak <- datas[(datas$Quantity<1000),]
+boxplot(datak$Quantity)
+dataw<-datak
+sapply(dataw, function(x) sum(is.na(x)))
+boxplot(datas$Gross_margin)
+str(dataw)
+fit1<-lm( Revenue  ~Gross_margin  +Quantity +Quarter   +Year    +Product   +Product_type   +Product_line  +Retailer_type +Order_method_type+Retailer_country ,data=dataw)
+summary(fit1)
+fit1<-lm( Revenue  ~Gross_margin  +Quantity +Quarter +Product   +Product_type   +Product_line  +Retailer_type +Order_method_type+Retailer_country ,data=dataw)
+summary(fit1)
