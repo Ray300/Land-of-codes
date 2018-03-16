@@ -1,0 +1,1112 @@
+"","Retailer_country","Order_method_type","Retailer_type","Product_line","Product_type","Product","Year","Quarter","Revenue","Quantity","Gross_margin","pred"
+"8","United States","Fax","Outdoors Shop","Camping Equipment","Lanterns","Firefly Lite",2012,"Q1 2012",8268.41,577,0.52896022,8612.05262500536
+"37","United States","Fax","Outdoors Shop","Personal Accessories","Knives","Bear Survival Edge",2012,"Q1 2012",8414.75,97,0.48126801,8593.37251482597
+"50","United States","Telephone","Golf Shop","Personal Accessories","Eyewear","Fairway",2012,"Q1 2012",8241.35,409,0.40496278,8605.51458644248
+"120","United States","Telephone","Department Store","Personal Accessories","Eyewear","Bella",2012,"Q1 2012",8977.5,133,0.45348148,8594.77352308941
+"190","United States","Telephone","Outdoors Shop","Camping Equipment","Lanterns","Firefly Lite",2012,"Q1 2012",8741.3,610,0.52896022,8613.33688258005
+"270","United States","Telephone","Sports Store","Camping Equipment","Lanterns","Firefly Extreme",2012,"Q1 2012",8946,180,0.43420523,8596.60261721113
+"362","United States","Mail","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Climbing Lamp",2012,"Q1 2012",8999.28,232,0.42768755,8598.62629581388
+"370","United States","Mail","Outdoors Shop","Personal Accessories","Eyewear","Polar Sports",2012,"Q1 2012",8650.5,75,0.48950928,8592.51634310942
+"390","United States","Web","Golf Shop","Personal Accessories","Watches","Lux",2012,"Q1 2012",8360,50,0.47703349,8591.54342070425
+"435","United States","Web","Department Store","Camping Equipment","Lanterns","Firefly Lite",2012,"Q1 2012",8898.93,621,0.52896022,8613.76496843832
+"521","United States","Web","Equipment Rental Store","Camping Equipment","Lanterns","EverGlow Single",2012,"Q1 2012",8902.55,263,0.46706056,8599.83271959629
+"625","United States","Web","Outdoors Shop","Outdoor Protection","Sunscreen","Sun Shelter Stick",2012,"Q1 2012",8666,1781,0.59718901,8658.90856803818
+"674","United States","Web","Sports Store","Camping Equipment","Cooking Gear","TrailChef Utensils",2012,"Q1 2012",8429.4,446,0.47089947,8524.17664949709
+"904","Canada","E-mail","Department Store","Camping Equipment","Cooking Gear","TrailChef Canteen",2012,"Q1 2012",8252.57,941,0.49600912,8543.44051311945
+"1048","Canada","E-mail","Eyewear Store","Personal Accessories","Watches","Lux",2012,"Q1 2012",8620.8,48,0.47171492,8591.46558691183
+"1108","Canada","Web","Golf Shop","Personal Accessories","Watches","Sam",2012,"Q1 2012",8351.4,186,0.39153675,8596.83611858837
+"1122","Canada","Web","Golf Shop","Personal Accessories","Knives","Max Gizmo",2012,"Q1 2012",8824.2,231,0.53717277,8598.58737891767
+"1168","Canada","Web","Department Store","Personal Accessories","Eyewear","Bella",2012,"Q1 2012",8775,130,0.45348148,8594.65677240079
+"1520","Mexico","Web","Department Store","Personal Accessories","Watches","Venue",2012,"Q1 2012",8468,116,0.41972603,8594.11193585389
+"1543","Mexico","Web","Department Store","Outdoor Protection","First Aid","Deluxe Family Relief Kit",2012,"Q1 2012",8894.9,262,0.58645066,8599.79380270009
+"1616","Mexico","Web","Sports Store","Personal Accessories","Eyewear","Trendi",2012,"Q1 2012",8551,170,0.39627646,8596.21344824906
+"1621","Mexico","Web","Sports Store","Personal Accessories","Binoculars","Opera Vision",2012,"Q1 2012",8690,79,0.54183544,8592.67201069424
+"1642","Mexico","Sales visit","Warehouse Store","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q1 2012",8389.8,531,0.52531646,8610.26244777971
+"1652","Mexico","Sales visit","Warehouse Store","Outdoor Protection","Sunscreen","Sun Shield",2012,"Q1 2012",8755.2,1520,0.52083333,8648.75125812822
+"1680","Mexico","Sales visit","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Rechargeable Battery",2012,"Q1 2012",8869.68,1143,0.59407216,8634.07958825826
+"1685","Mexico","Sales visit","Outdoors Shop","Mountaineering Equipment","Tools","Granite Grip",2012,"Q1 2012",8800.4,449,0.49540816,8607.07126229075
+"1741","Mexico","Sales visit","Sports Store","Personal Accessories","Watches","Mountain Man Deluxe",2012,"Q1 2012",8279.28,108,0.49126011,8593.80060068424
+"1805","Mexico","Special","Outdoors Shop","Mountaineering Equipment","Safety","Granite Signal Mirror",2012,"Q1 2012",8537.76,264,0.51422387,8422.03181181556
+"1845","Brazil","Web","Golf Shop","Personal Accessories","Eyewear","Trendi",2012,"Q1 2012",8852.8,176,0.39639662,8596.4469496263
+"1889","Brazil","Web","Department Store","Personal Accessories","Eyewear","Polar Sports",2012,"Q1 2012",8459.18,73,0.49188456,8592.438509317
+"1896","Brazil","Web","Department Store","Personal Accessories","Eyewear","Maximus",2012,"Q1 2012",8480,106,0.492375,8593.72276689183
+"1901","Brazil","Web","Department Store","Personal Accessories","Knives","Bear Survival Edge",2012,"Q1 2012",8414.88,94,0.49731903,8593.25576413735
+"1917","Brazil","Web","Department Store","Outdoor Protection","Sunscreen","Sun Shield",2012,"Q1 2012",8567.16,1457,0.53061224,8646.29949366719
+"2142","Brazil","Web","Sports Store","Golf Equipment","Putters","Blue Steel Putter",2012,"Q1 2012",8927.01,107,0.50617284,8593.76168378803
+"2166","Japan","Telephone","Golf Shop","Personal Accessories","Watches","Venue",2012,"Q1 2012",8687,119,0.41863014,8594.22868654252
+"2168","Japan","Telephone","Golf Shop","Personal Accessories","Watches","Sam",2012,"Q1 2012",8486.1,189,0.39153675,8596.95286927699
+"2179","Japan","Telephone","Golf Shop","Personal Accessories","Eyewear","Trendi",2012,"Q1 2012",8249.2,164,0.39662028,8595.97994687182
+"2196","Japan","Telephone","Direct Marketing","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q1 2012",8231.8,521,0.52531646,8609.87327881764
+"2230","Japan","Telephone","Sports Store","Personal Accessories","Eyewear","Polar Sports",2012,"Q1 2012",8304.48,72,0.48950928,8592.3995924208
+"2287","Japan","Mail","Sports Store","Personal Accessories","Knives","Bear Edge",2012,"Q1 2012",8410.2,214,0.40127226,8597.92579168216
+"2395","Japan","Web","Golf Shop","Personal Accessories","Knives","Max Gizmo",2012,"Q1 2012",8977,235,0.53979058,8598.7430465025
+"2473","Japan","Web","Department Store","Outdoor Protection","First Aid","Deluxe Family Relief Kit",2012,"Q1 2012",8793.05,259,0.58645066,8599.67705201146
+"2588","Japan","Web","Outdoors Shop","Outdoor Protection","First Aid","Deluxe Family Relief Kit",2012,"Q1 2012",8827,260,0.58645066,8599.71596890767
+"2766","Singapore","Fax","Outdoors Shop","Personal Accessories","Eyewear","Polar Sun",2012,"Q1 2012",8270.32,138,0.56365655,8594.96810757044
+"2798","Singapore","Telephone","Department Store","Personal Accessories","Watches","Mountain Man Deluxe",2012,"Q1 2012",8662.58,113,0.49126011,8593.99518516527
+"2953","Singapore","Web","Warehouse Store","Camping Equipment","Lanterns","Firefly Extreme",2012,"Q1 2012",8697.5,175,0.43420523,8596.40803273009
+"2984","Singapore","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Extreme",2012,"Q1 2012",8250.2,166,0.43420523,8596.05778066423
+"2993","Singapore","Web","Outdoors Shop","Mountaineering Equipment","Safety","Granite Signal Mirror",2012,"Q1 2012",8537.76,264,0.51422387,8599.8716364925
+"2994","Singapore","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Climbing Lamp",2012,"Q1 2012",8688.96,224,0.42768755,8598.31496064423
+"3015","Singapore","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Ice",2012,"Q1 2012",8553.6,81,0.52945076,8592.74984448666
+"3037","Singapore","Web","Outdoors Shop","Personal Accessories","Binoculars","Opera Vision",2012,"Q1 2012",8250,75,0.54354545,8592.51634310942
+"3058","Singapore","Special","Outdoors Shop","Camping Equipment","Lanterns","Firefly Lite",2012,"Q1 2012",8239.75,575,0.52896022,8434.13496653587
+"3059","Singapore","Special","Outdoors Shop","Camping Equipment","Lanterns","Firefly Extreme",2012,"Q1 2012",8299.9,167,0.43420523,8418.2568728835
+"3099","Korea","Web","Golf Shop","Personal Accessories","Eyewear","Bella",2012,"Q1 2012",8302.5,123,0.4557037,8594.38435412734
+"3181","Korea","Web","Department Store","Personal Accessories","Eyewear","Polar Wave",2012,"Q1 2012",8749.53,94,0.55822998,8593.25576413735
+"3242","Korea","Web","Direct Marketing","Outdoor Protection","Sunscreen","Sun Shield",2012,"Q1 2012",8549.58,1469,0.5257732,8646.76649642167
+"3394","Korea","Sales visit","Equipment Rental Store","Personal Accessories","Eyewear","Polar Sun",2012,"Q1 2012",8643.14,144,0.564325,8595.20160894769
+"3397","Korea","Sales visit","Equipment Rental Store","Personal Accessories","Knives","Bear Survival Edge",2012,"Q1 2012",8675,100,0.48126801,8593.48926551459
+"3471","China","Web","Department Store","Personal Accessories","Eyewear","Fairway",2012,"Q1 2012",8563.75,425,0.40347395,8606.13725678179
+"3515","China","Web","Outdoors Shop","Camping Equipment","Cooking Gear","TrailChef Utensils",2012,"Q1 2012",8448.3,447,0.47089947,8524.2155663933
+"3603","China","Web","Outdoors Shop","Outdoor Protection","Sunscreen","Sun Shelter Stick",2012,"Q1 2012",8812.8,1836,0.59166667,8661.04899732956
+"3628","China","Web","Eyewear Store","Personal Accessories","Knives","Max Gizmo",2012,"Q1 2012",8327.6,218,0.53852971,8598.08145926699
+"3707","China","Web","Sports Store","Outdoor Protection","Sunscreen","Sun Shelter Stick",2012,"Q1 2012",8870.4,1848,0.59166667,8661.51600008404
+"3778","Australia","Telephone","Department Store","Outdoor Protection","First Aid","Deluxe Family Relief Kit",2012,"Q1 2012",8643.6,252,0.59067055,8599.40463373802
+"3802","Australia","Telephone","Outdoors Shop","Camping Equipment","Lanterns","Firefly Lite",2012,"Q1 2012",8942.46,618,0.53351762,8613.6482177497
+"3805","Australia","Telephone","Outdoors Shop","Camping Equipment","Lanterns","Firefly Extreme",2012,"Q1 2012",8838.72,176,0.44006372,8596.4469496263
+"3819","Australia","Telephone","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Climbing Lamp",2012,"Q1 2012",8417.43,217,0.42768755,8598.04254237078
+"3830","Australia","Telephone","Outdoors Shop","Personal Accessories","Watches","Mountain Man Deluxe",2012,"Q1 2012",8925.06,114,0.50185209,8594.03410206148
+"3833","Australia","Telephone","Outdoors Shop","Personal Accessories","Eyewear","Polar Sun",2012,"Q1 2012",8626.6,140,0.57561496,8595.04594136286
+"3898","Australia","Web","Department Store","Personal Accessories","Watches","Lux",2012,"Q1 2012",8527.2,51,0.47882775,8591.58233760045
+"3902","Australia","Web","Department Store","Personal Accessories","Watches","Kodiak",2012,"Q1 2012",8781.9,73,0.44422278,8592.438509317
+"3952","Australia","Web","Eyewear Store","Personal Accessories","Eyewear","Trendi",2012,"Q1 2012",8903.1,177,0.39542744,8596.48586652251
+"3954","Australia","Web","Eyewear Store","Personal Accessories","Eyewear","Hawk Eye",2012,"Q1 2012",8302.5,205,0.43407407,8597.5755396163
+"3997","Australia","Sales visit","Warehouse Store","Camping Equipment","Cooking Gear","TrailChef Utensils",2012,"Q1 2012",8240.4,436,0.47089947,8523.78748053503
+"4010","Australia","Sales visit","Equipment Rental Store","Camping Equipment","Sleeping Bags","Hibernator Pad",2012,"Q1 2012",8911.18,226,0.51382196,8598.39279443664
+"4038","Australia","Sales visit","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Belay",2012,"Q1 2012",8619.8,131,0.47613982,8594.695689297
+"4041","Australia","Sales visit","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Charger",2012,"Q1 2012",8429.6,164,0.56498054,8595.97994687182
+"4265","Netherlands","Web","Golf Shop","Personal Accessories","Watches","Kodiak",2012,"Q1 2012",8421,70,0.44272652,8592.32175862838
+"4400","Netherlands","Web","Outdoors Shop","Personal Accessories","Knives","Max Gizmo",2012,"Q1 2012",8556.8,224,0.53717277,8598.31496064423
+"4411","Netherlands","Web","Eyewear Store","Personal Accessories","Watches","Sam",2012,"Q1 2012",8306.5,185,0.39153675,8596.79720169216
+"4473","Sweden","E-mail","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Carabiner",2012,"Q1 2012",8610.8,2266,0.48421053,8677.78326269847
+"4475","Sweden","E-mail","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Pulley",2012,"Q1 2012",8662.1,235,0.50217037,8598.7430465025
+"4552","Sweden","Web","Department Store","Personal Accessories","Watches","Kodiak",2012,"Q1 2012",8300.7,69,0.44292168,8592.28284173218
+"4582","Sweden","Web","Department Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2012,"Q1 2012",8548.5,722,0.49324443,8511.75219206404
+"4594","Sweden","Web","Warehouse Store","Camping Equipment","Lanterns","EverGlow Single",2012,"Q1 2012",8834.85,261,0.46706056,8599.75488580388
+"4658","Sweden","Web","Sports Store","Personal Accessories","Watches","Sam",2012,"Q1 2012",8531,190,0.39153675,8596.9917861732
+"4680","Sweden","Web","Sports Store","Personal Accessories","Binoculars","Seeker Extreme",2012,"Q1 2012",8413.79,49,0.45186652,8591.50450380804
+"4723","Denmark","Web","Department Store","Camping Equipment","Sleeping Bags","Hibernator Pad",2012,"Q1 2012",8233.22,211,0.50871348,8597.80904099354
+"4746","Denmark","Web","Department Store","Personal Accessories","Eyewear","Polar Sun",2012,"Q1 2012",8845.42,147,0.56541917,8595.31835963631
+"4798","Denmark","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Extreme",2012,"Q1 2012",8336.52,166,0.44006372,8596.05778066423
+"4825","Denmark","Web","Outdoors Shop","Personal Accessories","Watches","Infinity",2012,"Q1 2012",8800,40,0.47402727,8591.15425174218
+"4874","Denmark","Web","Eyewear Store","Personal Accessories","Binoculars","Seeker Extreme",2012,"Q1 2012",8928.92,52,0.45186652,8591.62125449666
+"4881","Denmark","Web","Sports Store","Personal Accessories","Watches","Sam",2012,"Q1 2012",8800.4,196,0.39153675,8597.22528755044
+"4901","Denmark","Sales visit","Direct Marketing","Camping Equipment","Sleeping Bags","Hibernator Pad",2012,"Q1 2012",8477.45,215,0.51382196,8597.96470857837
+"4977","Finland","Web","Warehouse Store","Personal Accessories","Knives","Bear Edge",2012,"Q1 2012",8685.3,221,0.40127226,8598.19820995561
+"5031","Finland","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Sun",2012,"Q1 2012",8734.11,147,0.55988074,8595.31835963631
+"5046","Finland","Web","Outdoors Shop","Personal Accessories","Binoculars","Seeker Mini",2012,"Q1 2012",8606.01,107,0.50267313,8593.76168378803
+"5226","France","Fax","Sports Store","Personal Accessories","Knives","Bear Edge",2012,"Q1 2012",8410.2,214,0.40127226,8597.92579168216
+"5244","France","Telephone","Golf Shop","Personal Accessories","Eyewear","Bella",2012,"Q1 2012",8370,124,0.45348148,8594.42327102355
+"5337","France","Telephone","Outdoors Shop","Personal Accessories","Watches","Mountain Man Extreme",2012,"Q1 2012",8896.15,31,0.59511811,8590.80399967632
+"5385","France","Telephone","Eyewear Store","Personal Accessories","Knives","Max Gizmo",2012,"Q1 2012",8595,225,0.53918557,8598.35387754043
+"5423","France","Telephone","Sports Store","Personal Accessories","Watches","Mountain Man Extreme",2012,"Q1 2012",8389.8,30,0.58453122,8590.76508278011
+"5428","France","Telephone","Sports Store","Personal Accessories","Knives","Bear Edge",2012,"Q1 2012",8724.6,222,0.40127226,8598.23712685181
+"5430","France","Telephone","Sports Store","Personal Accessories","Binoculars","Seeker Mini",2012,"Q1 2012",8927.73,111,0.50267313,8593.91735137286
+"5649","France","Web","Eyewear Store","Personal Accessories","Eyewear","Trendi",2012,"Q1 2012",8701.9,173,0.39662028,8596.33019893768
+"5690","France","Web","Sports Store","Personal Accessories","Eyewear","Polar Ice",2012,"Q1 2012",8408.4,80,0.52723467,8592.71092759045
+"5805","France","Sales visit","Eyewear Store","Personal Accessories","Eyewear","Polar Sports",2012,"Q1 2012",8419.82,73,0.48950928,8592.438509317
+"5810","Germany","Mail","Warehouse Store","Camping Equipment","Cooking Gear","TrailChef Utensils",2012,"Q1 2012",8482.16,458,0.4600432,8524.64365225158
+"6037","Germany","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Climbing Lamp",2012,"Q1 2012",8301.06,214,0.42768755,8597.92579168216
+"6112","Germany","Web","Eyewear Store","Personal Accessories","Binoculars","Seeker Extreme",2012,"Q1 2012",8585.5,50,0.45186652,8591.54342070425
+"6151","Germany","Web","Sports Store","Camping Equipment","Lanterns","Flicker Lantern",2012,"Q1 2012",8922.24,261,0.54307214,8599.75488580388
+"6339","Switzerland","Fax","Sports Store","Personal Accessories","Watches","Kodiak",2012,"Q1 2012",8781.9,73,0.44352589,8592.438509317
+"6379","Switzerland","Web","Golf Shop","Personal Accessories","Eyewear","Hawk Eye",2012,"Q1 2012",8262,204,0.39975309,8597.53662272009
+"6473","Switzerland","Web","Warehouse Store","Personal Accessories","Navigation","Glacier Deluxe",2012,"Q1 2012",8325.95,89,0.39893105,8593.06117965631
+"6557","Switzerland","Web","Eyewear Store","Personal Accessories","Watches","Kodiak",2012,"Q1 2012",8541.3,71,0.44272652,8592.36067552459
+"6560","Switzerland","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Sports",2012,"Q1 2012",8881.18,77,0.48950928,8592.59417690183
+"6787","United Kingdom","Telephone","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Rechargeable Battery",2012,"Q1 2012",8411.6,1091,0.5914392,8632.05590965551
+"6869","United Kingdom","E-mail","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Rechargeable Battery",2012,"Q1 2012",8380.8,1080,0.59407216,8631.62782379723
+"6881","United Kingdom","E-mail","Outdoors Shop","Personal Accessories","Knives","Bear Edge",2012,"Q1 2012",8488.8,216,0.40127226,8598.00362547457
+"7028","United Kingdom","Web","Warehouse Store","Camping Equipment","Cooking Gear","TrailChef Utensils",2012,"Q1 2012",8505,450,0.47089947,8524.33231708192
+"7081","United Kingdom","Web","Outdoors Shop","Mountaineering Equipment","Safety","Granite Signal Mirror",2012,"Q1 2012",8811,267,0.52393939,8599.98838718112
+"7088","United Kingdom","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2012,"Q1 2012",8605.44,484,0.52024301,8608.43335365799
+"7436","Belgium","Web","Eyewear Store","Personal Accessories","Binoculars","Seeker Extreme",2012,"Q1 2012",8585.5,50,0.45186652,8591.54342070425
+"7505","Belgium","Web","Sports Store","Personal Accessories","Binoculars","Seeker Extreme",2012,"Q1 2012",8585.5,50,0.45186652,8591.54342070425
+"7642","Austria","Telephone","Department Store","Outdoor Protection","First Aid","Deluxe Family Relief Kit",2012,"Q1 2012",8266.3,241,0.59067055,8598.97654787974
+"7671","Austria","Telephone","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Climbing Lamp",2012,"Q1 2012",8922.91,229,0.43025313,8598.50954512526
+"7676","Austria","Telephone","Outdoors Shop","Mountaineering Equipment","Tools","Granite Grip",2012,"Q1 2012",8957.2,457,0.49540816,8607.38259746041
+"7684","Austria","Telephone","Outdoors Shop","Personal Accessories","Binoculars","Seeker Extreme",2012,"Q1 2012",8413.79,49,0.45186652,8591.50450380804
+"7756","Austria","Web","Direct Marketing","Camping Equipment","Cooking Gear","TrailChef Utensils",2012,"Q1 2012",8391.6,444,0.47089947,8524.09881570468
+"7879","Austria","Web","Sports Store","Personal Accessories","Watches","Mountain Man Extreme",2012,"Q1 2012",8366.21,29,0.59724774,8590.72616588391
+"7911","Austria","Web","Sports Store","Personal Accessories","Binoculars","Seeker Mini",2012,"Q1 2012",8749.34,106,0.51539202,8593.72276689183
+"7943","Italy","Fax","Outdoors Shop","Personal Accessories","Watches","TX",2012,"Q1 2012",8640,48,0.45177778,8591.46558691183
+"7944","Italy","Fax","Outdoors Shop","Personal Accessories","Watches","Legend",2012,"Q1 2012",8646.4,32,0.44478164,8590.84291657252
+"8082","Italy","Web","Department Store","Personal Accessories","Watches","Lux",2012,"Q1 2012",8861.6,53,0.47882775,8591.66017139287
+"8092","Italy","Web","Department Store","Personal Accessories","Eyewear","Fairway",2012,"Q1 2012",8402.55,417,0.40347395,8605.82592161214
+"8103","Italy","Web","Department Store","Personal Accessories","Binoculars","Opera Vision",2012,"Q1 2012",8360,76,0.544,8592.55526000562
+"8170","Italy","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Rechargeable Battery",2012,"Q1 2012",8761.04,1129,0.59407216,8633.53475171136
+"8255","Italy","Sales visit","Warehouse Store","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q1 2012",8547.8,541,0.52531646,8610.65161674178
+"8260","Italy","Sales visit","Warehouse Store","Personal Accessories","Knives","Bear Edge",2012,"Q1 2012",8685.3,221,0.40127226,8598.19820995561
+"8279","Italy","Sales visit","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Rechargeable Battery",2012,"Q1 2012",8272.16,1066,0.59407216,8631.08298725034
+"8454","Spain","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q1 2012",8200.2,519,0.52531646,8609.79544502523
+"8494","Spain","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Sports",2012,"Q1 2012",8765.84,76,0.48950928,8592.55526000562
+"8709","United States","Telephone","Department Store","Camping Equipment","Lanterns","EverGlow Double",2012,"Q2 2012",8442.51,165,0.43811141,8596.01886376803
+"8712","United States","Telephone","Department Store","Camping Equipment","Lanterns","Flicker Lantern",2012,"Q2 2012",8305.76,244,0.54112808,8599.09329856836
+"8840","United States","Telephone","Outdoors Shop","Personal Accessories","Watches","Infinity",2012,"Q2 2012",8640,39,0.46794444,8591.11533484597
+"8841","United States","Telephone","Outdoors Shop","Personal Accessories","Watches","Lux",2012,"Q2 2012",8292.4,47,0.47485408,8591.42667001563
+"9086","United States","Web","Department Store","Outdoor Protection","First Aid","Deluxe Family Relief Kit",2012,"Q2 2012",8623.3,254,0.58645066,8599.48246753043
+"9185","United States","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly 2",2012,"Q2 2012",8243.22,306,0.39631843,8601.50614613318
+"9447","United States","Sales visit","Outdoors Shop","Personal Accessories","Watches","Mountain Man Deluxe",2012,"Q2 2012",8432.6,110,0.49126011,8593.87843447665
+"9750","Canada","Web","Department Store","Outdoor Protection","First Aid","Deluxe Family Relief Kit",2012,"Q2 2012",8952.3,261,0.59067055,8599.75488580388
+"9778","Canada","Web","Warehouse Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2012,"Q2 2012",8425.1,487,0.52947977,8608.55010434661
+"9928","Canada","Web","Eyewear Store","Personal Accessories","Eyewear","Retro",2012,"Q2 2012",8395.1,134,0.44070231,8594.81243998562
+"9966","Canada","Web","Sports Store","Personal Accessories","Watches","Mountain Man Digital",2012,"Q2 2012",8965.99,263,0.41333863,8599.83271959629
+"10058","Mexico","Web","Golf Shop","Personal Accessories","Watches","Mountain Man Deluxe",2012,"Q2 2012",8662.58,113,0.49126011,8593.99518516527
+"10063","Mexico","Web","Golf Shop","Personal Accessories","Watches","Kodiak",2012,"Q2 2012",8541.3,71,0.43660099,8592.36067552459
+"10120","Mexico","Web","Department Store","Personal Accessories","Eyewear","Maximus",2012,"Q2 2012",8640,108,0.4965,8593.80060068424
+"10196","Mexico","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Sun",2012,"Q2 2012",8282.52,136,0.57061377,8594.89027377803
+"10210","Mexico","Web","Outdoors Shop","Personal Accessories","Knives","Bear Edge",2012,"Q2 2012",8449.5,215,0.40127226,8597.96470857837
+"10288","Mexico","Sales visit","Department Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2012,"Q2 2012",8514.55,685,0.51729686,8510.31226690438
+"10345","Mexico","Sales visit","Outdoors Shop","Camping Equipment","Lanterns","Firefly Extreme",2012,"Q2 2012",8598.1,173,0.43420523,8596.33019893768
+"10458","Brazil","Web","Department Store","Camping Equipment","Sleeping Bags","Hibernator Pad",2012,"Q2 2012",8753.46,222,0.51382196,8598.23712685181
+"10459","Brazil","Web","Department Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2012,"Q2 2012",8407.8,486,0.52947977,8608.5111874504
+"10476","Brazil","Web","Department Store","Personal Accessories","Watches","Mountain Man Combination",2012,"Q2 2012",8640.59,91,0.52607403,8593.13901344872
+"10625","Brazil","Web","Outdoors Shop","Personal Accessories","Knives","Bear Edge",2012,"Q2 2012",8724.6,222,0.40127226,8598.23712685181
+"10762","Japan","Telephone","Golf Shop","Personal Accessories","Watches","Mountain Man Combination",2012,"Q2 2012",8936.58,94,0.52666456,8593.25576413735
+"10837","Japan","E-mail","Department Store","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q2 2012",8848,560,0.52531646,8611.39103776971
+"10856","Japan","E-mail","Department Store","Personal Accessories","Binoculars","Seeker Mini",2012,"Q2 2012",8525.58,106,0.50267313,8593.72276689183
+"10931","Japan","Web","Department Store","Camping Equipment","Cooking Gear","TrailChef Canteen",2012,"Q2 2012",8650.8,712,0.45514403,8534.5285438881
+"10950","Japan","Web","Department Store","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q2 2012",8895.4,563,0.52531646,8611.50778845833
+"10983","Japan","Web","Department Store","Personal Accessories","Binoculars","Seeker Mini",2012,"Q2 2012",8847.3,110,0.50267313,8593.87843447665
+"11016","Japan","Web","Outdoors Shop","Camping Equipment","Cooking Gear","TrailChef Utensils",2012,"Q2 2012",8618.4,456,0.47089947,8524.56581845916
+"11072","Japan","Web","Outdoors Shop","Personal Accessories","Watches","Zodiak",2012,"Q2 2012",8681.8,83,0.42428298,8592.82767827907
+"11191","Japan","Web","Sports Store","Personal Accessories","Eyewear","Polar Ice",2012,"Q2 2012",8783.5,82,0.53610975,8592.78876138286
+"11296","Singapore","Web","Golf Shop","Personal Accessories","Watches","Infinity",2012,"Q2 2012",8580,38,0.45662005,8591.07641794977
+"11301","Singapore","Web","Golf Shop","Personal Accessories","Eyewear","Polar Ice",2012,"Q2 2012",8968.3,86,0.52350613,8592.94442896769
+"11311","Singapore","Web","Golf Shop","Personal Accessories","Eyewear","Retro",2012,"Q2 2012",8457.75,135,0.44772546,8594.85135688182
+"11389","Singapore","Web","Department Store","Personal Accessories","Eyewear","Retro",2012,"Q2 2012",8332.45,133,0.44772546,8594.77352308941
+"11414","Singapore","Web","Department Store","Outdoor Protection","First Aid","Deluxe Family Relief Kit",2012,"Q2 2012",8385.65,247,0.58645066,8599.21004925698
+"11498","Singapore","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q2 2012",8658.4,548,0.52531646,8610.92403501522
+"11708","Korea","Web","Department Store","Camping Equipment","Lanterns","Firefly Extreme",2012,"Q2 2012",8697.5,175,0.43420523,8596.40803273009
+"11712","Korea","Web","Department Store","Camping Equipment","Lanterns","Flicker Lantern",2012,"Q2 2012",8510,250,0.54112808,8599.3267999456
+"11723","Korea","Web","Department Store","Mountaineering Equipment","Climbing Accessories","Firefly Rechargeable Battery",2012,"Q2 2012",8861.92,1142,0.59407216,8634.04067136205
+"11730","Korea","Web","Department Store","Personal Accessories","Watches","Mountain Man Digital",2012,"Q2 2012",8637.04,214,0.50445986,8597.92579168216
+"11841","Korea","Web","Sports Store","Camping Equipment","Lanterns","Flicker Lantern",2012,"Q2 2012",8544.04,251,0.54112808,8599.36571684181
+"11914","Korea","Sales visit","Department Store","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2012,"Q2 2012",8290.8,470,0.51643991,8607.8885171111
+"11994","China","Telephone","Outdoors Shop","Personal Accessories","Watches","Mountain Man Extreme",2012,"Q2 2012",8578.32,31,0.58011709,8590.80399967632
+"12226","China","Web","Sports Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2012,"Q2 2012",8321.3,481,0.52947977,8608.31660296937
+"12300","China","Sales visit","Warehouse Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2012,"Q2 2012",8650,500,0.52947977,8609.0560239973
+"12357","Australia","Telephone","Outdoors Shop","Camping Equipment","Cooking Gear","TrailChef Water Bag",2012,"Q2 2012",8977.95,1405,0.54147105,8561.4979529594
+"12388","Australia","Telephone","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Belay",2012,"Q2 2012",8225,125,0.47613982,8594.46218791976
+"12403","Australia","Telephone","Outdoors Shop","Personal Accessories","Watches","Mountain Man Extreme",2012,"Q2 2012",8943.19,31,0.59724774,8590.80399967632
+"12718","Netherlands","Telephone","Equipment Rental Store","Outdoor Protection","Sunscreen","Sun Shield",2012,"Q2 2012",8772.48,1523,0.52083333,8648.86800881684
+"12778","Netherlands","Telephone","Sports Store","Camping Equipment","Tents","Star Peg",2012,"Q2 2012",8402.52,4287,0.48979592,8555.55842219894
+"12792","Netherlands","Telephone","Sports Store","Personal Accessories","Binoculars","Seeker Mini",2012,"Q2 2012",8686.44,108,0.50267313,8593.80060068424
+"12813","Netherlands","Mail","Department Store","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q2 2012",8626.8,546,0.52531646,8610.84620122281
+"12839","Netherlands","Mail","Eyewear Store","Personal Accessories","Eyewear","Polar Sports",2012,"Q2 2012",8535.16,74,0.48950928,8592.47742621321
+"12921","Netherlands","Web","Department Store","Outdoor Protection","Sunscreen","Sun Shield",2012,"Q2 2012",8485.56,1458,0.5257732,8646.3384105634
+"13313","Sweden","Web","Sports Store","Personal Accessories","Eyewear","Bella",2012,"Q2 2012",8640,128,0.45192593,8594.57893860838
+"13439","Denmark","Web","Department Store","Outdoor Protection","First Aid","Deluxe Family Relief Kit",2012,"Q2 2012",8385.65,247,0.58645066,8599.21004925698
+"13467","Denmark","Web","Outdoors Shop","Personal Accessories","Watches","Infinity",2012,"Q2 2012",8480,37,0.44619575,8591.03750105356
+"13472","Denmark","Web","Outdoors Shop","Personal Accessories","Watches","Kodiak",2012,"Q2 2012",8781.9,73,0.44023275,8592.438509317
+"13482","Denmark","Web","Outdoors Shop","Personal Accessories","Knives","Pocket Gizmo",2012,"Q2 2012",8552.2,701,0.59918033,8616.87832013486
+"13522","Denmark","Web","Sports Store","Personal Accessories","Eyewear","Retro",2012,"Q2 2012",8520.4,136,0.44070231,8594.89027377803
+"13535","Denmark","Sales visit","Direct Marketing","Personal Accessories","Binoculars","Seeker Extreme",2012,"Q2 2012",8585.5,50,0.45186652,8591.54342070425
+"13608","Finland","Web","Department Store","Personal Accessories","Watches","Infinity",2012,"Q2 2012",8600,37,0.43808372,8591.03750105356
+"13625","Finland","Web","Department Store","Personal Accessories","Knives","Bear Edge",2012,"Q2 2012",8567.4,218,0.40127226,8598.08145926699
+"13637","Finland","Web","Department Store","Outdoor Protection","First Aid","Deluxe Family Relief Kit",2012,"Q2 2012",8996.75,265,0.58645066,8599.91055338871
+"13674","Finland","Web","Warehouse Store","Personal Accessories","Knives","Bear Edge",2012,"Q2 2012",8488.8,216,0.40127226,8598.00362547457
+"13841","Finland","Web","Sports Store","Personal Accessories","Eyewear","Bella",2012,"Q2 2012",8235,122,0.44755556,8594.34543723114
+"13855","Finland","Web","Sports Store","Personal Accessories","Knives","Bear Survival Edge",2012,"Q2 2012",8328,96,0.48126801,8593.33359792976
+"13898","Finland","Sales visit","Department Store","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q2 2012",8958.6,567,0.52531646,8611.66345604315
+"13935","France","Fax","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Pulley",2012,"Q2 2012",8256.64,224,0.50217037,8598.31496064423
+"14116","France","Telephone","Outdoors Shop","Personal Accessories","Binoculars","Seeker Extreme",2012,"Q2 2012",8585.5,50,0.45186652,8591.54342070425
+"14182","France","Telephone","Sports Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2012,"Q2 2012",8427.54,678,0.51729686,8510.03984863094
+"14226","France","Web","Department Store","Personal Accessories","Watches","Zodiak",2012,"Q2 2012",8368,80,0.42428298,8592.71092759045
+"14239","France","Web","Department Store","Personal Accessories","Knives","Max Gizmo",2012,"Q2 2012",8518.6,223,0.53769634,8598.27604374802
+"14428","France","Web","Eyewear Store","Personal Accessories","Eyewear","Hawk Eye",2012,"Q2 2012",8424,208,0.40222222,8597.69229030492
+"14645","Germany","E-mail","Department Store","Personal Accessories","Watches","Mountain Man Deluxe",2012,"Q2 2012",8846.77,113,0.50185209,8593.99518516527
+"14695","Germany","E-mail","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Belay",2012,"Q2 2012",8948.8,136,0.47613982,8594.89027377803
+"14720","Germany","E-mail","Outdoors Shop","Personal Accessories","Binoculars","Seeker Extreme",2012,"Q2 2012",8585.5,50,0.45186652,8591.54342070425
+"14800","Germany","Web","Warehouse Store","Outdoor Protection","Sunscreen","Sun Shelter Stick",2012,"Q2 2012",8408.75,1744,0.59349011,8657.46864287854
+"14808","Germany","Web","Outdoors Shop","Camping Equipment","Cooking Gear","TrailChef Utensils",2012,"Q2 2012",8445.12,456,0.4600432,8524.56581845916
+"14830","Germany","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Rechargeable Battery",2012,"Q2 2012",8947.6,1147,0.59619898,8634.23525584309
+"15091","Switzerland","Fax","Golf Shop","Personal Accessories","Watches","Venue",2012,"Q2 2012",8906,122,0.41384684,8594.34543723114
+"15095","Switzerland","Fax","Golf Shop","Personal Accessories","Watches","Legend",2012,"Q2 2012",8483.2,32,0.43047906,8590.84291657252
+"15146","Switzerland","Web","Golf Shop","Personal Accessories","Knives","Pocket Gizmo",2012,"Q2 2012",8259.4,677,0.59918033,8615.9443146259
+"15171","Switzerland","Web","Department Store","Camping Equipment","Cooking Gear","TrailChef Kettle",2012,"Q2 2012",8962.03,721,0.58889783,8534.87879595396
+"15208","Switzerland","Web","Department Store","Personal Accessories","Eyewear","Polar Sun",2012,"Q2 2012",8201.24,135,0.5695468,8594.85135688182
+"15260","Switzerland","Web","Warehouse Store","Camping Equipment","Cooking Gear","TrailChef Water Bag",2012,"Q2 2012",8249.49,1291,0.54147105,8557.06142679182
+"15376","Switzerland","Web","Sports Store","Camping Equipment","Packs","Canyon Mule Cooler",2012,"Q2 2012",8789.64,267,0.51397327,8599.98838718112
+"15455","Switzerland","Sales visit","Sports Store","Camping Equipment","Lanterns","EverGlow Lamp",2012,"Q2 2012",8855.5,398,0.5505618,8605.08650058421
+"15507","United Kingdom","Fax","Outdoors Shop","Personal Accessories","Eyewear","Bella",2012,"Q2 2012",8977.5,133,0.45190643,8594.77352308941
+"15529","United Kingdom","Telephone","Golf Shop","Golf Equipment","Putters","Blue Steel Putter",2012,"Q2 2012",8343,100,0.50617284,8593.48926551459
+"15585","United Kingdom","Telephone","Department Store","Golf Equipment","Putters","Blue Steel Putter",2012,"Q2 2012",8843.58,106,0.50617284,8593.72276689183
+"15657","United Kingdom","Web","Golf Shop","Golf Equipment","Golf Accessories","Course Pro Umbrella",2012,"Q2 2012",8278.38,666,0.51729686,8509.57284587646
+"15762","United Kingdom","Web","Warehouse Store","Camping Equipment","Lanterns","Firefly Lite",2012,"Q2 2012",8696.47,601,0.53351762,8612.98663051418
+"15771","United Kingdom","Web","Warehouse Store","Outdoor Protection","Sunscreen","Sun Shelter Stick",2012,"Q2 2012",8435.55,1732,0.59756981,8657.00164012405
+"15795","United Kingdom","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Extreme",2012,"Q2 2012",8835.9,177,0.43670254,8596.48586652251
+"15904","United Kingdom","Web","Sports Store","Camping Equipment","Tents","Star Peg",2012,"Q2 2012",8758.34,4413,0.4961374,8560.46195112099
+"15914","United Kingdom","Web","Sports Store","Camping Equipment","Packs","Canyon Mule Carryall",2012,"Q2 2012",8981.7,130,0.40396584,8594.65677240079
+"15955","United Kingdom","Web","Sports Store","Personal Accessories","Knives","Max Gizmo",2012,"Q2 2012",8289.4,217,0.53769634,8598.04254237078
+"16072","Belgium","Web","Department Store","Personal Accessories","Watches","Kodiak",2012,"Q2 2012",8954.5,70,0.47149478,8592.32175862838
+"16147","Belgium","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Belay",2012,"Q2 2012",8883,135,0.47613982,8594.85135688182
+"16221","Belgium","Web","Sports Store","Camping Equipment","Lanterns","Firefly Extreme",2012,"Q2 2012",8888.94,177,0.44006372,8596.48586652251
+"16243","Belgium","Web","Sports Store","Personal Accessories","Eyewear","Bella",2012,"Q2 2012",8977.5,133,0.44755556,8594.77352308941
+"16253","Belgium","Web","Sports Store","Personal Accessories","Eyewear","Retro",2012,"Q2 2012",8269.8,132,0.44070231,8594.7346061932
+"16301","Belgium","Sales visit","Outdoors Shop","Camping Equipment","Lanterns","EverGlow Single",2012,"Q2 2012",8699.45,257,0.46706056,8599.59921821905
+"16439","Austria","Telephone","Outdoors Shop","Mountaineering Equipment","Tools","Granite Grip",2012,"Q2 2012",8741.6,446,0.49540816,8606.95451160213
+"16509","Austria","Web","Department Store","Personal Accessories","Eyewear","Trendi",2012,"Q2 2012",8651.6,172,0.39681909,8596.29128204147
+"16649","Austria","Web","Sports Store","Personal Accessories","Eyewear","Polar Ice",2012,"Q2 2012",8433.7,80,0.5286529,8592.71092759045
+"16700","Austria","Sales visit","Sports Store","Camping Equipment","Lanterns","Flicker Lantern",2012,"Q2 2012",8646.16,254,0.54112808,8599.48246753043
+"16725","Italy","Fax","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2012,"Q2 2012",8237.88,467,0.51643991,8607.77176642247
+"16763","Italy","E-mail","Sports Store","Personal Accessories","Eyewear","Polar Ice",2012,"Q2 2012",8888,83,0.53597322,8592.82767827907
+"16856","Italy","Web","Department Store","Personal Accessories","Watches","Lux",2012,"Q2 2012",8360,50,0.47715311,8591.54342070425
+"16873","Italy","Web","Department Store","Personal Accessories","Knives","Bear Edge",2012,"Q2 2012",8724.6,222,0.40127226,8598.23712685181
+"16922","Italy","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q2 2012",8200.2,519,0.52531646,8609.79544502523
+"16948","Italy","Web","Outdoors Shop","Personal Accessories","Watches","Mountain Man Combination",2012,"Q2 2012",8461.23,89,0.52666456,8593.06117965631
+"16973","Italy","Web","Outdoors Shop","Personal Accessories","Knives","Bear Edge",2012,"Q2 2012",8724.6,222,0.40127226,8598.23712685181
+"17139","Spain","Web","Golf Shop","Personal Accessories","Watches","Mountain Man Deluxe",2012,"Q2 2012",8585.92,112,0.49126011,8593.95626826907
+"17162","Spain","Web","Golf Shop","Personal Accessories","Binoculars","Seeker Mini",2012,"Q2 2012",8203.86,102,0.50267313,8593.567099307
+"17189","Spain","Web","Department Store","Personal Accessories","Eyewear","Polar Ice",2012,"Q2 2012",8558,82,0.52388642,8592.78876138286
+"17228","Spain","Web","Outdoors Shop","Camping Equipment","Cooking Gear","TrailChef Canteen",2012,"Q2 2012",8991,740,0.45514403,8535.61821698189
+"17244","Spain","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q2 2012",8769,555,0.52531646,8611.19645328867
+"17275","Spain","Web","Outdoors Shop","Personal Accessories","Watches","Mountain Man Combination",2012,"Q2 2012",8841.51,93,0.52666456,8593.21684724114
+"17330","Spain","Web","Sports Store","Camping Equipment","Tents","Star Peg",2012,"Q2 2012",8434.58,4234,0.49801887,8553.49582669998
+"17399","Spain","Web","Sports Store","Outdoor Protection","Sunscreen","Sun Shield",2012,"Q2 2012",8864.64,1539,0.52083333,8649.49067915614
+"17433","United States","Fax","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Climbing Lamp",2012,"Q3 2012",8572.59,221,0.42768755,8598.19820995561
+"17438","United States","Fax","Outdoors Shop","Personal Accessories","Eyewear","Polar Sun",2012,"Q3 2012",8759.72,145,0.56713799,8595.24052584389
+"17458","United States","Telephone","Golf Shop","Personal Accessories","Eyewear","Retro",2012,"Q3 2012",8896.3,142,0.44197925,8595.12377515527
+"17515","United States","Telephone","Department Store","Personal Accessories","Watches","Kodiak",2012,"Q3 2012",8300.7,69,0.43491272,8592.28284173218
+"17611","United States","Telephone","Outdoors Shop","Personal Accessories","Eyewear","Polar Sports",2012,"Q3 2012",8304.48,72,0.48950928,8592.3995924208
+"17626","United States","Telephone","Outdoors Shop","Personal Accessories","Binoculars","Opera Vision",2012,"Q3 2012",8360,76,0.54181818,8592.55526000562
+"17714","United States","Mail","Department Store","Camping Equipment","Lanterns","Flicker Lantern",2012,"Q3 2012",8646.16,254,0.54112808,8599.48246753043
+"17809","United States","Web","Department Store","Camping Equipment","Lanterns","EverGlow Single",2012,"Q3 2012",8733.3,258,0.46706056,8599.63813511526
+"17823","United States","Web","Department Store","Personal Accessories","Watches","Zodiak",2012,"Q3 2012",8624,77,0.41714286,8592.59417690183
+"17843","United States","Web","Department Store","Personal Accessories","Binoculars","Seeker Mini",2012,"Q3 2012",8445.15,105,0.50267313,8593.68384999562
+"18038","United States","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Extreme",2012,"Q3 2012",8254.31,56,0.50813575,8591.77692208149
+"18205","United States","Sales visit","Outdoors Shop","Personal Accessories","Knives","Bear Survival Edge",2012,"Q3 2012",8328,96,0.48126801,8593.33359792976
+"18250","United States","Special","Outdoors Shop","Personal Accessories","Knives","Bear Survival Edge",2012,"Q3 2012",8241.25,95,0.48126801,8415.45485635661
+"18392","Canada","E-mail","Outdoors Shop","Personal Accessories","Eyewear","Hawk Eye",2012,"Q3 2012",8545.5,211,0.3945679,8597.80904099354
+"18433","Canada","E-mail","Sports Store","Personal Accessories","Eyewear","Hawk Eye",2012,"Q3 2012",8343,206,0.43604938,8597.61445651251
+"18628","Canada","Web","Outdoors Shop","Mountaineering Equipment","Safety","Granite Signal Mirror",2012,"Q3 2012",8910,270,0.52393939,8600.10513786974
+"18712","Canada","Web","Eyewear Store","Personal Accessories","Binoculars","Seeker Mini",2012,"Q3 2012",8686.44,108,0.50267313,8593.80060068424
+"18771","Canada","Web","Sports Store","Personal Accessories","Knives","Max Gizmo",2012,"Q3 2012",8480.4,222,0.53867742,8598.23712685181
+"18816","Canada","Sales visit","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Carabiner",2012,"Q3 2012",8850.2,2329,0.48421053,8680.2350271595
+"18840","Mexico","Mail","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Climbing Lamp",2012,"Q3 2012",8339.85,215,0.42768755,8597.96470857837
+"18915","Mexico","Web","Department Store","Personal Accessories","Watches","Zodiak",2012,"Q3 2012",8512,76,0.41767857,8592.55526000562
+"18929","Mexico","Web","Department Store","Personal Accessories","Binoculars","Seeker Mini",2012,"Q3 2012",8847.3,110,0.50267313,8593.87843447665
+"18950","Mexico","Web","Outdoors Shop","Camping Equipment","Cooking Gear","TrailChef Canteen",2012,"Q3 2012",8492.85,699,0.45514403,8534.02262423741
+"19107","Mexico","Sales visit","Equipment Rental Store","Camping Equipment","Lanterns","Flicker Lantern",2012,"Q3 2012",8850.4,260,0.54112808,8599.71596890767
+"19155","Mexico","Sales visit","Eyewear Store","Personal Accessories","Eyewear","Polar Extreme",2012,"Q3 2012",8252.73,57,0.49925661,8591.81583897769
+"19156","Mexico","Sales visit","Eyewear Store","Personal Accessories","Binoculars","Seeker Mini",2012,"Q3 2012",8203.86,102,0.50267313,8593.567099307
+"19223","Brazil","Web","Golf Shop","Personal Accessories","Eyewear","Inferno",2012,"Q3 2012",8645.7,138,0.44022346,8594.96810757044
+"19224","Brazil","Web","Golf Shop","Personal Accessories","Eyewear","Maximus",2012,"Q3 2012",8800,110,0.48775,8593.87843447665
+"19283","Brazil","Web","Department Store","Personal Accessories","Eyewear","Maximus",2012,"Q3 2012",8640,108,0.4875,8593.80060068424
+"19337","Brazil","Web","Warehouse Store","Personal Accessories","Binoculars","Seeker Mini",2012,"Q3 2012",8766.87,109,0.50267313,8593.83951758045
+"19367","Brazil","Web","Outdoors Shop","Mountaineering Equipment","Safety","Granite Signal Mirror",2012,"Q3 2012",8844,268,0.52393939,8600.02730407733
+"19584","Japan","E-mail","Department Store","Personal Accessories","Watches","Mountain Man Combination",2012,"Q3 2012",8271.09,87,0.52666456,8592.9833458639
+"19617","Japan","E-mail","Direct Marketing","Camping Equipment","Cooking Gear","TrailChef Canteen",2012,"Q3 2012",8760.15,721,0.45514403,8534.87879595396
+"19755","Japan","Web","Department Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2012,"Q3 2012",8924.74,718,0.51729686,8511.59652447921
+"19879","Japan","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Extreme",2012,"Q3 2012",8601.4,58,0.5111261,8591.8547558739
+"20016","Singapore","Fax","Outdoors Shop","Personal Accessories","Knives","Bear Edge",2012,"Q3 2012",8921.1,227,0.40127226,8598.43171133285
+"20039","Singapore","Telephone","Department Store","Personal Accessories","Binoculars","Seeker Mini",2012,"Q3 2012",8606.01,107,0.50267313,8593.76168378803
+"20064","Singapore","Telephone","Direct Marketing","Camping Equipment","Lanterns","Flicker Lantern",2012,"Q3 2012",8237.68,242,0.54112808,8599.01546477595
+"20078","Singapore","Web","Golf Shop","Personal Accessories","Eyewear","Polar Sports",2012,"Q3 2012",8765.84,76,0.48950928,8592.55526000562
+"20153","Singapore","Web","Department Store","Personal Accessories","Watches","Zodiak",2012,"Q3 2012",8848,79,0.41767857,8592.67201069424
+"20169","Singapore","Web","Department Store","Personal Accessories","Eyewear","Retro",2012,"Q3 2012",8207.15,131,0.44469274,8594.695689297
+"20250","Singapore","Web","Outdoors Shop","Mountaineering Equipment","Safety","Granite Signal Mirror",2012,"Q3 2012",8214.36,254,0.51422387,8599.48246753043
+"20261","Singapore","Web","Outdoors Shop","Mountaineering Equipment","Tools","Granite Grip",2012,"Q3 2012",8408.4,429,0.49540816,8606.29292436662
+"20324","Singapore","Special","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Carabiner",2012,"Q3 2012",8348.6,2197,0.48421053,8497.25817218327
+"20329","Singapore","Special","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Rechargeable Battery",2012,"Q3 2012",8730,1125,0.59407216,8455.5392594496
+"20355","Korea","Telephone","Sports Store","Personal Accessories","Watches","Mountain Man Deluxe",2012,"Q3 2012",8355.94,109,0.49126011,8593.83951758045
+"20364","Korea","Telephone","Sports Store","Personal Accessories","Knives","Bear Survival Edge",2012,"Q3 2012",8935.25,103,0.48126801,8593.60601620321
+"20572","Korea","Web","Sports Store","Personal Accessories","Watches","Lux",2012,"Q3 2012",8861.6,53,0.47009569,8591.66017139287
+"20611","Korea","Sales visit","Department Store","Camping Equipment","Tents","Star Gazer 6",2012,"Q3 2012",8318.8,10,0.41097274,8389.11085712254
+"20631","Korea","Sales visit","Department Store","Mountaineering Equipment","Climbing Accessories","Firefly Climbing Lamp",2012,"Q3 2012",8339.85,215,0.42768755,8597.96470857837
+"20793","China","Web","Department Store","Personal Accessories","Eyewear","Retro",2012,"Q3 2012",8958.95,143,0.44022346,8595.16269205148
+"20975","China","Web","Sports Store","Camping Equipment","Lanterns","EverGlow Double",2012,"Q3 2012",8586.48,168,0.43748777,8596.13561445665
+"21022","China","Web","Sports Store","Outdoor Protection","Sunscreen","Sun Shelter Stick",2012,"Q3 2012",8707.2,1814,0.59166667,8660.19282561301
+"21055","Australia","Telephone","Department Store","Camping Equipment","Cooking Gear","TrailChef Utensils",2012,"Q3 2012",8618.4,456,0.47089947,8524.56581845916
+"21131","Australia","Telephone","Outdoors Shop","Personal Accessories","Binoculars","Seeker Extreme",2012,"Q3 2012",8585.5,50,0.45186652,8591.54342070425
+"21255","Australia","Web","Warehouse Store","Camping Equipment","Lanterns","EverGlow Single",2012,"Q3 2012",8868.7,262,0.46706056,8599.79380270009
+"21291","Australia","Web","Eyewear Store","Personal Accessories","Watches","Kodiak",2012,"Q3 2012",8300.7,69,0.43341646,8592.28284173218
+"21323","Australia","Sales visit","Direct Marketing","Camping Equipment","Lanterns","EverGlow Single",2012,"Q3 2012",8428.65,249,0.46706056,8599.2878830494
+"21330","Australia","Sales visit","Warehouse Store","Camping Equipment","Sleeping Bags","Hibernator Self - Inflating Mat",2012,"Q3 2012",8685.95,91,0.4284966,8593.13901344872
+"21390","Australia","Sales visit","Eyewear Store","Personal Accessories","Eyewear","Polar Sports",2012,"Q3 2012",8459.18,73,0.49188456,8592.438509317
+"21431","Netherlands","Telephone","Outdoors Shop","Camping Equipment","Tents","Star Gazer 6",2012,"Q3 2012",8318.8,10,0.41097274,8389.11085712254
+"21449","Netherlands","Telephone","Outdoors Shop","Personal Accessories","Knives","Bear Survival Edge",2012,"Q3 2012",8761.75,101,0.48126801,8593.52818241079
+"21475","Netherlands","Telephone","Sports Store","Personal Accessories","Eyewear","Polar Sun",2012,"Q3 2012",8541.15,144,0.5591226,8595.20160894769
+"21504","Netherlands","Mail","Department Store","Personal Accessories","Knives","Bear Edge",2012,"Q3 2012",8410.2,214,0.40127226,8597.92579168216
+"21509","Netherlands","Mail","Department Store","Outdoor Protection","Sunscreen","Sun Shield",2012,"Q3 2012",8724.18,1499,0.5257732,8647.93400330787
+"21552","Netherlands","Web","Department Store","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q3 2012",8690,550,0.52531646,8611.00186880764
+"21561","Netherlands","Web","Department Store","Personal Accessories","Watches","Venue",2012,"Q3 2012",8322,114,0.41291276,8594.03410206148
+"21569","Netherlands","Web","Department Store","Personal Accessories","Eyewear","Polar Sports",2012,"Q3 2012",8765.84,76,0.48950928,8592.55526000562
+"21592","Netherlands","Web","Department Store","Outdoor Protection","First Aid","Deluxe Family Relief Kit",2012,"Q3 2012",8827,260,0.58645066,8599.71596890767
+"21716","Netherlands","Web","Eyewear Store","Personal Accessories","Knives","Max Gizmo",2012,"Q3 2012",8480.4,222,0.53864912,8598.23712685181
+"21811","Sweden","E-mail","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Rechargeable Battery",2012,"Q3 2012",8520.48,1098,0.59407216,8632.32832792895
+"22003","Sweden","Web","Sports Store","Camping Equipment","Lanterns","EverGlow Single",2012,"Q3 2012",8394.8,248,0.46706056,8599.24896615319
+"22061","Sweden","Web","Sports Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2012,"Q3 2012",8402.68,676,0.51729686,8509.96201483852
+"22072","Denmark","Web","Golf Shop","Personal Accessories","Eyewear","Fairway",2012,"Q3 2012",8442.85,419,0.3966291,8605.90375540455
+"22074","Denmark","Web","Golf Shop","Personal Accessories","Eyewear","Maximus",2012,"Q3 2012",8400,102,0.50427143,8593.567099307
+"22075","Denmark","Web","Golf Shop","Personal Accessories","Eyewear","Trendi",2012,"Q3 2012",8752.2,174,0.39204771,8596.36911583389
+"22208","Denmark","Web","Eyewear Store","Personal Accessories","Eyewear","Maximus",2012,"Q3 2012",8755,103,0.52176471,8593.60601620321
+"22226","Denmark","Web","Sports Store","Personal Accessories","Eyewear","Fairway",2012,"Q3 2012",8221.2,408,0.39529631,8605.47566954627
+"22243","Denmark","Sales visit","Direct Marketing","Camping Equipment","Lanterns","EverGlow Single",2012,"Q3 2012",8902.55,263,0.46706056,8599.83271959629
+"22465","Finland","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Sports",2012,"Q3 2012",8304.48,72,0.48950928,8592.3995924208
+"22491","Finland","Web","Sports Store","Camping Equipment","Tents","Star Peg",2012,"Q3 2012",8439.58,4286,0.49215482,8555.51950530273
+"22523","Finland","Web","Sports Store","Personal Accessories","Eyewear","Polar Ice",2012,"Q3 2012",8598.7,80,0.53769756,8592.71092759045
+"22593","Finland","Sales visit","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Carabiner",2012,"Q3 2012",8626,2270,0.48421053,8677.9389302833
+"22610","Finland","Sales visit","Outdoors Shop","Personal Accessories","Knives","Bear Edge",2012,"Q3 2012",8410.2,214,0.40127226,8597.92579168216
+"22636","France","Fax","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Charger",2012,"Q3 2012",8224,160,0.56498054,8595.82427928699
+"22756","France","Telephone","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Climbing Lamp",2012,"Q3 2012",8727.75,225,0.42768755,8598.35387754043
+"22787","France","Telephone","Sports Store","Camping Equipment","Cooking Gear","TrailChef Utensils",2012,"Q3 2012",8750.7,463,0.47089947,8524.83823673261
+"22804","France","Telephone","Sports Store","Camping Equipment","Lanterns","EverGlow Single",2012,"Q3 2012",8496.35,251,0.46706056,8599.36571684181
+"22955","France","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Extreme",2012,"Q3 2012",8436.96,168,0.44006372,8596.13561445665
+"22963","France","Web","Outdoors Shop","Mountaineering Equipment","Safety","Granite Signal Mirror",2012,"Q3 2012",8778,266,0.52393939,8599.94947028491
+"23037","France","Web","Eyewear Store","Personal Accessories","Eyewear","Bella",2012,"Q3 2012",8910,132,0.4477037,8594.7346061932
+"23104","France","Web","Sports Store","Personal Accessories","Binoculars","Opera Vision",2012,"Q3 2012",8470,77,0.54181818,8592.59417690183
+"23207","France","Sales visit","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Pulley",2012,"Q3 2012",8588.38,233,0.50217037,8598.66521271009
+"23209","France","Sales visit","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Charger",2012,"Q3 2012",8429.6,164,0.56498054,8595.97994687182
+"23226","Germany","Mail","Warehouse Store","Camping Equipment","Lanterns","EverGlow Single",2012,"Q3 2012",8509,254,0.46149254,8599.48246753043
+"23319","Germany","Web","Golf Shop","Personal Accessories","Watches","Lux",2012,"Q3 2012",8360,50,0.47009569,8591.54342070425
+"23429","Germany","Web","Outdoors Shop","Mountaineering Equipment","Safety","Granite Signal Mirror",2012,"Q3 2012",8261.88,254,0.51701792,8599.48246753043
+"23518","Germany","Web","Sports Store","Camping Equipment","Cooking Gear","TrailChef Water Bag",2012,"Q3 2012",8939.61,1399,0.54147105,8561.26445158216
+"23545","Germany","Web","Sports Store","Camping Equipment","Lanterns","Firefly Extreme",2012,"Q3 2012",8386.74,167,0.44006372,8596.09669756044
+"23651","Germany","Sales visit","Outdoors Shop","Camping Equipment","Lanterns","Firefly Extreme",2012,"Q3 2012",8286.3,165,0.44006372,8596.01886376803
+"23682","Switzerland","Fax","Golf Shop","Personal Accessories","Watches","Venue",2012,"Q3 2012",8979,123,0.4139726,8594.38435412734
+"23688","Switzerland","Fax","Golf Shop","Personal Accessories","Watches","Kodiak",2012,"Q3 2012",8731.4,70,0.45558788,8592.32175862838
+"23742","Switzerland","Web","Department Store","Camping Equipment","Cooking Gear","TrailChef Water Bag",2012,"Q3 2012",8294.6,1340,0.5266559,8558.96835470596
+"23792","Switzerland","Web","Department Store","Personal Accessories","Knives","Bear Edge",2012,"Q3 2012",8921.1,227,0.40127226,8598.43171133285
+"23919","Switzerland","Web","Eyewear Store","Personal Accessories","Watches","Venue",2012,"Q3 2012",8468,116,0.41068493,8594.11193585389
+"24118","United Kingdom","Fax","Outdoors Shop","Personal Accessories","Watches","Legend",2012,"Q3 2012",8605.6,32,0.4428837,8590.84291657252
+"24122","United Kingdom","Fax","Outdoors Shop","Personal Accessories","Eyewear","Fairway",2012,"Q3 2012",8704.8,432,0.39773918,8606.40967505524
+"24191","United Kingdom","Web","Golf Shop","Personal Accessories","Watches","Zodiak",2012,"Q3 2012",8624,77,0.4175,8592.59417690183
+"24251","United Kingdom","Web","Department Store","Camping Equipment","Lanterns","Flicker Lantern",2012,"Q3 2012",8918.48,262,0.54112808,8599.79380270009
+"24307","United Kingdom","Web","Department Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2012,"Q3 2012",8548.5,695,0.51219512,8510.70143586645
+"24391","United Kingdom","Web","Outdoors Shop","Personal Accessories","Watches","Mountain Man Combination",2012,"Q3 2012",8979.69,93,0.53394828,8593.21684724114
+"24419","United Kingdom","Web","Outdoors Shop","Personal Accessories","Knives","Max Gizmo",2012,"Q3 2012",8938.8,234,0.53888106,8598.70412960629
+"24449","United Kingdom","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Extreme",2012,"Q3 2012",8798.53,61,0.49735922,8591.97150656252
+"24521","United Kingdom","Web","Sports Store","Personal Accessories","Eyewear","Hawk Eye",2012,"Q3 2012",8829,218,0.43630989,8598.08145926699
+"24641","Belgium","Web","Department Store","Personal Accessories","Binoculars","Seeker Mini",2012,"Q3 2012",8847.3,110,0.50267313,8593.87843447665
+"24681","Belgium","Web","Warehouse Store","Camping Equipment","Lanterns","EverGlow Single",2012,"Q3 2012",8767.15,259,0.46706056,8599.67705201146
+"24699","Belgium","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Climbing Lamp",2012,"Q3 2012",8495.01,219,0.42768755,8598.12037616319
+"24733","Belgium","Web","Outdoors Shop","Personal Accessories","Binoculars","Seeker Extreme",2012,"Q3 2012",8757.21,51,0.45186652,8591.58233760045
+"24750","Belgium","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Ice",2012,"Q3 2012",8245.6,78,0.52995294,8592.63309379804
+"24764","Belgium","Web","Eyewear Store","Personal Accessories","Binoculars","Opera Vision",2012,"Q3 2012",8910,81,0.54186644,8592.74984448666
+"24902","Belgium","Sales visit","Outdoors Shop","Personal Accessories","Binoculars","Seeker Extreme",2012,"Q3 2012",8757.21,51,0.45186652,8591.58233760045
+"24965","Austria","Telephone","Outdoors Shop","Camping Equipment","Cooking Gear","TrailChef Utensils",2012,"Q3 2012",8391.6,444,0.47089947,8524.09881570468
+"25090","Austria","Web","Department Store","Personal Accessories","Eyewear","Hawk Eye",2012,"Q3 2012",8221.5,203,0.39135802,8597.49770582389
+"25115","Austria","Web","Warehouse Store","Personal Accessories","Binoculars","Seeker Mini",2012,"Q3 2012",8847.3,110,0.50267313,8593.87843447665
+"25132","Austria","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Carabiner",2012,"Q3 2012",8208,2160,0.48421053,8673.65807170055
+"25134","Austria","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Pulley",2012,"Q3 2012",8698.96,236,0.50217037,8598.78196339871
+"25267","Austria","Sales visit","Warehouse Store","Camping Equipment","Lanterns","EverGlow Single",2012,"Q3 2012",8360.95,247,0.46706056,8599.21004925698
+"25273","Austria","Sales visit","Sports Store","Camping Equipment","Lanterns","Firefly Extreme",2012,"Q3 2012",8788.5,175,0.44006372,8596.40803273009
+"25284","Italy","Fax","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Rechargeable Battery",2012,"Q3 2012",8310.96,1071,0.59407216,8631.27757173137
+"25556","Italy","Web","Eyewear Store","Personal Accessories","Eyewear","Fairway",2012,"Q3 2012",8463,420,0.3955335,8605.94267230076
+"25562","Italy","Web","Eyewear Store","Personal Accessories","Eyewear","Retro",2012,"Q3 2012",8457.75,135,0.44469274,8594.85135688182
+"25755","Spain","Web","Department Store","Personal Accessories","Eyewear","Fairway",2012,"Q3 2012",8402.55,417,0.39801489,8605.82592161214
+"25762","Spain","Web","Department Store","Personal Accessories","Knives","Bear Survival Edge",2012,"Q3 2012",8848.5,102,0.48126801,8593.567099307
+"25826","Spain","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2012,"Q3 2012",8802.36,499,0.51643991,8609.01710710109
+"25931","Spain","Web","Sports Store","Personal Accessories","Knives","Bear Edge",2012,"Q3 2012",8921.1,227,0.40127226,8598.43171133285
+"26006","United States","Fax","Outdoors Shop","Outdoor Protection","Sunscreen","Sun Shield",2012,"Q4 2012",8281.86,1423,0.5257732,8644.97631919616
+"26087","United States","Telephone","Warehouse Store","Outdoor Protection","Sunscreen","Sun Shelter Stick",2012,"Q4 2012",8846.4,1843,0.59166667,8661.32141560301
+"26113","United States","Telephone","Outdoors Shop","Mountaineering Equipment","Safety","Granite Signal Mirror",2012,"Q4 2012",8764.14,271,0.51422387,8600.14405476595
+"26120","United States","Telephone","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2012,"Q4 2012",8747.46,501,0.51145475,8609.0949408935
+"26125","United States","Telephone","Outdoors Shop","Personal Accessories","Watches","Venue",2012,"Q4 2012",8614,118,0.41178082,8594.18976964631
+"26166","United States","Telephone","Sports Store","Camping Equipment","Lanterns","Firefly Lite",2012,"Q4 2012",8354.39,583,0.52896022,8612.28612638246
+"26176","United States","Telephone","Sports Store","Personal Accessories","Eyewear","Bella",2012,"Q4 2012",8257.5,122,0.44630336,8594.34543723114
+"26213","United States","Web","Golf Shop","Personal Accessories","Knives","Max Gizmo",2012,"Q4 2012",8251.2,216,0.53895676,8598.00362547457
+"26651","United States","Sales visit","Outdoors Shop","Camping Equipment","Sleeping Bags","Hibernator Pad",2012,"Q4 2012",8595.74,218,0.51382196,8598.08145926699
+"26802","Canada","E-mail","Outdoors Shop","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q4 2012",8326.6,527,0.52531646,8610.10678019488
+"26877","Canada","E-mail","Sports Store","Personal Accessories","Knives","Bear Survival Edge",2012,"Q4 2012",8761.75,101,0.48126801,8593.52818241079
+"26957","Canada","Web","Department Store","Personal Accessories","Watches","Mountain Man Digital",2012,"Q4 2012",8523.02,209,0.50956351,8597.73120720113
+"27053","Canada","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q4 2012",8958.6,567,0.52531646,8611.66345604315
+"27073","Canada","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2012,"Q4 2012",8507.88,484,0.51474163,8608.43335365799
+"27094","Canada","Web","Outdoors Shop","Personal Accessories","Eyewear","Bella",2012,"Q4 2012",8842.5,131,0.44711111,8594.695689297
+"27108","Canada","Web","Outdoors Shop","Personal Accessories","Knives","Bear Edge",2012,"Q4 2012",8331.6,212,0.40127226,8597.84795788975
+"27149","Canada","Web","Eyewear Store","Personal Accessories","Eyewear","Trendi",2012,"Q4 2012",8953.4,178,0.39050863,8596.52478341872
+"27246","Canada","Web","Sports Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2012,"Q4 2012",8663.71,697,0.51729686,8510.77926965887
+"27275","Mexico","Web","Golf Shop","Personal Accessories","Watches","Lux",2012,"Q4 2012",8812.4,51,0.47226635,8591.58233760045
+"27332","Mexico","Web","Department Store","Personal Accessories","Watches","Legend",2012,"Q4 2012",8840,34,0.41530769,8590.92075036494
+"27341","Mexico","Web","Department Store","Personal Accessories","Eyewear","Maximus",2012,"Q4 2012",8925,105,0.52341176,8593.68384999562
+"27509","Mexico","Sales visit","Department Store","Personal Accessories","Eyewear","Polar Sun",2012,"Q4 2012",8674.91,144,0.56592057,8595.20160894769
+"27585","Mexico","Sales visit","Sports Store","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q4 2012",8437.2,534,0.52531646,8610.37919846833
+"27621","Mexico","Sales visit","Sports Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2012,"Q4 2012",8203.8,660,0.51729686,8509.33934449921
+"27629","Brazil","Web","Golf Shop","Personal Accessories","Watches","Kodiak",2012,"Q4 2012",8300.7,69,0.4325852,8592.28284173218
+"27686","Brazil","Web","Department Store","Personal Accessories","Eyewear","Bella",2012,"Q4 2012",8925,119,0.41746667,8594.22868654252
+"27815","Brazil","Web","Outdoors Shop","Personal Accessories","Knives","Bear Survival Edge",2012,"Q4 2012",8639.92,116,0.43228641,8594.11193585389
+"27816","Brazil","Web","Outdoors Shop","Personal Accessories","Knives","Max Gizmo",2012,"Q4 2012",8709.6,228,0.53866079,8598.47062822906
+"27897","Brazil","Web","Sports Store","Personal Accessories","Binoculars","Seeker Extreme",2012,"Q4 2012",8757.21,51,0.45186652,8591.58233760045
+"27980","Japan","E-mail","Department Store","Outdoor Protection","Sunscreen","Sun Shelter Stick",2012,"Q4 2012",8997.35,1847,0.59764597,8661.47708318783
+"28003","Japan","E-mail","Direct Marketing","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q4 2012",8516.2,539,0.52531646,8610.57378294936
+"28012","Japan","Web","Golf Shop","Personal Accessories","Watches","Mountain Man Combination",2012,"Q4 2012",8936.58,94,0.52666456,8593.25576413735
+"28098","Japan","Web","Department Store","Personal Accessories","Watches","Venue",2012,"Q4 2012",8468,116,0.41178082,8594.11193585389
+"28381","Singapore","Fax","Outdoors Shop","Personal Accessories","Watches","Mountain Man Deluxe",2012,"Q4 2012",8969.22,117,0.49126011,8594.1508527501
+"28623","Singapore","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2012,"Q4 2012",8290.8,470,0.51643991,8607.8885171111
+"28679","Singapore","Special","Outdoors Shop","Camping Equipment","Lanterns","Firefly Lite",2012,"Q4 2012",8497.69,593,0.52896022,8434.83547066759
+"28771","Korea","Web","Department Store","Camping Equipment","Lanterns","EverGlow Double",2012,"Q4 2012",8425.5,166,0.43356477,8596.05778066423
+"28945","Korea","Web","Sports Store","Personal Accessories","Knives","Bear Survival Edge",2012,"Q4 2012",8588.25,99,0.48126801,8593.45034861838
+"28973","Korea","Special","Sports Store","Camping Equipment","Lanterns","Firefly Lite",2012,"Q4 2012",8698.31,607,0.52896022,8435.38030721449
+"29062","China","Web","Department Store","Personal Accessories","Eyewear","Retro",2012,"Q4 2012",8771,140,0.44213887,8595.04594136286
+"29346","Australia","Telephone","Department Store","Camping Equipment","Lanterns","EverGlow Single",2012,"Q4 2012",8801,260,0.46706056,8599.71596890767
+"29380","Australia","Telephone","Outdoors Shop","Camping Equipment","Sleeping Bags","Hibernator Pad",2012,"Q4 2012",8714.03,221,0.51382196,8598.19820995561
+"29398","Australia","Telephone","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Belay",2012,"Q4 2012",8883,135,0.47613982,8594.85135688182
+"29507","Australia","Web","Department Store","Personal Accessories","Knives","Max Gizmo",2012,"Q4 2012",8251.2,216,0.53734487,8598.00362547457
+"29559","Australia","Web","Outdoors Shop","Personal Accessories","Eyewear","Bella",2012,"Q4 2012",8842.5,131,0.44711111,8594.695689297
+"29579","Australia","Web","Eyewear Store","Personal Accessories","Watches","Zodiak",2012,"Q4 2012",8848,79,0.41785714,8592.67201069424
+"29580","Australia","Web","Eyewear Store","Personal Accessories","Watches","Kodiak",2012,"Q4 2012",8970,69,0.47969231,8592.28284173218
+"29646","Australia","Sales visit","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Climbing Lamp",2012,"Q4 2012",8339.85,215,0.42768755,8597.96470857837
+"29667","Australia","Sales visit","Eyewear Store","Personal Accessories","Eyewear","Polar Ice",2012,"Q4 2012",8742.8,82,0.53395022,8592.78876138286
+"29840","Netherlands","Web","Direct Marketing","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q4 2012",8784.8,556,0.52531646,8611.23537018488
+"29846","Netherlands","Web","Direct Marketing","Outdoor Protection","Sunscreen","Sun Shield",2012,"Q4 2012",8276.04,1422,0.5257732,8644.93740229995
+"29848","Netherlands","Web","Warehouse Store","Camping Equipment","Cooking Gear","TrailChef Canteen",2012,"Q4 2012",8334.9,686,0.45514403,8533.51670458672
+"29898","Netherlands","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Carabiner",2012,"Q4 2012",8671.6,2282,0.48421053,8678.40593303778
+"29971","Netherlands","Web","Eyewear Store","Personal Accessories","Eyewear","Hawk Eye",2012,"Q4 2012",8910,220,0.43358025,8598.1592930594
+"30003","Netherlands","Web","Sports Store","Personal Accessories","Watches","Mountain Man Combination",2012,"Q4 2012",8404.38,88,0.52881712,8593.02226276011
+"30030","Netherlands","Web","Sports Store","Personal Accessories","Knives","Bear Edge",2012,"Q4 2012",8960.4,228,0.40127226,8598.47062822906
+"30095","Sweden","Telephone","Outdoors Shop","Personal Accessories","Binoculars","Seeker Extreme",2012,"Q4 2012",8242.08,48,0.45186652,8591.46558691183
+"30180","Sweden","Web","Department Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2012,"Q4 2012",8413.2,684,0.51219512,8510.27335000818
+"30288","Sweden","Web","Sports Store","Personal Accessories","Watches","Mountain Man Combination",2012,"Q4 2012",8452.4,88,0.53149401,8593.02226276011
+"30292","Sweden","Web","Sports Store","Personal Accessories","Watches","Lux",2012,"Q4 2012",8694.4,52,0.47488038,8591.62125449666
+"30300","Sweden","Web","Sports Store","Personal Accessories","Eyewear","Bella",2012,"Q4 2012",8910,132,0.44704377,8594.7346061932
+"30307","Sweden","Web","Sports Store","Personal Accessories","Eyewear","Trendi",2012,"Q4 2012",8299.5,165,0.39264414,8596.01886376803
+"30350","Denmark","Web","Golf Shop","Personal Accessories","Eyewear","Maximus",2012,"Q4 2012",8800,110,0.4860625,8593.87843447665
+"30356","Denmark","Web","Golf Shop","Personal Accessories","Binoculars","Ranger Vision",2012,"Q4 2012",8960,56,0.43770647,8591.77692208149
+"30463","Denmark","Web","Outdoors Shop","Personal Accessories","Eyewear","Fairway",2012,"Q4 2012",8301.8,412,0.39635742,8605.6313371311
+"30650","Finland","Web","Direct Marketing","Outdoor Protection","Sunscreen","Sun Shield",2012,"Q4 2012",8835.84,1534,0.52083333,8649.29609467511
+"30652","Finland","Web","Warehouse Store","Camping Equipment","Cooking Gear","TrailChef Canteen",2012,"Q4 2012",8881.65,731,0.45514403,8535.26796491603
+"30771","Finland","Web","Eyewear Store","Personal Accessories","Binoculars","Opera Vision",2012,"Q4 2012",8800,80,0.54272727,8592.71092759045
+"30772","Finland","Web","Eyewear Store","Personal Accessories","Binoculars","Ranger Vision",2012,"Q4 2012",8800,55,0.5340625,8591.73800518528
+"30892","Finland","Sales visit","Outdoors Shop","Outdoor Protection","Sunscreen","Sun Shield",2012,"Q4 2012",8473.92,1456,0.5257732,8646.26057677098
+"30928","France","Fax","Outdoors Shop","Personal Accessories","Knives","Bear Survival Edge",2012,"Q4 2012",8501.5,98,0.48126801,8593.41143172217
+"30947","France","Fax","Sports Store","Personal Accessories","Eyewear","Polar Sun",2012,"Q4 2012",8935.69,150,0.56102998,8595.43511032492
+"30951","France","Fax","Sports Store","Personal Accessories","Binoculars","Seeker Mini",2012,"Q4 2012",8364.72,104,0.50267313,8593.64493309941
+"30973","France","Telephone","Department Store","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q4 2012",8852.24,566,0.52046036,8611.62453914695
+"31020","France","Telephone","Warehouse Store","Camping Equipment","Sleeping Bags","Hibernator Pad",2012,"Q4 2012",8753.46,222,0.51382196,8598.23712685181
+"31028","France","Telephone","Warehouse Store","Outdoor Protection","Sunscreen","Sun Shield",2012,"Q4 2012",8671.8,1490,0.5257732,8647.58375124201
+"31207","France","Web","Outdoors Shop","Camping Equipment","Lanterns","Flicker Lantern",2012,"Q4 2012",8441.92,248,0.54112808,8599.24896615319
+"31393","France","Web","Sports Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2012,"Q4 2012",8314.8,676,0.51219512,8509.96201483852
+"31417","France","Sales visit","Department Store","Camping Equipment","Lanterns","EverGlow Single",2012,"Q4 2012",8327.1,246,0.46706056,8599.17113236078
+"31421","France","Sales visit","Department Store","Personal Accessories","Watches","Mountain Man Deluxe",2012,"Q4 2012",8533.61,109,0.50185209,8593.83951758045
+"31456","Germany","Mail","Warehouse Store","Outdoor Protection","Sunscreen","Sun Shelter Stick",2012,"Q4 2012",8227.75,1724,0.58931178,8656.6903049544
+"31485","Germany","E-mail","Department Store","Personal Accessories","Watches","Mountain Man Deluxe",2012,"Q4 2012",8815.9,115,0.49126011,8594.07301895769
+"31529","Germany","E-mail","Sports Store","Camping Equipment","Lanterns","Firefly Lite",2012,"Q4 2012",8320.25,575,0.53351762,8611.97479121281
+"31640","Germany","Web","Department Store","Personal Accessories","Binoculars","Opera Vision",2012,"Q4 2012",8910,81,0.54163636,8592.74984448666
+"31676","Germany","Web","Warehouse Store","Outdoor Protection","Sunscreen","Sun Shield",2012,"Q4 2012",8719.44,1546,0.5106383,8649.76309742959
+"31793","Germany","Web","Eyewear Store","Personal Accessories","Eyewear","Trendi",2012,"Q4 2012",8651.6,172,0.39228351,8596.29128204147
+"31795","Germany","Web","Eyewear Store","Personal Accessories","Eyewear","Hawk Eye",2012,"Q4 2012",8343,206,0.40195373,8597.61445651251
+"31868","Germany","Web","Sports Store","Personal Accessories","Binoculars","Seeker Extreme",2012,"Q4 2012",8928.92,52,0.45186652,8591.62125449666
+"31935","Germany","Sales visit","Outdoors Shop","Personal Accessories","Knives","Bear Survival Edge",2012,"Q4 2012",8588.25,99,0.48126801,8593.45034861838
+"31947","Switzerland","Web","Golf Shop","Personal Accessories","Eyewear","Trendi",2012,"Q4 2012",8651.6,172,0.39154838,8596.29128204147
+"32134","Switzerland","Web","Outdoors Shop","Personal Accessories","Eyewear","Hawk Eye",2012,"Q4 2012",8343,206,0.39061728,8597.61445651251
+"32146","Switzerland","Web","Eyewear Store","Personal Accessories","Watches","TX",2012,"Q4 2012",8836,47,0.45099366,8591.42667001563
+"32243","Switzerland","Sales visit","Sports Store","Personal Accessories","Navigation","Glacier Deluxe",2012,"Q4 2012",8232.4,88,0.39893105,8593.02226276011
+"32268","United Kingdom","Fax","Outdoors Shop","Personal Accessories","Eyewear","Retro",2012,"Q4 2012",8332.45,133,0.44405427,8594.77352308941
+"32383","United Kingdom","Web","Department Store","Outdoor Protection","Sunscreen","Sun Shield",2012,"Q4 2012",8766.72,1522,0.52083333,8648.82909192063
+"32446","United Kingdom","Web","Outdoors Shop","Camping Equipment","Lanterns","Flicker Lantern",2012,"Q4 2012",8816.36,259,0.54112808,8599.67705201146
+"32454","United Kingdom","Web","Outdoors Shop","Mountaineering Equipment","Safety","Granite Signal Mirror",2012,"Q4 2012",8547,259,0.52393939,8599.67705201146
+"32533","United Kingdom","Web","Eyewear Store","Personal Accessories","Eyewear","Maximus",2012,"Q4 2012",8240,103,0.485875,8593.60601620321
+"32536","United Kingdom","Web","Eyewear Store","Personal Accessories","Eyewear","Hawk Eye",2012,"Q4 2012",8788.5,217,0.39061728,8598.04254237078
+"32612","United Kingdom","Web","Sports Store","Personal Accessories","Binoculars","Opera Vision",2012,"Q4 2012",8910,81,0.54163636,8592.74984448666
+"32624","United Kingdom","Web","Sports Store","Outdoor Protection","Sunscreen","Sun Shelter Stick",2012,"Q4 2012",8876.05,1824,0.59722624,8660.58199457508
+"32755","Belgium","Web","Golf Shop","Golf Equipment","Golf Accessories","Course Pro Umbrella",2012,"Q4 2012",8228.66,662,0.51729686,8509.41717829163
+"32784","Belgium","Web","Department Store","Personal Accessories","Watches","Mountain Man Deluxe",2012,"Q4 2012",8533.61,109,0.50185209,8593.83951758045
+"32842","Belgium","Web","Warehouse Store","Outdoor Protection","Sunscreen","Sun Shield",2012,"Q4 2012",8807.04,1529,0.52083333,8649.10151019408
+"32946","Belgium","Web","Sports Store","Camping Equipment","Sleeping Bags","Hibernator Pad",2012,"Q4 2012",8635.17,219,0.51382196,8598.12037616319
+"33103","Austria","Telephone","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Belay",2012,"Q4 2012",8356.6,127,0.47613982,8594.54002171217
+"33112","Austria","Telephone","Outdoors Shop","Mountaineering Equipment","Tools","Granite Grip",2012,"Q4 2012",8624,440,0.49540816,8606.72101022489
+"33119","Austria","Telephone","Outdoors Shop","Personal Accessories","Eyewear","Polar Sun",2012,"Q4 2012",8564.76,139,0.57560399,8595.00702446665
+"33350","Austria","Web","Sports Store","Personal Accessories","Watches","Mountain Man Extreme",2012,"Q4 2012",8366.21,29,0.59724774,8590.72616588391
+"33382","Austria","Web","Sports Store","Personal Accessories","Binoculars","Seeker Mini",2012,"Q4 2012",8871.12,108,0.51302654,8593.80060068424
+"33569","Italy","Web","Department Store","Personal Accessories","Binoculars","Ranger Vision",2012,"Q4 2012",8640,54,0.5340625,8591.69908828908
+"33590","Italy","Web","Direct Marketing","Camping Equipment","Lanterns","Firefly Mapreader",2012,"Q4 2012",8374,530,0.52531646,8610.2235308835
+"33650","Italy","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Carabiner",2012,"Q4 2012",8888.2,2339,0.48421053,8680.62419612157
+"33868","Spain","Web","Golf Shop","Personal Accessories","Knives","Bear Edge",2012,"Q4 2012",8253,210,0.40127226,8597.77012409733
+"33879","Spain","Web","Department Store","Camping Equipment","Cooking Gear","TrailChef Canteen",2012,"Q4 2012",8808.75,725,0.45514403,8535.03446353879
+"33967","Spain","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Lite",2012,"Q4 2012",8855.64,612,0.53351762,8613.41471637246
+"33974","Spain","Web","Outdoors Shop","Camping Equipment","Lanterns","Flicker Lantern",2012,"Q4 2012",8850.4,260,0.54112808,8599.71596890767
+"33989","Spain","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2012,"Q4 2012",8431.92,478,0.51643991,8608.19985228075
+"33998","Spain","Web","Outdoors Shop","Personal Accessories","Watches","Mountain Man Extreme",2012,"Q4 2012",8896.15,31,0.59511811,8590.80399967632
+"34081","Spain","Web","Sports Store","Personal Accessories","Eyewear","Polar Ice",2012,"Q4 2012",8705.4,81,0.53765594,8592.74984448666
+"34183","United States","Telephone","Outdoors Shop","Personal Accessories","Watches","Venue",2013,"Q1 2013",8614,118,0.41785001,8594.18976964631
+"34226","United States","Web","Golf Shop","Personal Accessories","Eyewear","Bella",2013,"Q1 2013",8227.5,111,0.41873595,8593.91735137286
+"34455","United States","Web","Outdoors Shop","Camping Equipment","Packs","Canyon Mule Carryall",2013,"Q1 2013",8519.26,122,0.41028211,8594.34543723114
+"34465","United States","Web","Outdoors Shop","Camping Equipment","Lanterns","EverGlow Lamp",2013,"Q1 2013",8315.19,299,0.54009349,8601.23372785974
+"34466","United States","Web","Outdoors Shop","Camping Equipment","Lanterns","Flicker Lantern",2013,"Q1 2013",8253.6,240,0.5457982,8598.93763098354
+"34538","United States","Web","Eyewear Store","Personal Accessories","Watches","Mountain Man Digital",2013,"Q1 2013",8280.39,199,0.51934631,8597.34203823906
+"34703","United States","Sales visit","Department Store","Camping Equipment","Lanterns","Flicker Lantern",2013,"Q1 2013",8219.21,239,0.5457982,8598.89871408733
+"34962","Canada","Web","Department Store","Personal Accessories","Knives","Bear Survival Edge",2013,"Q1 2013",8592.64,98,0.46395985,8593.41143172217
+"35294","Canada","Sales visit","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2013,"Q1 2013",8442,469,0.52611111,8607.84960021489
+"35353","Mexico","Web","Department Store","Personal Accessories","Watches","Mountain Man Deluxe",2013,"Q1 2013",8599.17,111,0.49657932,8593.91735137286
+"35520","Mexico","Web","Sports Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2013,"Q1 2013",8771.1,507,0.51156069,8609.32844227075
+"35540","Mexico","Web","Sports Store","Personal Accessories","Watches","Lux",2013,"Q1 2013",8459.6,48,0.47510284,8591.46558691183
+"35543","Mexico","Web","Sports Store","Personal Accessories","Watches","Kodiak",2013,"Q1 2013",8836.2,72,0.44811571,8592.3995924208
+"35651","Mexico","Sales visit","Sports Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2013,"Q1 2013",8524.95,483,0.52124646,8608.39443676178
+"35760","Brazil","Web","Department Store","Personal Accessories","Eyewear","Trendi",2013,"Q1 2013",8701.9,173,0.39582505,8596.33019893768
+"36059","Japan","Mail","Sports Store","Personal Accessories","Binoculars","Seeker Extreme",2013,"Q1 2013",8677,50,0.45764665,8591.54342070425
+"36096","Japan","E-mail","Department Store","Personal Accessories","Navigation","Glacier Deluxe",2013,"Q1 2013",8520.66,93,0.42152368,8593.21684724114
+"36154","Japan","Web","Golf Shop","Personal Accessories","Binoculars","Seeker Mini",2013,"Q1 2013",8453.12,104,0.50787402,8593.64493309941
+"36155","Japan","Web","Golf Shop","Personal Accessories","Binoculars","Opera Vision",2013,"Q1 2013",8250,75,0.54381818,8592.51634310942
+"36173","Japan","Web","Golf Shop","Golf Equipment","Putters","Blue Steel Putter",2013,"Q1 2013",8253.75,93,0.53577465,8593.21684724114
+"36340","Japan","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Sports",2013,"Q1 2013",8240.56,68,0.51413011,8592.24392483597
+"36554","Singapore","Fax","Outdoors Shop","Personal Accessories","Eyewear","Polar Sports",2013,"Q1 2013",8840.83,75,0.50049939,8592.51634310942
+"36573","Singapore","Web","Golf Shop","Personal Accessories","Eyewear","Maximus",2013,"Q1 2013",8667,102,0.51896389,8593.567099307
+"36577","Singapore","Web","Golf Shop","Personal Accessories","Eyewear","Retro",2013,"Q1 2013",8645.7,138,0.44958766,8594.96810757044
+"36605","Singapore","Web","Department Store","Camping Equipment","Tents","Star Peg",2013,"Q1 2013",8767.44,4428,0.49494949,8561.0457045641
+"36758","Singapore","Web","Outdoors Shop","Camping Equipment","Cooking Gear","TrailChef Utensils",2013,"Q1 2013",8275.41,429,0.48159668,8523.51506226158
+"36897","Korea","Web","Golf Shop","Personal Accessories","Eyewear","Dante",2013,"Q1 2013",8441.55,185,0.44444444,8596.79720169216
+"36901","Korea","Web","Golf Shop","Personal Accessories","Eyewear","Trendi",2013,"Q1 2013",8249.2,164,0.39582505,8595.97994687182
+"36967","Korea","Web","Department Store","Camping Equipment","Lanterns","EverGlow Double",2013,"Q1 2013",8656.9,166,0.44870566,8596.05778066423
+"37106","Korea","Web","Sports Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2013,"Q1 2013",8489.65,481,0.52124646,8608.31660296937
+"37112","Korea","Web","Sports Store","Camping Equipment","Lanterns","Firefly Lite",2013,"Q1 2013",8595.18,594,0.53351762,8612.71421224074
+"37215","China","Web","Golf Shop","Personal Accessories","Knives","Max Gizmo",2013,"Q1 2013",8545.5,211,0.57808671,8597.80904099354
+"37316","China","Web","Outdoors Shop","Camping Equipment","Lanterns","EverGlow Double",2013,"Q1 2013",8917.65,171,0.44870566,8596.25236514527
+"37664","Australia","Web","Department Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2013,"Q1 2013",8496.35,706,0.50143297,8511.12952172473
+"37672","Australia","Web","Warehouse Store","Camping Equipment","Lanterns","Firefly Mapreader",2013,"Q1 2013",8267.28,518,0.53007519,8609.75652812902
+"37679","Australia","Web","Warehouse Store","Personal Accessories","Knives","Bear Edge",2013,"Q1 2013",8418.52,212,0.40745404,8597.84795788975
+"37719","Australia","Web","Outdoors Shop","Camping Equipment","Lanterns","Flicker Lantern",2013,"Q1 2013",8731.38,252,0.54918466,8599.40463373802
+"37946","Netherlands","Web","Department Store","Personal Accessories","Watches","Lux",2013,"Q1 2013",8694.4,52,0.47954545,8591.62125449666
+"37952","Netherlands","Web","Department Store","Personal Accessories","Eyewear","Polar Sports",2013,"Q1 2013",8619.95,73,0.50136138,8592.438509317
+"37995","Netherlands","Web","Direct Marketing","Camping Equipment","Lanterns","Firefly Lite",2013,"Q1 2013",8609.65,595,0.53351762,8612.75312913694
+"38015","Netherlands","Web","Warehouse Store","Camping Equipment","Lanterns","Firefly Extreme",2013,"Q1 2013",8770.68,162,0.44052457,8595.90211307941
+"38052","Netherlands","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2013,"Q1 2013",8586,477,0.52611111,8608.16093538454
+"38074","Netherlands","Web","Outdoors Shop","Personal Accessories","Eyewear","Bella",2013,"Q1 2013",8775,130,0.4517037,8594.65677240079
+"38127","Netherlands","Web","Eyewear Store","Personal Accessories","Knives","Pocket Gizmo",2013,"Q1 2013",8901,690,0.5935423,8616.45023427659
+"38254","Netherlands","Sales visit","Outdoors Shop","Personal Accessories","Watches","Mountain Man Deluxe",2013,"Q1 2013",8831.58,114,0.49657932,8594.03410206148
+"38316","Sweden","Telephone","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Rechargeable Battery",2013,"Q1 2013",8882.72,1133,0.59821429,8633.69041929619
+"38351","Sweden","Web","Golf Shop","Personal Accessories","Watches","TX",2013,"Q1 2013",8272,44,0.45028288,8591.30991932701
+"38352","Sweden","Web","Golf Shop","Personal Accessories","Watches","Legend",2013,"Q1 2013",8253.8,31,0.43502871,8590.80399967632
+"38485","Sweden","Web","Sports Store","Camping Equipment","Lanterns","Firefly Mapreader",2013,"Q1 2013",8762.04,549,0.53007519,8610.96295191143
+"38574","Denmark","Web","Golf Shop","Personal Accessories","Eyewear","Trendi",2013,"Q1 2013",8802.5,175,0.3934689,8596.40803273009
+"38609","Denmark","Web","Department Store","Personal Accessories","Eyewear","Polar Sports",2013,"Q1 2013",8624.88,73,0.5016464,8592.438509317
+"38709","Denmark","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Sports",2013,"Q1 2013",8841.95,73,0.51388099,8592.438509317
+"38731","Denmark","Web","Sports Store","Camping Equipment","Cooking Gear","TrailChef Canteen",2013,"Q1 2013",8326.62,831,0.47704591,8539.1596545367
+"38753","Denmark","Web","Sports Store","Personal Accessories","Watches","Lux",2013,"Q1 2013",8360,50,0.47269856,8591.54342070425
+"38774","Denmark","Web","Sports Store","Personal Accessories","Binoculars","Opera Vision",2013,"Q1 2013",8910,81,0.54,8592.74984448666
+"38816","Denmark","Sales visit","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Climbing Lamp",2013,"Q1 2013",8504.23,217,0.44628732,8598.04254237078
+"38841","Finland","Web","Department Store","Personal Accessories","Watches","Venue",2013,"Q1 2013",8833,121,0.42082192,8594.30652033493
+"38868","Finland","Web","Department Store","Personal Accessories","Binoculars","Ranger Vision",2013,"Q1 2013",8985.6,52,0.44444444,8591.62125449666
+"38996","Finland","Web","Eyewear Store","Personal Accessories","Watches","Lux",2013,"Q1 2013",8527.2,51,0.47954545,8591.58233760045
+"39006","Finland","Web","Eyewear Store","Personal Accessories","Eyewear","Bella",2013,"Q1 2013",8707.5,129,0.44577778,8594.61785550458
+"39011","Finland","Web","Eyewear Store","Personal Accessories","Eyewear","Inferno",2013,"Q1 2013",8580,132,0.39215385,8594.7346061932
+"39037","Finland","Web","Sports Store","Camping Equipment","Tents","Star Peg",2013,"Q1 2013",8579.28,4341,0.49401348,8557.6599345941
+"39137","France","Fax","Sports Store","Camping Equipment","Lanterns","Firefly Mapreader",2013,"Q1 2013",8921.64,559,0.53007519,8611.3521208735
+"39268","France","Web","Golf Shop","Personal Accessories","Eyewear","Polar Sun",2013,"Q1 2013",8224.72,133,0.57713454,8594.77352308941
+"39460","France","Web","Outdoors Shop","Personal Accessories","Watches","Mountain Man Deluxe",2013,"Q1 2013",8241.49,102,0.51732029,8593.567099307
+"39522","France","Web","Eyewear Store","Personal Accessories","Eyewear","Fairway",2013,"Q1 2013",8342.1,414,0.40411167,8605.70917092352
+"39693","France","Sales visit","Sports Store","Camping Equipment","Sleeping Bags","Hibernator Extreme",2013,"Q1 2013",8219.34,31,0.43426115,8590.80399967632
+"39750","Germany","E-mail","Sports Store","Camping Equipment","Cooking Gear","TrailChef Canteen",2013,"Q1 2013",8617.2,860,0.47704591,8540.2882445267
+"39757","Germany","E-mail","Sports Store","Camping Equipment","Sleeping Bags","Hibernator Pad",2013,"Q1 2013",8645.28,217,0.50401606,8598.04254237078
+"39775","Germany","E-mail","Sports Store","Personal Accessories","Knives","Bear Survival Edge",2013,"Q1 2013",8329.6,95,0.46395985,8593.29468103355
+"39869","Germany","Web","Department Store","Personal Accessories","Watches","Lux",2013,"Q1 2013",8255.2,47,0.47228898,8591.42667001563
+"39992","Germany","Web","Outdoors Shop","Camping Equipment","Lanterns","EverGlow Double",2013,"Q1 2013",8917.65,171,0.44870566,8596.25236514527
+"40073","Germany","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Wave",2013,"Q1 2013",8892.66,93,0.56996444,8593.21684724114
+"40111","Germany","Web","Sports Store","Camping Equipment","Tents","Star Peg",2013,"Q1 2013",8608.6,4279,0.50293892,8555.24708702929
+"40223","Switzerland","Web","Golf Shop","Personal Accessories","Knives","Bear Edge",2013,"Q1 2013",8378.81,211,0.40745404,8597.80904099354
+"40282","Switzerland","Web","Department Store","Personal Accessories","Eyewear","Bella",2013,"Q1 2013",8370,124,0.44577778,8594.42327102355
+"40336","Switzerland","Web","Equipment Rental Store","Camping Equipment","Sleeping Bags","Hibernator Pad",2013,"Q1 2013",8844.48,222,0.50401606,8598.23712685181
+"40396","Switzerland","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Sports",2013,"Q1 2013",8359.58,69,0.51400429,8592.28284173218
+"40409","Switzerland","Web","Outdoors Shop","Personal Accessories","Knives","Max Gizmo",2013,"Q1 2013",8881.8,220,0.56173523,8598.1592930594
+"40433","Switzerland","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Ice",2013,"Q1 2013",8813.2,82,0.53767304,8592.78876138286
+"40505","Switzerland","Web","Sports Store","Golf Equipment","Woods","Hailstorm Titanium Woods Set",2013,"Q1 2013",8897.56,7,0.51301256,8589.86999416736
+"40507","Switzerland","Web","Sports Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2013,"Q1 2013",8973.25,715,0.52191235,8511.47977379059
+"40572","Switzerland","Sales visit","Sports Store","Personal Accessories","Knives","Bear Survival Edge",2013,"Q1 2013",8592.64,98,0.46395985,8593.41143172217
+"40752","United Kingdom","Web","Direct Marketing","Camping Equipment","Packs","Canyon Mule Weekender Backpack",2013,"Q1 2013",8290.81,29,0.41704852,8590.72616588391
+"40813","United Kingdom","Web","Outdoors Shop","Camping Equipment","Packs","Canyon Mule Weekender Backpack",2013,"Q1 2013",8290.81,29,0.41704852,8590.72616588391
+"41047","United Kingdom","Sales visit","Outdoors Shop","Camping Equipment","Lanterns","Firefly Extreme",2013,"Q1 2013",8770.68,162,0.44052457,8595.90211307941
+"41060","United Kingdom","Sales visit","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2013,"Q1 2013",8694,483,0.52611111,8608.39443676178
+"41183","Belgium","Web","Department Store","Camping Equipment","Sleeping Bags","Hibernator Pad",2013,"Q1 2013",8884.32,223,0.50401606,8598.27604374802
+"41261","Belgium","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly 2",2013,"Q1 2013",8566.81,313,0.39093898,8601.77856440663
+"41332","Belgium","Web","Eyewear Store","Personal Accessories","Navigation","Glacier Deluxe",2013,"Q1 2013",8887.14,97,0.42152368,8593.37251482597
+"41337","Belgium","Web","Sports Store","Camping Equipment","Cooking Gear","TrailChef Canteen",2013,"Q1 2013",8376.72,836,0.47704591,8539.35423901774
+"41404","Belgium","Web","Sports Store","Personal Accessories","Knives","Bear Survival Edge",2013,"Q1 2013",8855.68,101,0.46395985,8593.52818241079
+"41478","Austria","Telephone","Outdoors Shop","Camping Equipment","Lanterns","Firefly Extreme",2013,"Q1 2013",8283.42,153,0.44052457,8595.55186101355
+"41579","Austria","Web","Department Store","Personal Accessories","Watches","Lux",2013,"Q1 2013",8261.6,46,0.47282851,8591.38775311942
+"41591","Austria","Web","Department Store","Personal Accessories","Eyewear","Maximus",2013,"Q1 2013",8670,102,0.52317647,8593.567099307
+"41594","Austria","Web","Department Store","Personal Accessories","Eyewear","Hawk Eye",2013,"Q1 2013",8302.5,205,0.39753086,8597.5755396163
+"41659","Austria","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2013,"Q1 2013",8910,495,0.52611111,8608.86143951627
+"41675","Austria","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Sun",2013,"Q1 2013",8663.64,141,0.57441099,8595.08485825906
+"41679","Austria","Web","Outdoors Shop","Personal Accessories","Eyewear","Bella",2013,"Q1 2013",8775,130,0.4517037,8594.65677240079
+"41857","Italy","E-mail","Sports Store","Camping Equipment","Lanterns","Firefly Lite",2013,"Q1 2013",8262.37,571,0.53351762,8611.81912362798
+"41897","Italy","Web","Golf Shop","Personal Accessories","Eyewear","Bella",2013,"Q1 2013",8775,130,0.45136524,8594.65677240079
+"42046","Italy","Web","Outdoors Shop","Camping Equipment","Cooking Gear","TrailChef Utensils",2013,"Q1 2013",8410.44,436,0.48159668,8523.78748053503
+"42100","Italy","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Sun",2013,"Q1 2013",8293.84,135,0.57435277,8594.85135688182
+"42239","Spain","Fax","Sports Store","Personal Accessories","Eyewear","Polar Sports",2013,"Q1 2013",8590.57,73,0.49965602,8592.438509317
+"42352","Spain","Web","Department Store","Personal Accessories","Binoculars","Opera Vision",2013,"Q1 2013",8360,76,0.54,8592.55526000562
+"42588","United States","Fax","Sports Store","Camping Equipment","Cooking Gear","TrailChef Utensils",2013,"Q2 2013",8260.98,714,0.43820225,8534.60637768051
+"42601","United States","Fax","Sports Store","Personal Accessories","Knives","Bear Survival Edge",2013,"Q2 2013",8417.28,96,0.46395985,8593.33359792976
+"42705","United States","Web","Department Store","Camping Equipment","Lanterns","Firefly Lite",2013,"Q2 2013",8479.42,586,0.53351762,8612.40287707108
+"42807","United States","Web","Direct Marketing","Outdoor Protection","Sunscreen","Sun Shield",2013,"Q2 2013",8310,1385,0.54,8643.4974771403
+"43265","Canada","E-mail","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Rechargeable Battery",2013,"Q2 2013",8992.48,1147,0.59821429,8634.23525584309
+"43383","Canada","Web","Department Store","Camping Equipment","Tents","Star Peg",2013,"Q2 2013",8807.04,4448,0.49494949,8561.82404248823
+"43501","Canada","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Extreme",2013,"Q2 2013",8608.26,159,0.44052457,8595.78536239079
+"43577","Canada","Web","Eyewear Store","Personal Accessories","Watches","Venue",2013,"Q2 2013",8687,119,0.42136986,8594.22868654252
+"43633","Canada","Web","Sports Store","Camping Equipment","Lanterns","Firefly Extreme",2013,"Q2 2013",8445.84,156,0.44052457,8595.66861170217
+"43774","Mexico","Web","Golf Shop","Personal Accessories","Eyewear","Polar Sun",2013,"Q2 2013",8348.4,135,0.57713454,8594.85135688182
+"43828","Mexico","Web","Department Store","Personal Accessories","Eyewear","Fairway",2013,"Q2 2013",8805.55,437,0.40248139,8606.60425953627
+"43835","Mexico","Web","Department Store","Personal Accessories","Knives","Pocket Gizmo",2013,"Q2 2013",8836.5,685,0.59069767,8616.25564979555
+"43965","Mexico","Web","Outdoors Shop","Personal Accessories","Knives","Pocket Gizmo",2013,"Q2 2013",8333.4,646,0.59069767,8614.73789084349
+"43998","Mexico","Web","Eyewear Store","Personal Accessories","Eyewear","Trendi",2013,"Q2 2013",8953.4,178,0.39960239,8596.52478341872
+"44040","Mexico","Web","Sports Store","Personal Accessories","Watches","Sam",2013,"Q2 2013",8306.5,185,0.39064588,8596.79720169216
+"44095","Mexico","Sales visit","Outdoors Shop","Camping Equipment","Lanterns","Firefly Extreme",2013,"Q2 2013",8554.12,158,0.44052457,8595.74644549458
+"44111","Mexico","Sales visit","Outdoors Shop","Personal Accessories","Eyewear","Polar Ice",2013,"Q2 2013",8360,80,0.52449761,8592.71092759045
+"44139","Brazil","Web","Golf Shop","Personal Accessories","Eyewear","Inferno",2013,"Q2 2013",8450,130,0.39492308,8594.65677240079
+"44207","Brazil","Web","Department Store","Personal Accessories","Binoculars","Seeker Mini",2013,"Q2 2013",8534.4,105,0.50787402,8593.68384999562
+"44276","Brazil","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly 2",2013,"Q2 2013",8621.55,315,0.39093898,8601.85639819904
+"44366","Brazil","Web","Sports Store","Camping Equipment","Lanterns","Firefly Mapreader",2013,"Q2 2013",8410.92,527,0.53007519,8610.10678019488
+"44585","Japan","Web","Department Store","Personal Accessories","Watches","Mountain Man Combination",2013,"Q2 2013",8932.65,93,0.53149401,8593.21684724114
+"44590","Japan","Web","Department Store","Personal Accessories","Watches","Kodiak",2013,"Q2 2013",8421,70,0.44201401,8592.32175862838
+"44712","Japan","Web","Outdoors Shop","Personal Accessories","Watches","Mountain Man Deluxe",2013,"Q2 2013",8986.52,116,0.49657932,8594.11193585389
+"44785","Japan","Web","Eyewear Store","Personal Accessories","Knives","Max Gizmo",2013,"Q2 2013",8412.6,208,0.53746048,8597.69229030492
+"44805","Japan","Web","Sports Store","Camping Equipment","Tents","Star Peg",2013,"Q2 2013",8527.86,4307,0.49494949,8556.33676012307
+"44832","Japan","Web","Sports Store","Personal Accessories","Eyewear","Polar Ice",2013,"Q2 2013",8349,78,0.53577434,8592.63309379804
+"44834","Japan","Web","Sports Store","Personal Accessories","Eyewear","Polar Wave",2013,"Q2 2013",8223.32,86,0.56996444,8592.94442896769
+"44835","Japan","Web","Sports Store","Personal Accessories","Eyewear","Polar Extreme",2013,"Q2 2013",8304.8,56,0.5111261,8591.77692208149
+"44892","Japan","Sales visit","Sports Store","Personal Accessories","Knives","Bear Edge",2013,"Q2 2013",8617.07,217,0.40745404,8598.04254237078
+"44899","Singapore","Fax","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Climbing Lamp",2013,"Q2 2013",8856.94,226,0.44628732,8598.39279443664
+"44921","Singapore","Web","Golf Shop","Personal Accessories","Watches","Venue",2013,"Q2 2013",8395,115,0.41753425,8594.07301895769
+"44976","Singapore","Web","Department Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2013,"Q2 2013",8234.8,476,0.51156069,8608.12201848834
+"45080","Singapore","Web","Warehouse Store","Personal Accessories","Eyewear","Polar Sports",2013,"Q2 2013",8393.04,72,0.49489577,8592.3995924208
+"45244","Korea","Web","Golf Shop","Personal Accessories","Watches","Lux",2013,"Q2 2013",8441.2,47,0.47060134,8591.42667001563
+"45294","Korea","Web","Department Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2013,"Q2 2013",8390.5,485,0.51156069,8608.4722705542
+"45752","China","Web","Outdoors Shop","Outdoor Protection","Insect Repellents","BugShield Extreme",2013,"Q2 2013",8794.52,1529,0.579263,8649.10151019408
+"46089","Australia","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2013,"Q2 2013",8370,465,0.52611111,8607.69393263006
+"46224","Netherlands","Mail","Eyewear Store","Personal Accessories","Watches","Mountain Man Deluxe",2013,"Q2 2013",8424.78,106,0.50930469,8593.72276689183
+"46399","Netherlands","Web","Outdoors Shop","Mountaineering Equipment","Safety","Granite Signal Mirror",2013,"Q2 2013",8976,272,0.52393939,8600.18297166215
+"46425","Netherlands","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Sports",2013,"Q2 2013",8660.25,71,0.51727952,8592.36067552459
+"46509","Netherlands","Web","Sports Store","Personal Accessories","Watches","Mountain Man Digital",2013,"Q2 2013",8556.94,208,0.5138449,8597.69229030492
+"46511","Netherlands","Web","Sports Store","Personal Accessories","Watches","Venue",2013,"Q2 2013",8833,121,0.42136986,8594.30652033493
+"46601","Netherlands","Sales visit","Outdoors Shop","Personal Accessories","Watches","Mountain Man Deluxe",2013,"Q2 2013",8366.76,108,0.49657932,8593.80060068424
+"46700","Sweden","Web","Department Store","Personal Accessories","Watches","Sam",2013,"Q2 2013",8216.7,183,0.39109131,8596.71936789975
+"46733","Sweden","Web","Department Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2013,"Q2 2013",8290.2,674,0.51219512,8509.88418104611
+"46807","Sweden","Web","Sports Store","Camping Equipment","Cooking Gear","TrailChef Utensils",2013,"Q2 2013",8295.69,717,0.43820225,8534.72312836913
+"46914","Denmark","Web","Golf Shop","Personal Accessories","Knives","Max Gizmo",2013,"Q2 2013",8967.9,222,0.53714247,8598.23712685181
+"46956","Denmark","Web","Department Store","Personal Accessories","Eyewear","Polar Sun",2013,"Q2 2013",8760.92,148,0.55824274,8595.35727653251
+"46993","Denmark","Web","Department Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2013,"Q2 2013",8912.31,717,0.51729686,8511.557607583
+"47051","Denmark","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Carabiner",2013,"Q2 2013",8317.44,2166,0.48958333,8673.8915730778
+"47088","Denmark","Web","Eyewear Store","Personal Accessories","Watches","Lux",2013,"Q2 2013",8861.6,53,0.47925657,8591.66017139287
+"47216","Finland","Web","Warehouse Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2013,"Q2 2013",8736.5,505,0.51156069,8609.25060847833
+"47348","Finland","Web","Eyewear Store","Personal Accessories","Watches","Legend",2013,"Q2 2013",8916.6,33,0.44641007,8590.88183346873
+"47357","Finland","Web","Eyewear Store","Personal Accessories","Eyewear","Fairway",2013,"Q2 2013",8906.3,442,0.40049628,8606.7988440173
+"47366","Finland","Web","Eyewear Store","Personal Accessories","Binoculars","Ranger Vision",2013,"Q2 2013",8898.7,53,0.53740322,8591.66017139287
+"47497","France","Telephone","Warehouse Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2013,"Q2 2013",8478.15,486,0.51561367,8608.5111874504
+"47599","France","Web","Department Store","Personal Accessories","Watches","Kodiak",2013,"Q2 2013",8661.6,72,0.43923525,8592.3995924208
+"47846","France","Web","Sports Store","Camping Equipment","Sleeping Bags","Hibernator Pad",2013,"Q2 2013",8406.24,211,0.50401606,8597.80904099354
+"47862","France","Web","Sports Store","Personal Accessories","Watches","Mountain Man Digital",2013,"Q2 2013",8821.32,212,0.51934631,8597.84795788975
+"47873","France","Web","Sports Store","Personal Accessories","Eyewear","Polar Ice",2013,"Q2 2013",8696.6,80,0.54290182,8592.71092759045
+"47974","France","Sales visit","Sports Store","Personal Accessories","Knives","Bear Edge",2013,"Q2 2013",8974.46,226,0.40745404,8598.39279443664
+"47978","France","Sales visit","Sports Store","Personal Accessories","Binoculars","Seeker Mini",2013,"Q2 2013",8859.52,109,0.50787402,8593.83951758045
+"47986","France","Sales visit","Sports Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2013,"Q2 2013",8439.97,679,0.51729686,8510.07876552714
+"48045","Germany","Mail","Outdoors Shop","Mountaineering Equipment","Safety","Granite Signal Mirror",2013,"Q2 2013",8448,256,0.52393939,8599.56030132284
+"48074","Germany","Mail","Outdoors Shop","Personal Accessories","Navigation","Glacier Deluxe",2013,"Q2 2013",8612.28,94,0.42152368,8593.25576413735
+"48097","Germany","E-mail","Sports Store","Camping Equipment","Sleeping Bags","Hibernator Pad",2013,"Q2 2013",8884.32,223,0.50401606,8598.27604374802
+"48147","Germany","Web","Golf Shop","Personal Accessories","Watches","TX",2013,"Q2 2013",8592,45,0.44977188,8591.34883622321
+"48215","Germany","Web","Department Store","Personal Accessories","Watches","Legend",2013,"Q2 2013",8473,32,0.43074708,8590.84291657252
+"48248","Germany","Web","Department Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2013,"Q2 2013",8383.4,668,0.52191235,8509.65067966887
+"48298","Germany","Web","Warehouse Store","Personal Accessories","Binoculars","Seeker Mini",2013,"Q2 2013",8453.12,104,0.50787402,8593.64493309941
+"48395","Germany","Web","Outdoors Shop","Personal Accessories","Navigation","Glacier Deluxe",2013,"Q2 2013",8703.9,95,0.42152368,8593.29468103355
+"48507","Germany","Web","Sports Store","Personal Accessories","Binoculars","Seeker Mini",2013,"Q2 2013",8859.52,109,0.50787402,8593.83951758045
+"48532","Germany","Web","Sports Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2013,"Q2 2013",8571.65,683,0.52191235,8510.23443311197
+"48779","Switzerland","Web","Sports Store","Camping Equipment","Cooking Gear","TrailChef Utensils",2013,"Q2 2013",8391.15,435,0.48159668,8523.74856363882
+"48998","United Kingdom","Web","Department Store","Personal Accessories","Eyewear","Polar Sun",2013,"Q2 2013",8544.92,139,0.5746186,8595.00702446665
+"49141","United Kingdom","Web","Outdoors Shop","Personal Accessories","Watches","Mountain Man Combination",2013,"Q2 2013",8624.88,88,0.54086318,8593.02226276011
+"49346","United Kingdom","Sales visit","Sports Store","Camping Equipment","Lanterns","Firefly Mapreader",2013,"Q2 2013",8570.52,537,0.53007519,8610.49594915695
+"49406","Belgium","Web","Golf Shop","Personal Accessories","Watches","Zodiak",2013,"Q2 2013",8848,79,0.41839286,8592.67201069424
+"49418","Belgium","Web","Golf Shop","Personal Accessories","Knives","Pocket Gizmo",2013,"Q2 2013",8565.6,664,0.59844961,8615.43839497521
+"49434","Belgium","Web","Golf Shop","Golf Equipment","Golf Accessories","Course Pro Umbrella",2013,"Q2 2013",8395.95,669,0.52191235,8509.68959656508
+"49455","Belgium","Web","Department Store","Camping Equipment","Lanterns","Firefly Mapreader",2013,"Q2 2013",8331.12,522,0.53007519,8609.91219571385
+"49472","Belgium","Web","Department Store","Personal Accessories","Eyewear","Polar Ice",2013,"Q2 2013",8771.4,81,0.54113482,8592.74984448666
+"49541","Belgium","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Climbing Lamp",2013,"Q2 2013",8582.61,219,0.44628732,8598.12037616319
+"49548","Belgium","Web","Outdoors Shop","Mountaineering Equipment","Tools","Granite Grip",2013,"Q2 2013",8500,425,0.5055,8606.13725678179
+"49668","Belgium","Web","Sports Store","Personal Accessories","Knives","Bear Edge",2013,"Q2 2013",8339.1,210,0.40745404,8597.77012409733
+"49733","Belgium","Sales visit","Outdoors Shop","Personal Accessories","Navigation","Glacier Deluxe",2013,"Q2 2013",8795.52,96,0.42152368,8593.33359792976
+"49814","Austria","Web","Department Store","Personal Accessories","Eyewear","Polar Ice",2013,"Q2 2013",8987,85,0.53002671,8592.90551207148
+"49902","Austria","Web","Outdoors Shop","Personal Accessories","Eyewear","Bella",2013,"Q2 2013",8557.5,126,0.45191002,8594.50110481596
+"49922","Austria","Web","Outdoors Shop","Personal Accessories","Navigation","Glacier Deluxe",2013,"Q2 2013",8795.52,96,0.42152368,8593.33359792976
+"49969","Austria","Web","Sports Store","Personal Accessories","Eyewear","Polar Sun",2013,"Q2 2013",8719.44,141,0.57713454,8595.08485825906
+"49986","Austria","Web","Sports Store","Personal Accessories","Knives","Bear Edge",2013,"Q2 2013",8418.52,212,0.40745404,8597.84795788975
+"50016","Austria","Web","Sports Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2013,"Q2 2013",8810.1,702,0.52191235,8510.9738541399
+"50037","Austria","Sales visit","Warehouse Store","Personal Accessories","Binoculars","Seeker Mini",2013,"Q2 2013",8209.28,101,0.50787402,8593.52818241079
+"50147","Italy","Web","Golf Shop","Personal Accessories","Eyewear","Polar Sports",2013,"Q2 2013",8626.18,74,0.49489577,8592.47742621321
+"50188","Italy","Web","Department Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2013,"Q2 2013",8788.4,508,0.51156069,8609.36735916695
+"50270","Italy","Web","Warehouse Store","Personal Accessories","Eyewear","Polar Sports",2013,"Q2 2013",8742.75,75,0.49489577,8592.51634310942
+"50963","United States","Web","Department Store","Camping Equipment","Tents","Star Peg",2013,"Q3 2013",8471.92,4272,0.49574595,8554.97466875584
+"51467","United States","Sales visit","Warehouse Store","Personal Accessories","Binoculars","Seeker Mini",2013,"Q3 2013",8778.24,108,0.50787402,8593.80060068424
+"51646","Canada","Web","Golf Shop","Personal Accessories","Eyewear","Polar Sun",2013,"Q3 2013",8595.76,139,0.57713454,8595.00702446665
+"51923","Canada","Web","Eyewear Store","Personal Accessories","Knives","Max Gizmo",2013,"Q3 2013",8709.8,214,0.53755425,8597.92579168216
+"51975","Canada","Web","Sports Store","Personal Accessories","Eyewear","Trendi",2013,"Q3 2013",8299.5,165,0.39642147,8596.01886376803
+"52025","Canada","Sales visit","Outdoors Shop","Camping Equipment","Lanterns","Firefly Extreme",2013,"Q3 2013",8608.26,159,0.44052457,8595.78536239079
+"52069","Mexico","Web","Golf Shop","Personal Accessories","Watches","Legend",2013,"Q3 2013",8646.4,32,0.44572076,8590.84291657252
+"52232","Mexico","Web","Outdoors Shop","Camping Equipment","Sleeping Bags","Hibernator Pillow",2013,"Q3 2013",8639.64,699,0.41909385,8616.80048634245
+"52308","Mexico","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Extreme",2013,"Q3 2013",8866.9,62,0.49305845,8592.01042345873
+"52312","Mexico","Web","Eyewear Store","Personal Accessories","Eyewear","Maximus",2013,"Q3 2013",8330,98,0.52129412,8593.41143172217
+"52444","Brazil","Web","Golf Shop","Personal Accessories","Watches","Sam",2013,"Q3 2013",8230.2,174,0.40211416,8596.36911583389
+"52518","Brazil","Web","Department Store","Personal Accessories","Knives","Bear Edge",2013,"Q3 2013",8497.94,214,0.40745404,8597.92579168216
+"52592","Brazil","Web","Outdoors Shop","Camping Equipment","Tents","Star Gazer 6",2013,"Q3 2013",8318.8,10,0.41097274,8389.11085712254
+"52624","Brazil","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2013,"Q3 2013",8460,470,0.52611111,8607.8885171111
+"52661","Brazil","Web","Outdoors Shop","Personal Accessories","Knives","Bear Survival Edge",2013,"Q3 2013",8417.28,96,0.46395985,8593.33359792976
+"52695","Brazil","Web","Sports Store","Camping Equipment","Lanterns","Firefly Mapreader",2013,"Q3 2013",8458.8,530,0.53007519,8610.2235308835
+"52762","Brazil","Web","Sports Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2013,"Q3 2013",8571.65,683,0.52191235,8510.23443311197
+"52771","Japan","Telephone","Equipment Rental Store","Mountaineering Equipment","Tools","Granite Grip",2013,"Q3 2013",8682.8,443,0.49540816,8606.83776091351
+"52987","Japan","Web","Equipment Rental Store","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2013,"Q3 2013",8982,499,0.52611111,8609.01710710109
+"53007","Japan","Web","Outdoors Shop","Camping Equipment","Tents","Star Peg",2013,"Q3 2013",8567.46,4327,0.49494949,8557.11509804721
+"53048","Japan","Web","Outdoors Shop","Personal Accessories","Watches","Mountain Man Deluxe",2013,"Q3 2013",8211.82,106,0.49657932,8593.72276689183
+"53152","Japan","Web","Sports Store","Camping Equipment","Tents","Star Peg",2013,"Q3 2013",8652.6,4370,0.49494949,8558.7885245841
+"53244","Singapore","Fax","Outdoors Shop","Personal Accessories","Eyewear","Polar Sports",2013,"Q3 2013",8276.47,71,0.49489577,8592.36067552459
+"53260","Singapore","Web","Golf Shop","Personal Accessories","Watches","Lux",2013,"Q3 2013",8527.2,51,0.47739234,8591.58233760045
+"53322","Singapore","Web","Department Store","Camping Equipment","Lanterns","Firefly Lite",2013,"Q3 2013",8638.59,597,0.53351762,8612.83096292936
+"53345","Singapore","Web","Department Store","Personal Accessories","Eyewear","Polar Wave",2013,"Q3 2013",8426.95,89,0.56571713,8593.06117965631
+"53419","Singapore","Web","Warehouse Store","Personal Accessories","Watches","Mountain Man Extreme",2013,"Q3 2013",8669.46,31,0.58453122,8590.80399967632
+"53420","Singapore","Web","Warehouse Store","Personal Accessories","Eyewear","Polar Sun",2013,"Q3 2013",8975.32,146,0.57462241,8595.2794427401
+"53422","Singapore","Web","Warehouse Store","Personal Accessories","Eyewear","Polar Sports",2013,"Q3 2013",8417.5,70,0.51035343,8592.32175862838
+"53593","Korea","Fax","Department Store","Camping Equipment","Lanterns","Firefly Lite",2013,"Q3 2013",8884.58,614,0.53351762,8613.49255016487
+"53621","Korea","Fax","Department Store","Personal Accessories","Eyewear","Polar Sports",2013,"Q3 2013",8368.47,71,0.50044871,8592.36067552459
+"53630","Korea","Web","Golf Shop","Personal Accessories","Watches","Infinity",2013,"Q3 2013",8755,35,0.43704626,8590.95966726115
+"53814","Korea","Web","Warehouse Store","Personal Accessories","Watches","Mountain Man Extreme",2013,"Q3 2013",8669.46,31,0.58453122,8590.80399967632
+"53823","Korea","Web","Warehouse Store","Personal Accessories","Binoculars","Seeker Mini",2013,"Q3 2013",8859.52,109,0.50787402,8593.83951758045
+"53933","China","Web","Golf Shop","Personal Accessories","Watches","Kodiak",2013,"Q3 2013",8494.6,66,0.44922657,8592.16609104356
+"53978","China","Web","Department Store","Personal Accessories","Eyewear","Maximus",2013,"Q3 2013",8378.3,99,0.51330461,8593.45034861838
+"53981","China","Web","Department Store","Personal Accessories","Eyewear","Hawk Eye",2013,"Q3 2013",8262,204,0.40074074,8597.53662272009
+"54002","China","Web","Warehouse Store","Personal Accessories","Eyewear","Polar Sun",2013,"Q3 2013",8653.35,146,0.55879515,8595.2794427401
+"54177","China","Web","Sports Store","Camping Equipment","Tents","Star Peg",2013,"Q3 2013",8557.36,4366,0.48979592,8558.63285699927
+"54247","China","Web","Sports Store","Outdoor Protection","Sunscreen","Sun Shield",2013,"Q3 2013",8364,1394,0.54,8643.84772920616
+"54291","Australia","Telephone","Department Store","Personal Accessories","Watches","Mountain Man Digital",2013,"Q3 2013",8237.34,200,0.51440635,8597.38095513526
+"54325","Australia","Web","Golf Shop","Personal Accessories","Watches","Zodiak",2013,"Q3 2013",8200.9,74,0.42306332,8592.47742621321
+"54392","Australia","Web","Department Store","Personal Accessories","Eyewear","Maximus",2013,"Q3 2013",8439,97,0.48678161,8593.37251482597
+"54493","Australia","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Climbing Lamp",2013,"Q3 2013",8504.23,217,0.44628732,8598.04254237078
+"54606","Australia","Sales visit","Direct Marketing","Camping Equipment","Lanterns","Flicker Lantern",2013,"Q3 2013",8631.89,251,0.5457982,8599.36571684181
+"54607","Australia","Sales visit","Direct Marketing","Personal Accessories","Watches","Mountain Man Deluxe",2013,"Q3 2013",8444.23,109,0.49657932,8593.83951758045
+"54779","Netherlands","Web","Warehouse Store","Personal Accessories","Watches","Mountain Man Extreme",2013,"Q3 2013",8478,30,0.5888535,8590.76508278011
+"54839","Netherlands","Web","Outdoors Shop","Personal Accessories","Watches","Mountain Man Extreme",2013,"Q3 2013",8478,30,0.5888535,8590.76508278011
+"54879","Netherlands","Web","Eyewear Store","Personal Accessories","Watches","Sam",2013,"Q3 2013",8372.1,177,0.39112051,8596.48586652251
+"55276","Sweden","Web","Sports Store","Personal Accessories","Knives","Bear Edge",2013,"Q3 2013",8895.04,224,0.40745404,8598.31496064423
+"55343","Denmark","Web","Golf Shop","Personal Accessories","Binoculars","Ranger Vision",2013,"Q3 2013",8467.2,49,0.44444444,8591.50450380804
+"55364","Denmark","Web","Department Store","Camping Equipment","Lanterns","Firefly Mapreader",2013,"Q3 2013",8363.04,524,0.53007519,8609.99002950626
+"55371","Denmark","Web","Department Store","Camping Equipment","Lanterns","Flicker Lantern",2013,"Q3 2013",8941.4,260,0.5457982,8599.71596890767
+"55459","Denmark","Web","Equipment Rental Store","Mountaineering Equipment","Tools","Granite Grip",2013,"Q3 2013",8560,428,0.5055,8606.25400747041
+"55473","Denmark","Web","Outdoors Shop","Camping Equipment","Sleeping Bags","Hibernator Pad",2013,"Q3 2013",8446.08,212,0.50401606,8597.84795788975
+"55481","Denmark","Web","Outdoors Shop","Mountaineering Equipment","Tools","Granite Grip",2013,"Q3 2013",8380,419,0.5055,8605.90375540455
+"55498","Denmark","Web","Outdoors Shop","Personal Accessories","Eyewear","Maximus",2013,"Q3 2013",8352,96,0.48678161,8593.33359792976
+"55563","Finland","Web","Golf Shop","Personal Accessories","Watches","TX",2013,"Q3 2013",8800,44,0.45013636,8591.30991932701
+"55667","Finland","Web","Warehouse Store","Personal Accessories","Eyewear","Polar Sun",2013,"Q3 2013",8248.34,137,0.56566412,8594.92919067424
+"55672","Finland","Web","Warehouse Store","Personal Accessories","Binoculars","Seeker Mini",2013,"Q3 2013",8859.52,109,0.50787402,8593.83951758045
+"55928","France","Telephone","Warehouse Store","Personal Accessories","Navigation","Glacier Deluxe",2013,"Q3 2013",8245.8,90,0.42152368,8593.10009655252
+"55951","France","Web","Golf Shop","Personal Accessories","Binoculars","Opera Vision",2013,"Q3 2013",8910,81,0.54287879,8592.74984448666
+"55996","France","Web","Department Store","Personal Accessories","Watches","Mountain Man Digital",2013,"Q3 2013",8370.58,204,0.51257858,8597.53662272009
+"56108","France","Web","Equipment Rental Store","Mountaineering Equipment","Climbing Accessories","Granite Carabiner",2013,"Q3 2013",8536.32,2223,0.48958333,8676.10983616158
+"56113","France","Web","Equipment Rental Store","Mountaineering Equipment","Climbing Accessories","Firefly Rechargeable Battery",2013,"Q3 2013",8529.92,1088,0.59821429,8631.93915896689
+"56234","France","Web","Eyewear Store","Personal Accessories","Eyewear","Bella",2013,"Q3 2013",8640,128,0.46488889,8594.57893860838
+"56396","Germany","Telephone","Eyewear Store","Personal Accessories","Navigation","Glacier Deluxe",2013,"Q3 2013",8795.52,96,0.42152368,8593.33359792976
+"56400","Germany","E-mail","Department Store","Camping Equipment","Sleeping Bags","Hibernator Pad",2013,"Q3 2013",8844.48,222,0.50401606,8598.23712685181
+"56424","Germany","E-mail","Sports Store","Camping Equipment","Lanterns","Firefly Mapreader",2013,"Q3 2013",8315.16,521,0.53007519,8609.87327881764
+"56446","Germany","E-mail","Sports Store","Personal Accessories","Navigation","Glacier Deluxe",2013,"Q3 2013",8612.28,94,0.42152368,8593.25576413735
+"56466","Germany","E-mail","Sports Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2013,"Q3 2013",8421.05,671,0.52191235,8509.76743035749
+"56470","Germany","Web","Golf Shop","Personal Accessories","Watches","Lux",2013,"Q3 2013",8800.4,49,0.47060134,8591.50450380804
+"56487","Germany","Web","Golf Shop","Personal Accessories","Knives","Pocket Gizmo",2013,"Q3 2013",8939.7,693,0.59860622,8616.56698496521
+"56635","Germany","Web","Equipment Rental Store","Camping Equipment","Lanterns","Firefly 2",2013,"Q3 2013",8648.92,316,0.39093898,8601.89531509525
+"56705","Germany","Web","Outdoors Shop","Personal Accessories","Watches","Mountain Man Extreme",2013,"Q3 2013",8669.46,31,0.58453122,8590.80399967632
+"56761","Germany","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Ice",2013,"Q3 2013",8288.5,79,0.52639078,8592.67201069424
+"56892","Switzerland","Web","Golf Shop","Personal Accessories","Watches","Kodiak",2013,"Q3 2013",8383.8,62,0.47543596,8592.01042345873
+"56899","Switzerland","Web","Golf Shop","Personal Accessories","Eyewear","Fairway",2013,"Q3 2013",8390.4,398,0.40938334,8605.08650058421
+"56932","Switzerland","Web","Department Store","Camping Equipment","Sleeping Bags","Hibernator Pad",2013,"Q3 2013",8950.61,227,0.49885874,8598.43171133285
+"56959","Switzerland","Web","Department Store","Personal Accessories","Eyewear","Trendi",2013,"Q3 2013",8852.8,176,0.40641605,8596.4469496263
+"57004","Switzerland","Web","Equipment Rental Store","Camping Equipment","Lanterns","Firefly 2",2013,"Q3 2013",8949.99,327,0.39093898,8602.32340095353
+"57174","Switzerland","Sales visit","Department Store","Camping Equipment","Sleeping Bags","Hibernator Pad",2013,"Q3 2013",8990.04,228,0.49885874,8598.47062822906
+"57422","United Kingdom","Web","Direct Marketing","Camping Equipment","Lanterns","Flicker Lantern",2013,"Q3 2013",8485.84,246,0.54718449,8599.17113236078
+"57456","United Kingdom","Web","Warehouse Store","Personal Accessories","Binoculars","Seeker Mini",2013,"Q3 2013",8371.84,103,0.50787402,8593.60601620321
+"57481","United Kingdom","Web","Outdoors Shop","Camping Equipment","Tents","Star Peg",2013,"Q3 2013",8705.68,4329,0.50273844,8557.19293183962
+"57536","United Kingdom","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Ice",2013,"Q3 2013",8662.5,81,0.53536623,8592.74984448666
+"57610","United Kingdom","Web","Eyewear Store","Personal Accessories","Binoculars","Ranger Vision",2013,"Q3 2013",8432.8,50,0.51570534,8591.54342070425
+"57844","Belgium","Web","Department Store","Personal Accessories","Knives","Bear Edge",2013,"Q3 2013",8259.68,208,0.40745404,8597.69229030492
+"58008","Belgium","Web","Eyewear Store","Personal Accessories","Navigation","Glacier Deluxe",2013,"Q3 2013",8978.76,98,0.42152368,8593.41143172217
+"58075","Belgium","Web","Sports Store","Personal Accessories","Navigation","Glacier Deluxe",2013,"Q3 2013",8703.9,95,0.42152368,8593.29468103355
+"58146","Belgium","Sales visit","Outdoors Shop","Personal Accessories","Knives","Bear Edge",2013,"Q3 2013",8895.04,224,0.40745404,8598.31496064423
+"58149","Belgium","Sales visit","Outdoors Shop","Personal Accessories","Binoculars","Seeker Mini",2013,"Q3 2013",8371.84,103,0.50787402,8593.60601620321
+"58250","Austria","Web","Department Store","Personal Accessories","Navigation","Glacier Deluxe",2013,"Q3 2013",8612.28,94,0.42152368,8593.25576413735
+"58439","Austria","Sales visit","Department Store","Camping Equipment","Lanterns","Flicker Lantern",2013,"Q3 2013",8494.33,247,0.5457982,8599.21004925698
+"58544","Italy","Telephone","Outdoors Shop","Camping Equipment","Lanterns","Firefly Lite",2013,"Q3 2013",8450.48,584,0.53351762,8612.32504327867
+"58591","Italy","E-mail","Sports Store","Personal Accessories","Watches","Mountain Man Extreme",2013,"Q3 2013",8949.12,32,0.58453122,8590.84291657252
+"58690","Italy","Web","Department Store","Personal Accessories","Watches","Zodiak",2013,"Q3 2013",8431.5,77,0.42429224,8592.59417690183
+"58747","Italy","Web","Warehouse Store","Camping Equipment","Tents","Star Gazer 6",2013,"Q3 2013",8318.8,10,0.41097274,8389.11085712254
+"58792","Italy","Web","Outdoors Shop","Camping Equipment","Tents","Star Gazer 6",2013,"Q3 2013",8318.8,10,0.41097274,8389.11085712254
+"58914","Italy","Web","Sports Store","Personal Accessories","Watches","Kodiak",2013,"Q3 2013",8271.1,63,0.46145495,8592.04934035494
+"59395","United States","Web","Golf Shop","Personal Accessories","Binoculars","Opera Vision",2013,"Q4 2013",8800,80,0.54336364,8592.71092759045
+"59623","United States","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Extreme",2013,"Q4 2013",8582.16,60,0.4931346,8591.93258966632
+"59875","United States","Sales visit","Outdoors Shop","Personal Accessories","Eyewear","Polar Wave",2013,"Q4 2013",8510.18,89,0.56996444,8593.06117965631
+"59896","United States","Sales visit","Eyewear Store","Personal Accessories","Watches","Mountain Man Extreme",2013,"Q4 2013",8478,30,0.5888535,8590.76508278011
+"60002","Canada","E-mail","Outdoors Shop","Personal Accessories","Eyewear","Polar Ice",2013,"Q4 2013",8815.4,84,0.52651496,8592.86659517528
+"60573","Mexico","Web","Outdoors Shop","Personal Accessories","Watches","Mountain Man Deluxe",2013,"Q4 2013",8521.7,110,0.49657932,8593.87843447665
+"60803","Brazil","Web","Department Store","Camping Equipment","Cooking Gear","TrailChef Utensils",2013,"Q4 2013",8429.73,437,0.48159668,8523.82639743123
+"60848","Brazil","Web","Department Store","Personal Accessories","Eyewear","Hawk Eye",2013,"Q4 2013",8518.25,199,0.41700349,8597.34203823906
+"60857","Brazil","Web","Department Store","Personal Accessories","Binoculars","Ranger Vision",2013,"Q4 2013",8542.5,51,0.53319403,8591.58233760045
+"61016","Brazil","Web","Sports Store","Camping Equipment","Lanterns","Firefly 2",2013,"Q4 2013",8293.11,303,0.39093898,8601.38939544456
+"61398","Japan","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Ice",2013,"Q4 2013",8239,77,0.53560748,8592.59417690183
+"61557","Singapore","Web","Golf Shop","Personal Accessories","Knives","Pocket Gizmo",2013,"Q4 2013",8965.5,695,0.59069767,8616.64481875762
+"61612","Singapore","Web","Department Store","Personal Accessories","Watches","Mountain Man Digital",2013,"Q4 2013",8686.14,213,0.50956351,8597.88687478595
+"61622","Singapore","Web","Department Store","Personal Accessories","Watches","Kodiak",2013,"Q4 2013",8860.3,67,0.46655079,8592.20500793976
+"61701","Singapore","Web","Warehouse Store","Camping Equipment","Lanterns","Firefly Lite",2013,"Q4 2013",8725.41,603,0.53351762,8613.0644643066
+"61749","Singapore","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Lite",2013,"Q4 2013",8436.01,583,0.53351762,8612.28612638246
+"61865","Korea","Web","Golf Shop","Personal Accessories","Watches","Legend",2013,"Q4 2013",8646.4,32,0.44441155,8590.84291657252
+"61866","Korea","Web","Golf Shop","Personal Accessories","Watches","Zodiak",2013,"Q4 2013",8431.5,77,0.42465753,8592.59417690183
+"61871","Korea","Web","Golf Shop","Personal Accessories","Eyewear","Fairway",2013,"Q4 2013",8861.25,417,0.41223529,8605.82592161214
+"61930","Korea","Web","Department Store","Camping Equipment","Lanterns","Flicker Lantern",2013,"Q4 2013",8425.55,245,0.5457982,8599.13221546457
+"61969","Korea","Web","Department Store","Personal Accessories","Eyewear","Polar Extreme",2013,"Q4 2013",8295.94,58,0.49312555,8591.8547558739
+"62491","Australia","Telephone","Department Store","Personal Accessories","Eyewear","Polar Sun",2013,"Q4 2013",8250.7,138,0.56261893,8594.96810757044
+"62568","Australia","Web","Department Store","Personal Accessories","Watches","Mountain Man Deluxe",2013,"Q4 2013",8211.82,106,0.49657932,8593.72276689183
+"62803","Netherlands","Mail","Eyewear Store","Personal Accessories","Eyewear","Polar Extreme",2013,"Q4 2013",8883.38,62,0.49399891,8592.01042345873
+"63125","Netherlands","Web","Sports Store","Personal Accessories","Eyewear","Retro",2013,"Q4 2013",8583.05,137,0.45758326,8594.92919067424
+"63163","Netherlands","Sales visit","Outdoors Shop","Camping Equipment","Lanterns","Firefly Extreme",2013,"Q4 2013",8391.7,155,0.44052457,8595.62969480596
+"63190","Sweden","Telephone","Outdoors Shop","Camping Equipment","Lanterns","Firefly Mapreader",2013,"Q4 2013",8219.4,515,0.53007519,8609.6397774404
+"63280","Sweden","Web","Direct Marketing","Camping Equipment","Lanterns","Firefly Mapreader",2013,"Q4 2013",8299.2,520,0.53007519,8609.83436192143
+"63333","Sweden","Web","Outdoors Shop","Personal Accessories","Knives","Max Gizmo",2013,"Q4 2013",8913.3,219,0.53828661,8598.12037616319
+"63357","Sweden","Web","Eyewear Store","Personal Accessories","Knives","Max Gizmo",2013,"Q4 2013",8895.5,220,0.53795515,8598.1592930594
+"63437","Sweden","Sales visit","Sports Store","Camping Equipment","Lanterns","Firefly 2",2013,"Q4 2013",8949.99,327,0.39093898,8602.32340095353
+"63459","Denmark","Web","Golf Shop","Personal Accessories","Watches","Venue",2013,"Q4 2013",8468,116,0.42630137,8594.11193585389
+"63462","Denmark","Web","Golf Shop","Personal Accessories","Watches","Sam",2013,"Q4 2013",8419.4,178,0.40049885,8596.52478341872
+"63530","Denmark","Web","Department Store","Personal Accessories","Knives","Bear Survival Edge",2013,"Q4 2013",8680.32,99,0.46395985,8593.45034861838
+"63658","Denmark","Web","Sports Store","Personal Accessories","Watches","Kodiak",2013,"Q4 2013",8898.5,65,0.48020453,8592.12717414735
+"63849","Finland","Web","Outdoors Shop","Personal Accessories","Knives","Bear Survival Edge",2013,"Q4 2013",8592.64,98,0.46395985,8593.41143172217
+"63992","France","Telephone","Direct Marketing","Camping Equipment","Lanterns","Firefly Mapreader",2013,"Q4 2013",8905.68,558,0.53007519,8611.31320397729
+"64019","France","Web","Golf Shop","Personal Accessories","Eyewear","Retro",2013,"Q4 2013",8771,140,0.4595964,8595.04594136286
+"64225","France","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Ice",2013,"Q4 2013",8820.9,81,0.54370983,8592.74984448666
+"64227","France","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Wave",2013,"Q4 2013",8223.32,86,0.56996444,8592.94442896769
+"64269","France","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Ice",2013,"Q4 2013",8429.3,78,0.54019669,8592.63309379804
+"64275","France","Web","Eyewear Store","Personal Accessories","Eyewear","Fairway",2013,"Q4 2013",8393.75,395,0.41552941,8604.96974989559
+"64565","Germany","E-mail","Sports Store","Personal Accessories","Knives","Bear Edge",2013,"Q4 2013",8895.04,224,0.40745404,8598.31496064423
+"64590","Germany","Web","Golf Shop","Personal Accessories","Watches","Sam",2013,"Q4 2013",8608.6,182,0.39957717,8596.68045100354
+"64604","Germany","Web","Golf Shop","Personal Accessories","Binoculars","Ranger Vision",2013,"Q4 2013",8462.3,49,0.44628765,8591.50450380804
+"64799","Germany","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Wave",2013,"Q4 2013",8701.42,91,0.56996444,8593.13901344872
+"64858","Germany","Web","Eyewear Store","Personal Accessories","Binoculars","Seeker Mini",2013,"Q4 2013",8778.24,108,0.50787402,8593.80060068424
+"64861","Germany","Web","Eyewear Store","Personal Accessories","Navigation","Glacier Deluxe",2013,"Q4 2013",8612.28,94,0.42152368,8593.25576413735
+"64951","Germany","Web","Sports Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2013,"Q4 2013",8320.65,663,0.52191235,8509.45609518784
+"64956","Switzerland","Web","Golf Shop","Personal Accessories","Watches","Lux",2013,"Q4 2013",8261.6,46,0.4714922,8591.38775311942
+"65006","Switzerland","Web","Department Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2013,"Q4 2013",8355.9,483,0.51156069,8608.39443676178
+"65141","Switzerland","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2013,"Q4 2013",8694,483,0.52611111,8608.39443676178
+"65205","Switzerland","Web","Eyewear Store","Personal Accessories","Watches","Kodiak",2013,"Q4 2013",8350.9,61,0.48020453,8591.97150656252
+"65217","Switzerland","Web","Eyewear Store","Personal Accessories","Eyewear","Retro",2013,"Q4 2013",8771,140,0.45746209,8595.04594136286
+"65221","Switzerland","Web","Eyewear Store","Personal Accessories","Binoculars","Seeker Mini",2013,"Q4 2013",8209.28,101,0.50787402,8593.52818241079
+"65312","Switzerland","Web","Sports Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2013,"Q4 2013",8408.5,670,0.52191235,8509.72851346128
+"65382","United Kingdom","Web","Department Store","Camping Equipment","Lanterns","Firefly Lite",2013,"Q4 2013",8508.36,588,0.53351762,8612.4807108635
+"65536","United Kingdom","Web","Outdoors Shop","Personal Accessories","Watches","Kodiak",2013,"Q4 2013",8761.6,64,0.48020453,8592.08825725114
+"65597","United Kingdom","Web","Eyewear Store","Personal Accessories","Eyewear","Trendi",2013,"Q4 2013",8752.2,174,0.40675944,8596.36911583389
+"65805","Belgium","Web","Department Store","Camping Equipment","Lanterns","Firefly Mapreader",2013,"Q4 2013",8538.6,535,0.53007519,8610.41811536454
+"65848","Belgium","Web","Direct Marketing","Camping Equipment","Lanterns","Firefly Mapreader",2013,"Q4 2013",8586.48,538,0.53007519,8610.53486605316
+"65891","Belgium","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Mapreader",2013,"Q4 2013",8714.16,546,0.53007519,8610.84620122281
+"65985","Belgium","Web","Eyewear Store","Personal Accessories","Binoculars","Seeker Mini",2013,"Q4 2013",8290.56,102,0.50787402,8593.567099307
+"65987","Belgium","Web","Eyewear Store","Personal Accessories","Navigation","Glacier Deluxe",2013,"Q4 2013",8429.04,92,0.42152368,8593.17793034493
+"66033","Belgium","Web","Sports Store","Personal Accessories","Watches","Kodiak",2013,"Q4 2013",8475.5,67,0.45312253,8592.20500793976
+"66168","Austria","Web","Department Store","Personal Accessories","Navigation","Glacier Deluxe",2013,"Q4 2013",8612.28,94,0.42152368,8593.25576413735
+"66224","Austria","Web","Outdoors Shop","Mountaineering Equipment","Safety","Granite Signal Mirror",2013,"Q4 2013",8448,256,0.52393939,8599.56030132284
+"66241","Austria","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Sun",2013,"Q4 2013",8955.64,147,0.57076769,8595.31835963631
+"66542","Italy","Web","Department Store","Camping Equipment","Cooking Gear","TrailChef Utensils",2013,"Q4 2013",8892.69,461,0.48159668,8524.7604029402
+"66728","Italy","Web","Eyewear Store","Personal Accessories","Watches","Mountain Man Extreme",2013,"Q4 2013",8478,30,0.5888535,8590.76508278011
+"66846","Spain","Web","Golf Shop","Personal Accessories","Watches","Mountain Man Deluxe",2013,"Q4 2013",8754.11,113,0.49657932,8593.99518516527
+"66851","Spain","Web","Golf Shop","Personal Accessories","Watches","TX",2013,"Q4 2013",8898,44,0.45319398,8591.30991932701
+"66861","Spain","Web","Golf Shop","Personal Accessories","Eyewear","Fairway",2013,"Q4 2013",8308.75,391,0.41223529,8604.81408231076
+"66997","Spain","Web","Outdoors Shop","Camping Equipment","Lanterns","Flicker Lantern",2013,"Q4 2013",8528.72,248,0.5457982,8599.24896615319
+"67264","United States","Web","Department Store","Camping Equipment","Lanterns","EverGlow Single",2014,"Q1 2014",8845,250,0.47032222,8599.3267999456
+"67285","United States","Web","Department Store","Personal Accessories","Eyewear","Polar Wave",2014,"Q1 2014",8649.02,124,0.43616965,8594.42327102355
+"67886","Canada","E-mail","Outdoors Shop","Personal Accessories","Watches","Mountain Man Extreme",2014,"Q1 2014",8389.8,30,0.58453122,8590.76508278011
+"67935","Canada","Web","Golf Shop","Personal Accessories","Knives","Max Gizmo",2014,"Q1 2014",8302.8,204,0.53830756,8597.53662272009
+"67974","Canada","Web","Department Store","Camping Equipment","Lanterns","Firefly Lite",2014,"Q1 2014",8624.12,596,0.53351762,8612.79204603315
+"68562","Mexico","Web","Eyewear Store","Personal Accessories","Watches","Infinity",2014,"Q1 2014",8449.6,35,0.45066039,8590.95966726115
+"68682","Brazil","Web","Golf Shop","Personal Accessories","Watches","Venue",2014,"Q1 2014",8906,122,0.42794521,8594.34543723114
+"68685","Brazil","Web","Golf Shop","Personal Accessories","Watches","Sam",2014,"Q1 2014",8987,190,0.40007121,8596.9917861732
+"68696","Brazil","Web","Golf Shop","Personal Accessories","Eyewear","Hawk Eye",2014,"Q1 2014",8336.25,195,0.40748538,8597.18637065423
+"68697","Brazil","Web","Golf Shop","Personal Accessories","Eyewear","Retro",2014,"Q1 2014",8207.15,131,0.46193136,8594.695689297
+"68737","Brazil","Web","Department Store","Personal Accessories","Watches","Venue",2014,"Q1 2014",8979,123,0.42958904,8594.38435412734
+"68740","Brazil","Web","Department Store","Personal Accessories","Watches","Sam",2014,"Q1 2014",8608.6,182,0.39704017,8596.68045100354
+"68891","Brazil","Web","Outdoors Shop","Personal Accessories","Binoculars","Seeker Mini",2014,"Q1 2014",8940.8,110,0.50787402,8593.87843447665
+"69252","Japan","Web","Outdoors Shop","Camping Equipment","Tents","Star Peg",2014,"Q1 2014",8682.3,4385,0.49494949,8559.3722780272
+"69416","Japan","Web","Sports Store","Personal Accessories","Watches","Mountain Man Combination",2014,"Q1 2014",8338.7,86,0.53589888,8592.94442896769
+"69845","Singapore","Special","Outdoors Shop","Personal Accessories","Eyewear","Polar Sun",2014,"Q1 2014",8336.76,138,0.57458293,8417.12828289351
+"69965","Korea","Web","Department Store","Personal Accessories","Eyewear","Polar Extreme",2014,"Q1 2014",8585.12,60,0.49330935,8591.93258966632
+"70038","Korea","Web","Warehouse Store","Personal Accessories","Eyewear","Polar Sports",2014,"Q1 2014",8551.09,73,0.49734595,8592.438509317
+"70547","Australia","Web","Golf Shop","Personal Accessories","Watches","Kodiak",2014,"Q1 2014",8853,65,0.45638767,8592.12717414735
+"70561","Australia","Web","Golf Shop","Personal Accessories","Eyewear","Retro",2014,"Q1 2014",8771,140,0.45737544,8595.04594136286
+"70594","Australia","Web","Department Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2014,"Q1 2014",8736.5,505,0.5,8609.25060847833
+"70752","Australia","Web","Outdoors Shop","Camping Equipment","Lanterns","Flicker Lantern",2014,"Q1 2014",8597.5,250,0.5457982,8599.3267999456
+"71199","Netherlands","Web","Sports Store","Personal Accessories","Watches","Sam",2014,"Q1 2014",8514,180,0.39577167,8596.60261721113
+"71486","Sweden","Web","Sports Store","Camping Equipment","Tents","Star Peg",2014,"Q1 2014",8436.78,4261,0.49494949,8554.54658289756
+"71505","Sweden","Web","Sports Store","Personal Accessories","Watches","Kodiak",2014,"Q1 2014",8320.8,61,0.46194116,8591.97150656252
+"71591","Denmark","Web","Golf Shop","Personal Accessories","Eyewear","Retro",2014,"Q1 2014",8332.45,133,0.45618516,8594.77352308941
+"71610","Denmark","Web","Department Store","Camping Equipment","Lanterns","Firefly Mapreader",2014,"Q1 2014",8927,565,0.52531646,8611.58562225074
+"71934","Finland","Web","Outdoors Shop","Camping Equipment","Lanterns","Flicker Lantern",2014,"Q1 2014",8356.77,243,0.5457982,8599.05438167216
+"72006","Finland","Web","Eyewear Store","Personal Accessories","Watches","Legend",2014,"Q1 2014",8916.6,33,0.44441155,8590.88183346873
+"72020","Finland","Web","Eyewear Store","Personal Accessories","Eyewear","Hawk Eye",2014,"Q1 2014",8944,208,0.43534884,8597.69229030492
+"72051","Finland","Web","Sports Store","Camping Equipment","Lanterns","Firefly Lite",2014,"Q1 2014",8609.65,595,0.53351762,8612.75312913694
+"72194","France","Web","Department Store","Personal Accessories","Watches","Mountain Man Combination",2014,"Q1 2014",8821.91,93,0.52561293,8593.21684724114
+"72210","France","Web","Department Store","Personal Accessories","Eyewear","Fairway",2014,"Q1 2014",8521.25,401,0.41411765,8605.20325127283
+"72323","France","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Lite",2014,"Q1 2014",8421.54,582,0.53351762,8612.24720948626
+"72698","Germany","Telephone","Outdoors Shop","Personal Accessories","Watches","Zodiak",2014,"Q1 2014",8869.5,81,0.42721461,8592.74984448666
+"72761","Germany","Web","Golf Shop","Personal Accessories","Watches","Venue",2014,"Q1 2014",8614,118,0.42794521,8594.18976964631
+"72833","Germany","Web","Department Store","Personal Accessories","Watches","Lux",2014,"Q1 2014",8694.4,52,0.49060545,8591.62125449666
+"72905","Germany","Web","Warehouse Store","Personal Accessories","Eyewear","Polar Sports",2014,"Q1 2014",8297.25,69,0.51035343,8592.28284173218
+"73045","Germany","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Wave",2014,"Q1 2014",8715.03,93,0.56119945,8593.21684724114
+"73106","Germany","Web","Sports Store","Personal Accessories","Watches","Zodiak",2014,"Q1 2014",8260.5,73,0.42210762,8592.438509317
+"73192","Switzerland","Fax","Golf Shop","Golf Equipment","Golf Accessories","Course Pro Umbrella",2014,"Q1 2014",8724.35,697,0.48310304,8510.77926965887
+"73244","Switzerland","Web","Department Store","Camping Equipment","Cooking Gear","TrailChef Utensils",2014,"Q1 2014",8411.39,727,0.4295592,8535.1122973312
+"73280","Switzerland","Web","Department Store","Personal Accessories","Eyewear","Bella",2014,"Q1 2014",8910,132,0.46243098,8594.7346061932
+"73609","United Kingdom","Web","Golf Shop","Personal Accessories","Eyewear","Polar Sports",2014,"Q1 2014",8754.7,73,0.50903629,8592.438509317
+"73666","United Kingdom","Web","Department Store","Camping Equipment","Lanterns","Firefly 2",2014,"Q1 2014",8977.36,328,0.39093898,8602.36231784973
+"73736","United Kingdom","Web","Warehouse Store","Camping Equipment","Lanterns","Firefly Mapreader",2014,"Q1 2014",8634.36,621,0.46058538,8613.76496843832
+"73828","United Kingdom","Web","Outdoors Shop","Personal Accessories","Watches","Kodiak",2014,"Q1 2014",8339.7,61,0.4733048,8591.97150656252
+"73879","United Kingdom","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Wave",2014,"Q1 2014",8758.82,94,0.55869855,8593.25576413735
+"73926","United Kingdom","Web","Sports Store","Camping Equipment","Lanterns","Firefly Lite",2014,"Q1 2014",8841.17,611,0.53351762,8613.37579947625
+"74007","United Kingdom","Sales visit","Warehouse Store","Personal Accessories","Eyewear","Polar Sports",2014,"Q1 2014",8865.29,74,0.50851918,8592.47742621321
+"74051","United Kingdom","Sales visit","Sports Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2014,"Q1 2014",8401.4,476,0.50991501,8608.12201848834
+"74139","Belgium","Web","Department Store","Personal Accessories","Watches","Mountain Man Combination",2014,"Q1 2014",8232.84,84,0.54086318,8592.86659517528
+"74229","Belgium","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Mapreader",2014,"Q1 2014",8921.64,559,0.53007519,8611.3521208735
+"74319","Belgium","Web","Eyewear Store","Personal Accessories","Eyewear","Retro",2014,"Q1 2014",8583.05,137,0.45979226,8594.92919067424
+"74346","Belgium","Web","Sports Store","Camping Equipment","Lanterns","Firefly Mapreader",2014,"Q1 2014",8793.96,551,0.53007519,8611.04078570384
+"74354","Belgium","Web","Sports Store","Camping Equipment","Lanterns","Flicker Lantern",2014,"Q1 2014",8530.12,248,0.54587274,8599.24896615319
+"74454","Austria","Web","Department Store","Camping Equipment","Cooking Gear","TrailChef Canteen",2014,"Q1 2014",8273.48,794,0.42226488,8537.71972937706
+"74477","Austria","Web","Department Store","Personal Accessories","Watches","Mountain Man Digital",2014,"Q1 2014",8597.72,209,0.5138246,8597.73120720113
+"74540","Austria","Web","Warehouse Store","Personal Accessories","Eyewear","Polar Ice",2014,"Q1 2014",8355.6,86,0.48856575,8592.94442896769
+"74622","Austria","Web","Outdoors Shop","Personal Accessories","Knives","Pocket Gizmo",2014,"Q1 2014",8668.8,672,0.59224806,8615.74973014487
+"74820","Italy","E-mail","Sports Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2014,"Q1 2014",8719.1,494,0.50991501,8608.82252262006
+"74909","Italy","Web","Department Store","Personal Accessories","Watches","Zodiak",2014,"Q1 2014",8432.3,74,0.42097411,8592.47742621321
+"74914","Italy","Web","Department Store","Personal Accessories","Eyewear","Bella",2014,"Q1 2014",8775,130,0.46632821,8594.65677240079
+"75056","Italy","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Ice",2014,"Q1 2014",8272,94,0.43534091,8593.25576413735
+"75363","Spain","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Lite",2014,"Q1 2014",8985.87,621,0.53351762,8613.76496843832
+"75433","Spain","Web","Sports Store","Camping Equipment","Tents","Star Peg",2014,"Q1 2014",8914.32,4482,0.49721347,8563.14721695926
+"75437","Spain","Web","Sports Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2014,"Q1 2014",8613.2,488,0.50991501,8608.58902124282
+"75516","Spain","Sales visit","Outdoors Shop","Camping Equipment","Sleeping Bags","Hibernator Pillow",2014,"Q1 2014",8242.55,467,0.50991501,8607.77176642247
+"75528","Spain","Sales visit","Outdoors Shop","Mountaineering Equipment","Safety","Granite Signal Mirror",2014,"Q1 2014",8415,255,0.52393939,8599.52138442664
+"75552","United States","E-mail","Golf Shop","Golf Equipment","Golf Accessories","Course Pro Gloves",2014,"Q2 2014",8399.12,1567,0.52425373,8544.63696935877
+"75576","United States","E-mail","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Firefly Rechargeable Battery",2014,"Q2 2014",8333.92,1063,0.59821429,8630.96623656172
+"75907","United States","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Extreme",2014,"Q2 2014",8969.31,63,0.4907635,8592.04934035494
+"76178","Canada","Telephone","Warehouse Store","Personal Accessories","Binoculars","Seeker Mini",2014,"Q2 2014",8615.68,106,0.50787402,8593.72276689183
+"76215","Canada","Telephone","Sports Store","Personal Accessories","Knives","Bear Survival Edge",2014,"Q2 2014",8592.64,98,0.46395985,8593.41143172217
+"76282","Canada","E-mail","Outdoors Shop","Personal Accessories","Knives","Bear Survival Edge",2014,"Q2 2014",8943.36,102,0.46395985,8593.567099307
+"76838","Mexico","Web","Equipment Rental Store","Mountaineering Equipment","Safety","Granite Signal Mirror",2014,"Q2 2014",8415,255,0.52393939,8599.52138442664
+"77057","Brazil","Web","Golf Shop","Personal Accessories","Eyewear","Inferno",2014,"Q2 2014",8272.7,114,0.43848079,8594.03410206148
+"77098","Brazil","Web","Department Store","Personal Accessories","Watches","Lux",2014,"Q2 2014",8694.4,52,0.4937799,8591.62125449666
+"77178","Brazil","Web","Outdoors Shop","Camping Equipment","Cooking Gear","TrailChef Canteen",2014,"Q2 2014",8520.56,584,0.44345442,8529.54718117363
+"77265","Brazil","Web","Sports Store","Camping Equipment","Cooking Gear","TrailChef Canteen",2014,"Q2 2014",8476.79,581,0.44345442,8529.43043048501
+"77424","Japan","Web","Golf Shop","Personal Accessories","Knives","Bear Survival Edge",2014,"Q2 2014",8680.32,99,0.46395985,8593.45034861838
+"77484","Japan","Web","Department Store","Personal Accessories","Watches","Mountain Man Extreme",2014,"Q2 2014",8669.46,31,0.58453122,8590.80399967632
+"77593","Japan","Web","Outdoors Shop","Camping Equipment","Tents","Star Peg",2014,"Q2 2014",8254.64,4149,0.4973736,8550.1878905224
+"78039","Singapore","Web","Warehouse Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2014,"Q2 2014",8401.4,476,0.50991501,8608.12201848834
+"78092","Singapore","Web","Outdoors Shop","Camping Equipment","Sleeping Bags","Hibernator Pillow",2014,"Q2 2014",8973.36,726,0.40533981,8617.85124254003
+"78380","Korea","Web","Warehouse Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2014,"Q2 2014",8701.45,493,0.50991501,8608.78360572385
+"78408","Korea","Web","Equipment Rental Store","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2014,"Q2 2014",8388,466,0.52611111,8607.73284952627
+"78717","China","Web","Eyewear Store","Personal Accessories","Watches","TX",2014,"Q2 2014",8536,44,0.46949391,8591.30991932701
+"78923","Australia","Web","Department Store","Personal Accessories","Watches","Mountain Man Combination",2014,"Q2 2014",8740.55,91,0.53149401,8593.13901344872
+"78926","Australia","Web","Department Store","Personal Accessories","Watches","Lux",2014,"Q2 2014",8261.6,46,0.47171492,8591.38775311942
+"78984","Australia","Web","Warehouse Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2014,"Q2 2014",8348.45,473,0.50991501,8608.00526779972
+"79018","Australia","Web","Equipment Rental Store","Personal Accessories","Watches","Mountain Man Extreme",2014,"Q2 2014",8669.46,31,0.58453122,8590.80399967632
+"79020","Australia","Web","Equipment Rental Store","Personal Accessories","Eyewear","Polar Sports",2014,"Q2 2014",8361.11,71,0.50000897,8592.36067552459
+"79277","Netherlands","Web","Warehouse Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2014,"Q2 2014",8667.3,501,0.5,8609.0949408935
+"79407","Netherlands","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Wave",2014,"Q2 2014",8605.8,90,0.56996444,8593.10009655252
+"79455","Netherlands","Web","Sports Store","Personal Accessories","Watches","Mountain Man Combination",2014,"Q2 2014",8644.5,90,0.53149401,8593.10009655252
+"79457","Netherlands","Web","Sports Store","Personal Accessories","Watches","Venue",2014,"Q2 2014",8249,113,0.43424658,8593.99518516527
+"79530","Sweden","Telephone","Outdoors Shop","Camping Equipment","Lanterns","Firefly Mapreader",2014,"Q2 2014",8570.52,537,0.53007519,8610.49594915695
+"79688","Sweden","Web","Outdoors Shop","Personal Accessories","Watches","Zodiak",2014,"Q2 2014",8964.7,80,0.42395841,8592.71092759045
+"79776","Sweden","Web","Sports Store","Personal Accessories","Knives","Bear Survival Edge",2014,"Q2 2014",8329.6,95,0.46395985,8593.29468103355
+"79854","Denmark","Web","Department Store","Camping Equipment","Lanterns","Firefly Mapreader",2014,"Q2 2014",8226.64,526,0.52046036,8610.06786329867
+"79864","Denmark","Web","Department Store","Personal Accessories","Watches","Lux",2014,"Q2 2014",8861.6,53,0.49361741,8591.66017139287
+"79881","Denmark","Web","Department Store","Personal Accessories","Binoculars","Seeker Mini",2014,"Q2 2014",8371.84,103,0.50787402,8593.60601620321
+"79882","Denmark","Web","Department Store","Personal Accessories","Binoculars","Ranger Vision",2014,"Q2 2014",8450,50,0.53305207,8591.54342070425
+"80177","Finland","Web","Outdoors Shop","Personal Accessories","Watches","Mountain Man Combination",2014,"Q2 2014",8740.55,91,0.53149401,8593.13901344872
+"80207","Finland","Web","Outdoors Shop","Personal Accessories","Binoculars","Ranger Vision",2014,"Q2 2014",8395,50,0.53609291,8591.54342070425
+"80242","Finland","Web","Eyewear Store","Personal Accessories","Knives","Max Gizmo",2014,"Q2 2014",8315.3,205,0.56697654,8597.5755396163
+"80343","France","Telephone","Outdoors Shop","Personal Accessories","Eyewear","Retro",2014,"Q2 2014",8896.3,142,0.46448524,8595.12377515527
+"80346","France","Web","Golf Shop","Personal Accessories","Watches","Lux",2014,"Q2 2014",8404,47,0.47294622,8591.42667001563
+"80413","France","Web","Department Store","Personal Accessories","Watches","Mountain Man Deluxe",2014,"Q2 2014",8375.68,107,0.5017718,8593.76168378803
+"80541","France","Web","Outdoors Shop","Camping Equipment","Sleeping Bags","Hibernator Pillow",2014,"Q2 2014",8478.96,686,0.40533981,8616.29456669176
+"80707","France","Web","Sports Store","Personal Accessories","Eyewear","Polar Ice",2014,"Q2 2014",8917.56,95,0.47064556,8593.29468103355
+"80760","France","Sales visit","Warehouse Store","Camping Equipment","Cooking Gear","TrailChef Canteen",2014,"Q2 2014",8981.68,622,0.43767313,8531.02602322949
+"80783","France","Sales visit","Outdoors Shop","Camping Equipment","Cooking Gear","TrailChef Canteen",2014,"Q2 2014",8549.74,586,0.44345442,8529.62501496604
+"80940","Germany","Web","Golf Shop","Personal Accessories","Eyewear","Retro",2014,"Q2 2014",8833.65,141,0.46465844,8595.08485825906
+"81039","Germany","Web","Direct Marketing","Personal Accessories","Eyewear","Polar Sports",2014,"Q2 2014",8607.59,72,0.50748584,8592.3995924208
+"81230","Germany","Web","Sports Store","Camping Equipment","Cooking Gear","TrailChef Canteen",2014,"Q2 2014",8520.56,584,0.44345442,8529.54718117363
+"81281","Germany","Web","Sports Store","Personal Accessories","Eyewear","Polar Sports",2014,"Q2 2014",8748.78,74,0.50197399,8592.47742621321
+"81336","Germany","Sales visit","Outdoors Shop","Camping Equipment","Lanterns","Firefly Extreme",2014,"Q2 2014",8391.7,155,0.44052457,8595.62969480596
+"81363","Switzerland","Web","Golf Shop","Personal Accessories","Watches","Lux",2014,"Q2 2014",8261.6,46,0.47171492,8591.38775311942
+"81367","Switzerland","Web","Golf Shop","Personal Accessories","Watches","Zodiak",2014,"Q2 2014",8760,80,0.42657534,8592.71092759045
+"81443","Switzerland","Web","Department Store","Personal Accessories","Watches","Zodiak",2014,"Q2 2014",8869.5,81,0.42648402,8592.74984448666
+"81733","Switzerland","Sales visit","Sports Store","Golf Equipment","Golf Accessories","Course Pro Gloves",2014,"Q2 2014",8870.8,1655,0.52425373,8548.06165622496
+"81781","United Kingdom","E-mail","Outdoors Shop","Personal Accessories","Watches","Mountain Man Extreme",2014,"Q2 2014",8949.12,32,0.58453122,8590.84291657252
+"81858","United Kingdom","Web","Department Store","Personal Accessories","Watches","Mountain Man Digital",2014,"Q2 2014",8971.6,220,0.50956351,8598.1592930594
+"81927","United Kingdom","Web","Warehouse Store","Camping Equipment","Lanterns","Firefly 2",2014,"Q2 2014",8703.66,318,0.39093898,8601.97314888766
+"82199","United Kingdom","Sales visit","Outdoors Shop","Camping Equipment","Lanterns","Firefly Mapreader",2014,"Q2 2014",8816.4,558,0.52531646,8611.31320397729
+"82406","Belgium","Web","Outdoors Shop","Camping Equipment","Sleeping Bags","Hibernator Pillow",2014,"Q2 2014",8293.56,671,0.40533981,8615.71081324866
+"82505","Belgium","Web","Sports Store","Camping Equipment","Cooking Gear","TrailChef Canteen",2014,"Q2 2014",8491.38,582,0.44345442,8529.46934738122
+"82751","Austria","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Lite",2014,"Q2 2014",8320.25,575,0.53351762,8611.97479121281
+"82781","Austria","Web","Outdoors Shop","Personal Accessories","Watches","Mountain Man Extreme",2014,"Q2 2014",8949.12,32,0.58453122,8590.84291657252
+"83025","Italy","Web","Department Store","Camping Equipment","Tents","Star Peg",2014,"Q2 2014",8690.22,4389,0.49494949,8559.52794561203
+"83041","Italy","Web","Department Store","Camping Equipment","Lanterns","Flicker Lantern",2014,"Q2 2014",8253.6,240,0.5457982,8598.93763098354
+"83092","Italy","Web","Warehouse Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2014,"Q2 2014",8630.85,489,0.50991501,8608.62793813902
+"83225","Italy","Web","Eyewear Store","Personal Accessories","Watches","TX",2014,"Q2 2014",8386,42,0.45626043,8591.23208553459
+"83231","Italy","Web","Eyewear Store","Personal Accessories","Eyewear","Polar Extreme",2014,"Q2 2014",8295.94,58,0.49312555,8591.8547558739
+"83370","Spain","Web","Golf Shop","Personal Accessories","Eyewear","Hawk Eye",2014,"Q2 2014",8917.75,208,0.4240453,8597.69229030492
+"83422","Spain","Web","Department Store","Personal Accessories","Watches","Mountain Man Combination",2014,"Q2 2014",8740.55,91,0.53149401,8593.13901344872
+"83430","Spain","Web","Department Store","Personal Accessories","Eyewear","Polar Ice",2014,"Q2 2014",8355.6,90,0.46477811,8593.10009655252
+"83683","United States","Web","Golf Shop","Personal Accessories","Eyewear","Polar Sun",2014,"Q3 2014",8930,152,0.56255319,8595.51294411734
+"83845","United States","Web","Outdoors Shop","Personal Accessories","Eyewear","Polar Ice",2014,"Q3 2014",8276.4,84,0.49567928,8592.86659517528
+"83876","United States","Web","Eyewear Store","Personal Accessories","Watches","Lux",2014,"Q3 2014",8360,50,0.4958134,8591.54342070425
+"83944","United States","Web","Sports Store","Personal Accessories","Watches","Mountain Man Deluxe",2014,"Q3 2014",8676.64,112,0.49657932,8593.95626826907
+"84002","United States","Sales visit","Department Store","Personal Accessories","Watches","Mountain Man Deluxe",2014,"Q3 2014",8599.17,111,0.49657932,8593.91735137286
+"84296","Canada","Web","Eyewear Store","Personal Accessories","Watches","Mountain Man Extreme",2014,"Q3 2014",8478,30,0.5888535,8590.76508278011
+"84317","Canada","Web","Eyewear Store","Personal Accessories","Eyewear","Hawk Eye",2014,"Q3 2014",8806.5,206,0.41614035,8597.61445651251
+"84478","Mexico","Web","Outdoors Shop","Personal Accessories","Watches","Legend",2014,"Q3 2014",8964,36,0.44578313,8590.99858415735
+"84518","Mexico","Web","Sports Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2014,"Q3 2014",8613.2,488,0.50991501,8608.58902124282
+"84539","Mexico","Web","Sports Store","Personal Accessories","Eyewear","Fairway",2014,"Q3 2014",8287.5,390,0.41647059,8604.77516541455
+"84574","Brazil","Web","Golf Shop","Personal Accessories","Watches","Sam",2014,"Q3 2014",8514,180,0.402537,8596.60261721113
+"84577","Brazil","Web","Golf Shop","Personal Accessories","Eyewear","Maximus",2014,"Q3 2014",8483.5,95,0.52418813,8593.29468103355
+"84579","Brazil","Web","Golf Shop","Personal Accessories","Binoculars","Ranger Vision",2014,"Q3 2014",8450,50,0.53343195,8591.54342070425
+"84590","Brazil","Web","Department Store","Personal Accessories","Watches","Mountain Man Deluxe",2014,"Q3 2014",8521.7,110,0.49657932,8593.87843447665
+"84666","Brazil","Web","Outdoors Shop","Personal Accessories","Knives","Max Gizmo",2014,"Q3 2014",8522.4,212,0.53656716,8597.84795788975
+"84675","Brazil","Web","Sports Store","Camping Equipment","Cooking Gear","TrailChef Canteen",2014,"Q3 2014",8666.46,594,0.44345442,8529.9363501357
+"84774","Japan","Web","Golf Shop","Personal Accessories","Watches","Lux",2014,"Q3 2014",8360,50,0.4958134,8591.54342070425
+"84945","Japan","Web","Eyewear Store","Personal Accessories","Watches","Sam",2014,"Q3 2014",8892.4,188,0.402537,8596.91395238078
+"84947","Japan","Web","Eyewear Store","Personal Accessories","Watches","Zodiak",2014,"Q3 2014",8650.5,79,0.42557078,8592.67201069424
+"84984","Japan","Web","Sports Store","Camping Equipment","Lanterns","Firefly Lite",2014,"Q3 2014",8870.11,613,0.53351762,8613.45363326867
+"85083","Singapore","Web","Golf Shop","Personal Accessories","Watches","Sam",2014,"Q3 2014",8703.2,184,0.402537,8596.75828479596
+"85117","Singapore","Web","Department Store","Camping Equipment","Sleeping Bags","Hibernator Pillow",2014,"Q3 2014",8454.35,479,0.50991501,8608.23876917696
+"85220","Singapore","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2014,"Q3 2014",8874,493,0.52611111,8608.78360572385
+"85262","Korea","Web","Golf Shop","Personal Accessories","Watches","Lux",2014,"Q3 2014",8861.6,53,0.4958134,8591.66017139287
+"85265","Korea","Web","Golf Shop","Personal Accessories","Watches","Legend",2014,"Q3 2014",8220,30,0.41386861,8590.76508278011
+"85424","Korea","Web","Sports Store","Personal Accessories","Eyewear","Maximus",2014,"Q3 2014",8716.25,95,0.48752044,8593.29468103355
+"85614","China","Web","Sports Store","Camping Equipment","Tents","Star Peg",2014,"Q3 2014",8235.92,4202,0.48979592,8552.25048602136
+"85716","Australia","Web","Department Store","Personal Accessories","Watches","Legend",2014,"Q3 2014",8985,33,0.42828047,8590.88183346873
+"85803","Australia","Web","Outdoors Shop","Personal Accessories","Watches","Mountain Man Extreme",2014,"Q3 2014",8949.12,32,0.58453122,8590.84291657252
+"85804","Australia","Web","Outdoors Shop","Personal Accessories","Watches","Venue",2014,"Q3 2014",8322,114,0.43424658,8594.03410206148
+"86032","Netherlands","Web","Eyewear Store","Personal Accessories","Watches","Venue",2014,"Q3 2014",8979,123,0.43424658,8594.38435412734
+"86052","Netherlands","Web","Eyewear Store","Personal Accessories","Eyewear","Hawk Eye",2014,"Q3 2014",8635.5,202,0.41614035,8597.45878892768
+"86074","Netherlands","Web","Sports Store","Personal Accessories","Watches","Zodiak",2014,"Q3 2014",8322,76,0.42557078,8592.55526000562
+"86130","Sweden","Web","Department Store","Personal Accessories","Watches","Mountain Man Deluxe",2014,"Q3 2014",8986.52,116,0.49657932,8594.11193585389
+"86192","Sweden","Web","Outdoors Shop","Personal Accessories","Eyewear","Fairway",2014,"Q3 2014",8776.25,413,0.41647059,8605.67025402731
+"86221","Sweden","Web","Sports Store","Personal Accessories","Watches","TX",2014,"Q3 2014",8852,43,0.4596995,8591.2710024308
+"86335","Denmark","Web","Eyewear Store","Personal Accessories","Watches","Mountain Man Extreme",2014,"Q3 2014",8478,30,0.5888535,8590.76508278011
+"86360","Denmark","Web","Sports Store","Personal Accessories","Binoculars","Ranger Vision",2014,"Q3 2014",8788,52,0.53343195,8591.62125449666
+"86439","Finland","Web","Outdoors Shop","Mountaineering Equipment","Climbing Accessories","Granite Chalk Bag",2014,"Q3 2014",8996.4,510,0.51643991,8609.44519295937
+"86758","France","Web","Sports Store","Camping Equipment","Lanterns","Firefly Lite",2014,"Q3 2014",8247.9,570,0.53351762,8611.78020673177
+"86762","France","Web","Sports Store","Camping Equipment","Lanterns","Firefly Extreme",2014,"Q3 2014",8878.96,164,0.44052457,8595.97994687182
+"86849","France","Sales visit","Sports Store","Personal Accessories","Eyewear","Polar Sports",2014,"Q3 2014",8718.18,74,0.50022596,8592.47742621321
+"86916","Germany","E-mail","Sports Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2014,"Q3 2014",8383.4,668,0.48446215,8509.65067966887
+"86950","Germany","Web","Department Store","Personal Accessories","Watches","Sam",2014,"Q3 2014",8939.7,189,0.402537,8596.95286927699
+"87068","Germany","Web","Outdoors Shop","Personal Accessories","Eyewear","Bella",2014,"Q3 2014",8505,126,0.46859259,8594.50110481596
+"87147","Germany","Web","Sports Store","Personal Accessories","Eyewear","Hawk Eye",2014,"Q3 2014",8550,200,0.41614035,8597.38095513526
+"87177","Switzerland","Web","Golf Shop","Personal Accessories","Eyewear","Fairway",2014,"Q3 2014",8393.75,395,0.41647059,8604.96974989559
+"87388","Switzerland","Web","Sports Store","Golf Equipment","Golf Accessories","Course Pro Umbrella",2014,"Q3 2014",8935.6,712,0.48446215,8511.36302310197
+"87390","Switzerland","Web","Sports Store","Golf Equipment","Golf Accessories","Course Pro Gloves",2014,"Q3 2014",8425.92,1572,0.52425373,8544.8315538398
+"87448","United Kingdom","Web","Department Store","Personal Accessories","Watches","Mountain Man Digital",2014,"Q3 2014",8808.48,216,0.50956351,8598.00362547457
+"87454","United Kingdom","Web","Department Store","Personal Accessories","Watches","Sam",2014,"Q3 2014",8845.1,187,0.402537,8596.87503548458
+"87589","United Kingdom","Web","Eyewear Store","Personal Accessories","Watches","Mountain Man Extreme",2014,"Q3 2014",8478,30,0.5888535,8590.76508278011
+"87605","United Kingdom","Web","Eyewear Store","Personal Accessories","Eyewear","Maximus",2014,"Q3 2014",8624.5,94,0.48752044,8593.25576413735
+"87638","United Kingdom","Web","Sports Store","Personal Accessories","Eyewear","Bella",2014,"Q3 2014",8977.5,133,0.46859259,8594.77352308941
+"87705","Belgium","Web","Golf Shop","Golf Equipment","Golf Accessories","Course Pro Umbrella",2014,"Q3 2014",8232.8,656,0.48446215,8509.18367691439
+"87741","Belgium","Web","Warehouse Store","Personal Accessories","Binoculars","Seeker Mini",2014,"Q3 2014",8534.4,105,0.50787402,8593.68384999562
+"87835","Belgium","Web","Sports Store","Camping Equipment","Cooking Gear","TrailChef Canteen",2014,"Q3 2014",8360.07,573,0.44345442,8529.11909531536
+"87851","Belgium","Web","Sports Store","Personal Accessories","Watches","Sam",2014,"Q3 2014",8608.6,182,0.402537,8596.68045100354
+"87858","Belgium","Web","Sports Store","Personal Accessories","Eyewear","Fairway",2014,"Q3 2014",8500,400,0.41647059,8605.16433437662
+"87865","Belgium","Web","Sports Store","Personal Accessories","Knives","Max Gizmo",2014,"Q3 2014",8803.8,219,0.53656716,8598.12037616319
+"87875","Austria","Web","Golf Shop","Personal Accessories","Watches","Zodiak",2014,"Q3 2014",8979,82,0.42557078,8592.78876138286
+"87910","Austria","Web","Department Store","Personal Accessories","Watches","TX",2014,"Q3 2014",8990,45,0.4560178,8591.34883622321
+"87945","Austria","Web","Warehouse Store","Personal Accessories","Binoculars","Seeker Mini",2014,"Q3 2014",8534.4,105,0.50787402,8593.68384999562
+"87974","Austria","Web","Outdoors Shop","Camping Equipment","Lanterns","Firefly Extreme",2014,"Q3 2014",8933.1,165,0.44052457,8596.01886376803
+"88005","Austria","Web","Outdoors Shop","Personal Accessories","Watches","Sam",2014,"Q3 2014",8608.6,182,0.402537,8596.68045100354
+"88094","Italy","Web","Golf Shop","Personal Accessories","Watches","Infinity",2014,"Q3 2014",8405.2,35,0.45456146,8590.95966726115
+"88108","Italy","Web","Golf Shop","Personal Accessories","Eyewear","Hawk Eye",2014,"Q3 2014",8678.25,203,0.41614035,8597.49770582389
+"88124","Italy","Web","Department Store","Personal Accessories","Watches","Mountain Man Deluxe",2014,"Q3 2014",8289.29,107,0.49657932,8593.76168378803
+"88136","Italy","Web","Department Store","Personal Accessories","Eyewear","Hawk Eye",2014,"Q3 2014",8678.25,203,0.41614035,8597.49770582389
+"88217","Italy","Web","Eyewear Store","Personal Accessories","Watches","Mountain Man Deluxe",2014,"Q3 2014",8366.76,108,0.49657932,8593.80060068424
+"88250","Italy","Web","Sports Store","Personal Accessories","Watches","TX",2014,"Q3 2014",8613,44,0.4508998,8591.30991932701
+"88308","Spain","Web","Golf Shop","Personal Accessories","Eyewear","Polar Extreme",2014,"Q3 2014",8876.07,63,0.48541415,8592.04934035494
+"88328","Spain","Web","Department Store","Personal Accessories","Watches","Infinity",2014,"Q3 2014",8516,34,0.43626116,8590.92075036494
+"88426","Spain","Web","Sports Store","Camping Equipment","Lanterns","Flicker Lantern",2014,"Q3 2014",8459.94,246,0.5457982,8599.17113236078
+"88432","Spain","Web","Sports Store","Personal Accessories","Watches","Sam",2014,"Q3 2014",8466.7,179,0.402537,8596.56370031492

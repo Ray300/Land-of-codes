@@ -1,0 +1,499 @@
+,,,,,,,,,Neigbourhood,Count
+Neigbourhood,room_type,borough,bedrooms,accommodates,overall_satisfaction,,,,Cranford,2
+Hyde Park,Private room,Westminster,1,2,0,,,,Chelsea Riverside,31
+,,,,,,,,,Harringay,36
+Cheapest,,,,,,,,,Clapham Town,40
+13,Private room,Haringey,1,2,4.5,,,,Haggerston,131
+,,,,,,,,,Ealing Broadway,13
+Costliest,,,,,,,,,Welsh Harp,7
+8989,Entire home/apt,Hammersmith and Fulham,2,6,0,,,,Ferndale,28
+,,,,,,,,,Askew,34
+Bedrooms,room_type,borough,price,accommodates,Neighborhood,overall_satisfaction,,,St. James's,137
+10,Private room,Lewisham,151,7,Brockley,3.5,,,Tollington,33
+,,,,,,,,,Gospel Oak,25
+,,,,,,,,,Hyde Park,76
+,,,,,,,,,Stanley,39
+,,,,,,,,,Hoxton East & Shoreditch,204
+,,,,,,,,,West End,191
+,,,,,,,,,Bloomsbury,69
+,,,,,,,,,Town,37
+,,,,,,,,,Kew,21
+,,,,,,,,,Knightsbridge and Belgravia,37
+,,,,,,,,,Lancaster Gate,161
+,,,,,,,,,Bishop's,58
+,,,,,,,,,St. Peter's,190
+,,,,,,,,,Raynes Park,11
+,,,,,,,,,Brunswick Park,27
+,,,,,,,,,Latchmere,32
+,,,,,,,,,Limehouse,22
+,,,,,,,,,Grange,94
+,,,,,,,,,Childs Hill,25
+,,,,,,,,,St. Mary's,80
+,,,,,,,,,Westbourne,52
+,,,,,,,,,Earlsfield,17
+,,,,,,,,,Weavers,155
+,,,,,,,,,Canary Wharf,58
+,,,,,,,,,Kenley,2
+,,,,,,,,,Herne Hill,64
+,,,,,,,,,Village,35
+,,,,,,,,,Cantelowes,57
+,,,,,,,,,Coppetts,15
+,,,,,,,,,Wimbledon Park,6
+,,,,,,,,,Highgate,53
+,,,,,,,,,Brixton Hill,51
+,,,,,,,,,Golders Green,8
+,,,,,,,,,East Sheen,9
+,,,,,,,,,Plaistow North,14
+,,,,,,,,,Brompton & Hans Town,58
+,,,,,,,,,Caledonian,93
+,,,,,,,,,King's Cross,65
+,,,,,,,,,St. Mark's,9
+,,,,,,,,,Riverside,84
+,,,,,,,,,Fortis Green,18
+,,,,,,,,,The Lane,41
+,,,,,,,,,Upper Norwood,8
+,,,,,,,,,Shepherd's Bush Green,54
+,,,,,,,,,Harrow Road,41
+,,,,,,,,,Victoria,67
+,,,,,,,,,Muswell Hill,18
+,,,,,,,,,Cann Hall,40
+,,,,,,,,,Turnham Green,19
+,,,,,,,,,Cathedrals,108
+,,,,,,,,,Cathall,29
+,,,,,,,,,Avonmore and Brook Green,45
+,,,,,,,,,East Finchley,18
+,,,,,,,,,Evelyn,22
+,,,,,,,,,Fulham Broadway,32
+,,,,,,,,,Queens Park,67
+,,,,,,,,,Marylebone High Street,74
+,,,,,,,,,Seven Sisters,20
+,,,,,,,,,Merton Park,5
+,,,,,,,,,Colville,86
+,,,,,,,,,Holborn and Covent Garden,155
+,,,,,,,,,De Beauvoir,51
+,,,,,,,,,Clerkenwell,96
+,,,,,,,,,Bayswater,76
+,,,,,,,,,Mapesbury,56
+,,,,,,,,,Bickley,4
+,,,,,,,,,Highbury West,53
+,,,,,,,,,Stamford Hill West,21
+,,,,,,,,,Penge and Cator,21
+,,,,,,,,,Homerton,57
+,,,,,,,,,Camden Town with Primrose Hill,116
+,,,,,,,,,Hammersmith Broadway,49
+,,,,,,,,,Southfields,31
+,,,,,,,,,Coulsdon East,2
+,,,,,,,,,Noel Park,16
+,,,,,,,,,Greenwich West,53
+,,,,,,,,,Junction,32
+,,,,,,,,,Jubilee,4
+,,,,,,,,,Mildmay,62
+,,,,,,,,,Bedford,20
+,,,,,,,,,Garden Suburb,15
+,,,,,,,,,West Hampstead,44
+,,,,,,,,,Bensham Manor,5
+,,,,,,,,,Canning Town North,29
+,,,,,,,,,Grove Green,41
+,,,,,,,,,Little Venice,46
+,,,,,,,,,Hornsey,32
+,,,,,,,,,Northumberland Park,11
+,,,,,,,,,Burnt Oak,5
+,,,,,,,,,Northfield,11
+,,,,,,,,,Custom House,16
+,,,,,,,,,West Ham,25
+,,,,,,,,,Osterley and Spring Grove,6
+,,,,,,,,,South Bermondsey,17
+,,,,,,,,,Addison,62
+,,,,,,,,,Lea Bridge,79
+,,,,,,,,,Bunhill,122
+,,,,,,,,,Haverstock,32
+,,,,,,,,,Spitalfields & Banglatown,164
+,,,,,,,,,Hoxton West,105
+,,,,,,,,,High Barnet,8
+,,,,,,,,,Abingdon,36
+,,,,,,,,,Whitechapel,126
+,,,,,,,,,Glyndon,6
+,,,,,,,,,Golborne,37
+,,,,,,,,,Twickenham Riverside,12
+,,,,,,,,,Cleveland,11
+,,,,,,,,,London Fields,129
+,,,,,,,,,Newington,64
+,,,,,,,,,Kilburn,122
+,,,,,,,,,Acton Central,37
+,,,,,,,,,West Green,22
+,,,,,,,,,Faraday,35
+,,,,,,,,,New Cross,42
+,,,,,,,,,St. Pancras and Somers Town,65
+,,,,,,,,,Forest Gate North,36
+,,,,,,,,,Queenstown,58
+,,,,,,,,,Alexandra,20
+,,,,,,,,,Oval,85
+,,,,,,,,,Holloway,44
+,,,,,,,,,Coldharbour,28
+,,,,,,,,,Kentish Town,42
+,,,,,,,,,Campden,35
+,,,,,,,,,Holland,43
+,,,,,,,,,Brondesbury Park,38
+,,,,,,,,,Leytonstone,28
+,,,,,,,,,Cannon Hill,5
+,,,,,,,,,Mortlake and Barnes Common,22
+,,,,,,,,,Maida Vale,42
+,,,,,,,,,Catford South,17
+,,,,,,,,,Peninsula,46
+,,,,,,,,,Regent's Park,104
+,,,,,,,,,Surrey Docks,34
+,,,,,,,,,Woolwich Riverside,30
+,,,,,,,,,Balham,26
+,,,,,,,,,Thurlow Park,25
+,,,,,,,,,Vincent Square,24
+,,,,,,,,,Gipsy Hill,19
+,,,,,,,,,Canonbury,49
+,,,,,,,,,Larkhall,55
+,,,,,,,,,Hampstead Town,32
+,,,,,,,,,Stockwell,43
+,,,,,,,,,Crystal Palace,21
+,,,,,,,,,Palace Riverside,17
+,,,,,,,,,Livesey,19
+,,,,,,,,,Bryanston and Dorset Square,98
+,,,,,,,,,Poplar,11
+,,,,,,,,,Brownswood,33
+,,,,,,,,,Royal Hospital,40
+,,,,,,,,,Beckton,18
+,,,,,,,,,Springfield,9
+,,,,,,,,,St. Dunstan's,25
+,,,,,,,,,St. Mary's Park,45
+,,,,,,,,,Prince's,72
+,,,,,,,,,Bromley Town,11
+,,,,,,,,,Chaucer,63
+,,,,,,,,,Thamesfield,35
+,,,,,,,,,Redcliffe,68
+,,,,,,,,,Shaftesbury,32
+,,,,,,,,,Thamesmead Moorings,14
+,,,,,,,,,Hackney Central,78
+,,,,,,,,,Blackheath Westcombe,17
+,,,,,,,,,Fulham Reach,25
+,,,,,,,,,Woolwich Common,12
+,,,,,,,,,Warwick,63
+,,,,,,,,,City of London,67
+,,,,,,,,,St. Helen's,46
+,,,,,,,,,Dudden Hill,18
+,,,,,,,,,Norbury,8
+,,,,,,,,,Forest Hill,26
+,,,,,,,,,Pembridge,44
+,,,,,,,,,Shooters Hill,12
+,,,,,,,,,Kidbrooke with Hornfair,13
+,,,,,,,,,Plaistow and Sundridge,8
+,,,,,,,,,Bethnal Green,94
+,,,,,,,,,Dalston,91
+,,,,,,,,,Tottenham Green,25
+,,,,,,,,,Crofton Park,21
+,,,,,,,,,Barkingside,4
+,,,,,,,,,Lewisham Central,34
+,,,,,,,,,Woodberry Down,25
+,,,,,,,,,Blackwall & Cubitt Town,53
+,,,,,,,,,Dalgarno,27
+,,,,,,,,,Clissold,56
+,,,,,,,,,Streatham Wells,14
+,,,,,,,,,Bowes,9
+,,,,,,,,,West Putney,13
+,,,,,,,,,Brockley,56
+,,,,,,,,,Ealing Common,23
+,,,,,,,,,Parsons Green and Walham,24
+,,,,,,,,,Green Street West,7
+,,,,,,,,,Streatham South,15
+,,,,,,,,,Nunhead,13
+,,,,,,,,,Addiscombe,4
+,,,,,,,,,Larkswood,6
+,,,,,,,,,Clapham Common,26
+,,,,,,,,,Bow East,71
+,,,,,,,,,Hoe Street,21
+,,,,,,,,,Markhouse,18
+,,,,,,,,,Queen's Park,34
+,,,,,,,,,Southgate Green,10
+,,,,,,,,,Bow West,56
+,,,,,,,,,Canning Town South,35
+,,,,,,,,,Swiss Cottage,77
+,,,,,,,,,St. Katharine's & Wapping,48
+,,,,,,,,,Peckham,15
+,,,,,,,,,Royal Docks,20
+,,,,,,,,,St. George's,49
+,,,,,,,,,Aldborough,12
+,,,,,,,,,West Finchley,12
+,,,,,,,,,Stratford and New Town,99
+,,,,,,,,,Earl's Court,64
+,,,,,,,,,Elthorne,12
+,,,,,,,,,North End,74
+,,,,,,,,,Willesden Green,32
+,,,,,,,,,Shacklewell,42
+,,,,,,,,,King's Park,34
+,,,,,,,,,Telegraph Hill,36
+,,,,,,,,,St. Margarets and North Twickenham,8
+,,,,,,,,,High Street,25
+,,,,,,,,,Crouch End,29
+,,,,,,,,,Woodside,23
+,,,,,,,,,Downham,11
+,,,,,,,,,Chiswick Riverside,18
+,,,,,,,,,Lansbury,43
+,,,,,,,,,Sands End,42
+,,,,,,,,,Graveney,27
+,,,,,,,,,"Ham, Petersham and Richmond Riverside",12
+,,,,,,,,,Notting Dale,24
+,,,,,,,,,Rushey Green,15
+,,,,,,,,,Hillrise,19
+,,,,,,,,,Church Street,42
+,,,,,,,,,Kelsey and Eden Park,4
+,,,,,,,,,Fairfield,41
+,,,,,,,,,West Hill,24
+,,,,,,,,,Waddon,9
+,,,,,,,,,Broad Green,9
+,,,,,,,,,Island Gardens,30
+,,,,,,,,,Barnsbury,57
+,,,,,,,,,South Camberwell,16
+,,,,,,,,,Beddington North,2
+,,,,,,,,,Ladywell,31
+,,,,,,,,,Lee Green,13
+,,,,,,,,,Leyton,23
+,,,,,,,,,Green Street East,2
+,,,,,,,,,Perry Vale,9
+,,,,,,,,,Courtfield,71
+,,,,,,,,,Highbury East,52
+,,,,,,,,,Snaresbrook,12
+,,,,,,,,,Frognal and Fitzjohns,25
+,,,,,,,,,Belsize,72
+,,,,,,,,,Bounds Green,16
+,,,,,,,,,Stoke Newington,59
+,,,,,,,,,East Walworth,23
+,,,,,,,,,Kensal Green,49
+,,,,,,,,,Mile End,35
+,,,,,,,,,Southgate,4
+,,,,,,,,,Hounslow West,1
+,,,,,,,,,Fortune Green,40
+,,,,,,,,,Furzedown,20
+,,,,,,,,,Preston,15
+,,,,,,,,,Wembley Central,4
+,,,,,,,,,Munster,41
+,,,,,,,,,Queen's Gate,56
+,,,,,,,,,Chapel End,17
+,,,,,,,,,South Norwood,8
+,,,,,,,,,Clock House,14
+,,,,,,,,,William Morris,25
+,,,,,,,,,Peckham Rye,19
+,,,,,,,,,Sydenham,14
+,,,,,,,,,Hampton Wick,3
+,,,,,,,,,Purley,4
+,,,,,,,,,Heathfield,5
+,,,,,,,,,Wanstead,20
+,,,,,,,,,Hackney Wick,52
+,,,,,,,,,Rotherhithe,38
+,,,,,,,,,South Twickenham,5
+,,,,,,,,,West Wickham,1
+,,,,,,,,,Valley,7
+,,,,,,,,,Oakleigh,8
+,,,,,,,,,Hackney Downs,48
+,,,,,,,,,Tooting,14
+,,,,,,,,,Nightingale,20
+,,,,,,,,,St. Ann's,16
+,,,,,,,,,Rayners Lane,4
+,,,,,,,,,Bush Hill Park,7
+,,,,,,,,,Blackheath,27
+,,,,,,,,,College,21
+,,,,,,,,,Canons,7
+,,,,,,,,,St. Leonard's,16
+,,,,,,,,,Eltham North,3
+,,,,,,,,,Colindale,11
+,,,,,,,,,Shadwell,32
+,,,,,,,,,Forest,13
+,,,,,,,,,Hobbayne,10
+,,,,,,,,,Grove Park,7
+,,,,,,,,,Cranbrook,10
+,,,,,,,,,Stepney Green,32
+,,,,,,,,,Goodmayes,4
+,,,,,,,,,St. Helier,4
+,,,,,,,,,Plumstead,8
+,,,,,,,,,Churchill,27
+,,,,,,,,,Woodhouse,8
+,,,,,,,,,Charlton,24
+,,,,,,,,,Hampton,7
+,,,,,,,,,Lower Edmonton,1
+,,,,,,,,,Wandsworth Common,26
+,,,,,,,,,Headstone North,5
+,,,,,,,,,Abbey Road,37
+,,,,,,,,,Hillside,15
+,,,,,,,,,Edgware,10
+,,,,,,,,,Finchley Church End,11
+,,,,,,,,,Plaistow South,11
+,,,,,,,,,West Harrow,1
+,,,,,,,,,Streatham Hill,23
+,,,,,,,,,Valentines,4
+,,,,,,,,,Palmers Green,7
+,,,,,,,,,Tulse Hill,31
+,,,,,,,,,Edmonton Green,7
+,,,,,,,,,Hanworth Park,9
+,,,,,,,,,Eltham South,8
+,,,,,,,,,North Greenford,3
+,,,,,,,,,Chadwell,7
+,,,,,,,,,West Hendon,13
+,,,,,,,,,Sudbury,3
+,,,,,,,,,Camberwell Green,21
+,,,,,,,,,Highlands,5
+,,,,,,,,,Clementswood,1
+,,,,,,,,,Southfield,25
+,,,,,,,,,Perivale,4
+,,,,,,,,,Bromley North,21
+,,,,,,,,,Stroud Green,36
+,,,,,,,,,Forest Gate South,36
+,,,,,,,,,Selsdon and Ballards,3
+,,,,,,,,,Wealdstone,3
+,,,,,,,,,Thornton Heath,5
+,,,,,,,,,Greenford Broadway,3
+,,,,,,,,,East Ham North,3
+,,,,,,,,,Fulwell and Hampton Hill,7
+,,,,,,,,,Manor Park,4
+,,,,,,,,,Thornton,13
+,,,,,,,,,Farnborough and Crofton,1
+,,,,,,,,,Cockfosters,10
+,,,,,,,,,South Acton,35
+,,,,,,,,,Seven Kings,6
+,,,,,,,,,Harlesden,15
+,,,,,,,,,East Putney,21
+,,,,,,,,,Dundonald,7
+,,,,,,,,,Cray Valley East,3
+,,,,,,,,,Abbey Wood,6
+,,,,,,,,,Bruce Grove,17
+,,,,,,,,,Beverley,2
+,,,,,,,,,North Richmond,8
+,,,,,,,,,Heston East,5
+,,,,,,,,,Knight's Hill,19
+,,,,,,,,,Abbey,21
+,,,,,,,,,Northcote,24
+,,,,,,,,,Walpole,10
+,,,,,,,,,Bridge,7
+,,,,,,,,,Enfield Lock,2
+,,,,,,,,,Middle Park and Sutcliffe,5
+,,,,,,,,,Fullwell,4
+,,,,,,,,,Little Ilford,3
+,,,,,,,,,Kenton,2
+,,,,,,,,,Chiswick Homefields,13
+,,,,,,,,,Hale End and Highams Park,6
+,,,,,,,,,Syon,9
+,,,,,,,,,Wood Street,11
+,,,,,,,,,Wormholt and White City,13
+,,,,,,,,,Chislehurst,13
+,,,,,,,,,Lavender Fields,6
+,,,,,,,,,Harrow on the Hill,3
+,,,,,,,,,Roehampton and Putney Heath,9
+,,,,,,,,,Teddington,3
+,,,,,,,,,Isleworth,3
+,,,,,,,,,Tottenham Hale,11
+,,,,,,,,,East Barnet,5
+,,,,,,,,,Hanworth,3
+,,,,,,,,,Heston West,1
+,,,,,,,,,Colliers Wood,12
+,,,,,,,,,Newbury,7
+,,,,,,,,,Finsbury Park,58
+,,,,,,,,,South Richmond,16
+,,,,,,,,,Fairlop,4
+,,,,,,,,,West Twickenham,7
+,,,,,,,,,Hounslow South,7
+,,,,,,,,,Copers Cope,5
+,,,,,,,,,Greenford Green,7
+,,,,,,,,,Church End,7
+,,,,,,,,,Upper Edmonton,1
+,,,,,,,,,Totteridge,8
+,,,,,,,,,Hanger Hill,7
+,,,,,,,,,Berrylands,3
+,,,,,,,,,Brentford,12
+,,,,,,,,,College Park and Old Oak,18
+,,,,,,,,,Vassall,35
+,,,,,,,,,Monkhams,2
+,,,,,,,,,Ravenscourt Park,17
+,,,,,,,,,Mill Hill,3
+,,,,,,,,,Hainault,5
+,,,,,,,,,Tokyngton,9
+,,,,,,,,,Lower Morden,3
+,,,,,,,,,Winchmore Hill,4
+,,,,,,,,,Petts Wood and Knoll,2
+,,,,,,,,,Barnes,9
+,,,,,,,,,Grove,9
+,,,,,,,,,Enfield Highway,1
+,,,,,,,,,Croham,7
+,,,,,,,,,Bromley South,14
+,,,,,,,,,Alperton,2
+,,,,,,,,,Loxford,5
+,,,,,,,,,Hounslow Heath,4
+,,,,,,,,,Selhurst,3
+,,,,,,,,,Ravensbury,3
+,,,,,,,,,Northwick Park,3
+,,,,,,,,,Clayhall,8
+,,,,,,,,,West Thornton,4
+,,,,,,,,,Lady Margaret,1
+,,,,,,,,,Roxeth,3
+,,,,,,,,,Tolworth and Hook Rise,1
+,,,,,,,,,Cazenove,21
+,,,,,,,,,Bromley Common and Keston,3
+,,,,,,,,,Whitefoot,6
+,,,,,,,,,Dormers Wells,1
+,,,,,,,,,Northolt West End,6
+,,,,,,,,,Canbury,7
+,,,,,,,,,Hale,3
+,,,,,,,,,Tachbrook,43
+,,,,,,,,,Roxbourne,3
+,,,,,,,,,East Dulwich,17
+,,,,,,,,,East Acton,27
+,,,,,,,,,Norland,22
+,,,,,,,,,Dollis Hill,3
+,,,,,,,,,Queensbury,7
+,,,,,,,,,Barnhill,1
+,,,,,,,,,Roding,17
+,,,,,,,,,Higham Hill,8
+,,,,,,,,,Stonebridge,4
+,,,,,,,,,Coldharbour and New Eltham,4
+,,,,,,,,,Wall End,2
+,,,,,,,,,Trinity,2
+,,,,,,,,,Turkey Street,1
+,,,,,,,,,Bedfont,1
+,,,,,,,,,Northolt Mandeville,3
+,,,,,,,,,East Ham South,8
+,,,,,,,,,Mayfield,3
+,,,,,,,,,Coulsdon West,1
+,,,,,,,,,Surbiton Hill,3
+,,,,,,,,,Underhill,5
+,,,,,,,,,Boleyn,2
+,,,,,,,,,Hatch End,1
+,,,,,,,,,Mottingham and Chislehurst North,7
+,,,,,,,,,St. James,2
+,,,,,,,,,Hounslow Central,3
+,,,,,,,,,Marlborough,2
+,,,,,,,,,Feltham West,3
+,,,,,,,,,Cricket Green,2
+,,,,,,,,,Chelsfield and Pratts Bottom,2
+,,,,,,,,,West Barnes,1
+,,,,,,,,,Hampton North,2
+,,,,,,,,,White Hart Lane,6
+,,,,,,,,,Bellingham,2
+,,,,,,,,,Headstone South,1
+,,,,,,,,,Chessington North and Hook,1
+,,,,,,,,,Coombe Hill,4
+,,,,,,,,,Cranford,2
+,,,,,,,,,Eltham West,2
+,,,,,,,,,Ponders End,6
+,,,,,,,,,Harrow Weald,1
+,,,,,,,,,Hendon,6
+,,,,,,,,,Darwin,1
+,,,,,,,,,Whitton,6
+,,,,,,,,,Southall Green,1
+,,,,,,,,,Greenhill,1
+,,,,,,,,,Coombe Vale,2
+,,,,,,,,,Old Malden,2
+,,,,,,,,,Chessington South,1
+,,,,,,,,,Ashburton,2
+,,,,,,,,,Stanmore Park,2
+,,,,,,,,,Feltham North,1
+,,,,,,,,,Longthornton,2
+,,,,,,,,,Norbiton,1
+,,,,,,,,,Tudor,2
+,,,,,,,,,Pinner South,1
+,,,,,,,,,Kenton East,2
+,,,,,,,,,Chase,1
+,,,,,,,,,Fryent,3
+,,,,,,,,,Southbury,1
