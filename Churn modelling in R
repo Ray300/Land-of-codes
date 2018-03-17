@@ -1,0 +1,91 @@
+getwd()
+setwd("C:\\Users\\SAYAN RAY\\Downloads\\DataSets")
+data<-read.csv("Churn.csv")
+data
+summary(data)
+str(data)
+data$Surname<-as.character(data$Surname)
+data$Tenure<-as.factor(data$Tenure)
+data$NumOfProducts  <-as.factor(data$NumOfProducts)
+data$HasCrCard <-as.factor(data$HasCrCard)
+data$IsActiveMember <-as.factor(data$IsActiveMember )
+str(data)
+boxplot(data$RowNumber)
+boxplot(data$CustomerId)
+boxplot(data$CreditScore )
+quantile(data$CreditScore,c(0,0.05,0.10,0.25,0.5,0.75,0.9,0.95,0.99,0.995,1))
+data1<-data[(data$CreditScore>366 ),]
+boxplot(data1$CreditScore)
+str(data)
+boxplot(data1$Age)
+quantile(data$Age,c(0,0.05,0.10,0.25,0.5,0.75,0.9,0.95,0.99,0.995,1))
+data2<-data1[(data1$Age<73),]
+boxplot(data2$Age)
+data3<-data2[(data2$Age<60),]
+boxplot(data3$Age)
+boxplot(data3$Balance)
+boxplot(data3$EstimatedSalary)
+sapply(data3,function(x)sum(is.na(x)))
+Data<-data3
+model<-glm(Exited~RowNumber  +CustomerId  + CreditScore  +Geography  +Gender   +Age    +Tenure  +Balance +NumOfProducts +HasCrCard  +IsActiveMember+EstimatedSalary,data=Data,family=binomial())
+summary(model)
+model<-glm(Exited~RowNumber  +CustomerId  + CreditScore  +Geography  +Gender   +Age    +Tenure  +Balance +NumOfProducts +HasCrCard  +IsActiveMember+EstimatedSalary,data=Data,family=binomial())
+summary(model)
+model<-glm(Exited~CustomerId  + CreditScore  +Geography  +Gender   +Age    +Tenure  +Balance +NumOfProducts +HasCrCard  +IsActiveMember+EstimatedSalary,data=Data,family=binomial())
+summary(model)
+model<-glm(Exited~CreditScore  +Geography  +Gender   +Age    +Tenure  +Balance +NumOfProducts +HasCrCard  +IsActiveMember+EstimatedSalary,data=Data,family=binomial())
+summary(model)
+model<-glm(Exited~Geography  +Gender   +Age    +Tenure  +Balance +NumOfProducts +HasCrCard  +IsActiveMember+EstimatedSalary,data=Data,family=binomial())
+summary(model)
+model<-glm(Exited~Gender   +Age+Balance +NumOfProducts +HasCrCard  +IsActiveMember+EstimatedSalary,data=Data,family=binomial())
+summary(model)
+model<-glm(Exited~Gender   +Age+Balance +I(NumOfProducts==2)+I(NumOfProducts==3) +HasCrCard  +IsActiveMember+EstimatedSalary,data=Data,family=binomial())
+summary(model)
+model<-glm(Exited~Gender   +Age+ +I(NumOfProducts==2)+I(NumOfProducts==3) +HasCrCard  +IsActiveMember+EstimatedSalary,data=Data,family=binomial())
+summary(model)
+model<-glm(Exited~Gender   +Age+ +I(NumOfProducts==2)+I(NumOfProducts==3) +IsActiveMember+EstimatedSalary,data=Data,family=binomial())
+summary(model)
+model<-glm(Exited~Gender   +Age+ +I(NumOfProducts==2)+I(NumOfProducts==3) +IsActiveMember,data=Data,family=binomial())
+summary(model)
+##Checking for VIF
+library(caret)
+library(ggplot2)
+library(MASS)
+library(car)
+library(mlogit)
+library(sqldf)
+library(Hmisc)
+vif(model)
+## Finding  R square (nagelkarke)
+chidf <- model$df.null - model$df.residual
+chisq.prob <- 1 - pchisq(modelChi, chidf)
+R2.hl<-modelChi/model$null.deviance
+R.cs <- 1 - exp ((model$deviance - model$null.deviance) /nrow(data))
+R.n <- R.cs /(1-(exp(-(model$null.deviance/(nrow(data))))))
+R.n ## ranges from 0 to 1; closer to 1 better the model
+
+### KS statistics calculation
+Data$m1.yhat <- predict(model, Data, type = "response")
+library(ROCR)
+m1.scores <- prediction(Data$m1.yhat, Data$Exited)
+plot(performance(m1.scores, "tpr", "fpr"), col = "red")
+abline(0,1, lty = 8, col = "grey")
+m1.perf <- performance(m1.scores, "tpr", "fpr")
+ks1.logit <- max(attr(m1.perf, "y.values")[[1]] - (attr(m1.perf, "x.values")[[1]]))
+ks1.logit 
+##Further checks with AUC metric
+prediction <- predict(model,newdata = Data,type="response")
+library(pROC)
+rocCurve   <- roc(response = Data$Exited, predictor = prediction, 
+levels = rev(levels(Data$Exited)))
+data$Exited<- as.factor(Data$Exited)
+predclass <-ifelse(prediction>coords(rocCurve,"best")[1],1,0)
+Confusion <- table(Predicted = predclass,Actual = Data$Exited)
+AccuracyRate <- sum(diag(Confusion))/sum(Confusion)
+Gini <-2*auc(rocCurve)-1
+AUCmetric <- data.frame(c(coords(rocCurve,"best"),AUC=auc(rocCurve),AccuracyRate=AccuracyRate,Gini=Gini))
+AUCmetric <- data.frame(rownames(AUCmetric),AUCmetric)
+rownames(AUCmetric) <-NULL
+names(AUCmetric) <- c("Metric","Values")
+AUCmetric
+write.csv(Data,"risk.csv")
