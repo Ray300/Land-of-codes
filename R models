@@ -1,0 +1,96 @@
+getwd()
+data<-read.csv("winequality-red.csv")
+data
+summary(data)
+str(data)
+boxplot(data$fixed_acidity)
+quantile(data$fixed_acidity,c(0,0.05,0.1,0.25,0.50,0.75,0.90,0.95,0.995,1))
+data1<-data[(data$fixed_acidity<11.8),]
+boxplot(data1$fixed_acidity)
+str(data)
+boxplot(data1$volatile_acidity )
+quantile(data$volatile_acidity,c(0,0.05,0.1,0.25,0.50,0.75,0.90,0.95,0.995,1))
+data2<-data1[(data1$volatile_acidity<0.84),]
+boxplot(data2$volatile_acidity )
+boxplot(data2$citric_acid  )
+quantile(data$citric_acid,c(0,0.05,0.1,0.25,0.50,0.75,0.90,0.95,0.995,1))
+data3<-data2[(data2$citric_acid<0.60),]
+boxplot(data3$citric_acid  )
+boxplot(data3$residual_sugar  )
+boxplot(data3$residual_sugar  )
+quantile(data3$residual_sugar ,c(0,0.05,0.1,0.25,0.50,0.75,0.90,0.95,0.995,1))
+data4<-data3[(data3$residual_sugar<3.5),]
+boxplot(data4$residual_sugar  )
+data5<-data4[(data4$residual_sugar>1.4),]
+boxplot(data5$residual_sugar  )
+data6<-data5[(data5$residual_sugar<3),]
+boxplot(data6$residual_sugar  )
+boxplot(data6$ chlorides   )
+quantile(data6$chlorides ,c(0,0.05,0.1,0.25,0.50,0.75,0.90,0.95,0.995,1))
+data7<-data6[(data6$chlorides<0.11),]
+boxplot(data7$ chlorides   )
+data8<-data7[(data7$chlorides>0.05),]
+boxplot(data8$ chlorides   )
+boxplot(data8$free_sulfur_dioxide)
+quantile(data8$free_sulfur_dioxide,c(0,0.05,0.1,0.25,0.50,0.75,0.90,0.95,0.995,1))
+data9<-data8[(data8$free_sulfur_dioxide<36),]
+boxplot(data9$free_sulfur_dioxide)
+boxplot(data9$ total_sulfur_dioxide)
+quantile(data8$total_sulfur_dioxide,c(0,0.05,0.1,0.25,0.50,0.75,0.90,0.95,0.995,1))
+data10<-data9[(data9$total_sulfur_dioxide<100),]
+boxplot(data10$ total_sulfur_dioxide)
+boxplot(data10 $ density )
+quantile(data8$density,c(0,0.05,0.1,0.25,0.50,0.75,0.90,0.95,0.995,1))
+data11<-data10[(data10$density>0.994),]
+boxplot(data11$ density )
+data12<-data11[(data11$density<0.999),]
+boxplot(data12$ density )
+data13<-data12[(data12$density>0.993),]
+boxplot(data13$ density )
+boxplot(data13$pH  )
+quantile(data13$pH,c(0,0.05,0.1,0.25,0.50,0.75,0.90,0.95,0.995,1))
+data14<-data13[(data13$pH>3.15),]
+boxplot(data14$pH  )
+data15<-data14[(data14$pH<3.57),]
+boxplot(data15$pH  )
+boxplot(data15$ sulphates  )
+quantile(data15$sulphates,c(0,0.05,0.1,0.25,0.50,0.75,0.90,0.95,0.995,1))
+data16<-data15[(data15$sulphates<0.87),]
+boxplot(data16$ sulphates  )
+boxplot(data16$alcohol)
+quantile(data16$alcohol,c(0,0.05,0.1,0.25,0.50,0.75,0.90,0.95,0.995,1))
+data17<-data16[(data16$alcohol<12.80),]
+boxplot(data17$alcohol)
+Data<-data17
+sapply(Data,function(x)sum(is.na(x)))
+str(Data)
+fit<-lm(quality  ~alcohol +sulphates +pH  +density  + total_sulfur_dioxide+ free_sulfur_dioxide + chlorides   +residual_sugar+ citric_acid+ volatile_acidity + fixed_acidity ,data=Data)
+summary(fit)
+fit<-lm(quality  ~alcohol +sulphates +pH + total_sulfur_dioxide+ free_sulfur_dioxide + chlorides   +residual_sugar+ citric_acid+ volatile_acidity + fixed_acidity ,data=Data)
+summary(fit)
+fit<-lm(quality  ~alcohol +sulphates +pH +free_sulfur_dioxide + chlorides   +residual_sugar+ citric_acid+ volatile_acidity + fixed_acidity ,data=Data)
+summary(fit)
+fit<-lm(quality  ~alcohol +sulphates +pH + chlorides   +residual_sugar+ citric_acid+ volatile_acidity + fixed_acidity ,data=Data)
+summary(fit)
+fit<-lm(quality  ~alcohol +sulphates +pH+residual_sugar+ citric_acid+ volatile_acidity + fixed_acidity ,data=Data)
+summary(fit)
+fit<-lm(quality  ~alcohol +sulphates +pH+ citric_acid+ volatile_acidity + fixed_acidity ,data=Data)
+summary(fit)
+fit<-lm(quality  ~alcohol +sulphates +pH+ citric_acid+ volatile_acidity,data=Data)
+summary(fit)
+library(car)
+library(QuantPsyc)
+library(lmtest)
+library(sandwich)
+library(vars)
+library(nortest)
+library(MASS)
+vif(fit)
+fit<-lm(quality  ~alcohol +sulphates +pH+ volatile_acidity,data=Data)
+summary(fit)
+Data$pred<-fitted(fit)
+(sum(abs(Data$quality-Data$pred)/Data$quality))/nrow(Data)
+dwt(fit)## data is serially correlated
+bptest(fit)##data is homoskedastic
+resids<-fit$residuals
+ad.test(resids)##residuals are normally distributed
