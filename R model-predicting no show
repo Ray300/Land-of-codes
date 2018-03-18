@@ -1,0 +1,78 @@
+getwd()
+setwd("C:\\Users\\SAYAN RAY\\R_data\\dataSets")
+data<-read.csv("Med.csv")
+summary(data)
+str(data)
+boxplot(data$PatientId )
+quantile(data$PatientId,c(0,0.05,0.1,0.25,0.5,0.75,0.90,0.95,0.99,0.995,1))
+data1<-data[(data$PatientId<9.439172e+13  ),]
+boxplot(data1$PatientId)
+boxplot(data1$AppointmentID)
+quantile(data$AppointmentID,c(0,0.05,0.1,0.25,0.5,0.75,0.90,0.95,0.99,0.995,1))
+data2<-data1[(data1$AppointmentID>5548167 ),]
+boxplot(data2$AppointmentID)
+boxplot(data2$Age)
+quantile(data$Age,c(0,0.05,0.1,0.25,0.5,0.75,0.90,0.95,0.99,0.995,1))
+data3<-data2[(data2$Age<90 ),]
+boxplot(data3$Age)
+boxplot(data3$ Scholarship )
+boxplot(data3$Hipertension)
+sapply(data3,function(x)sum(is.na(x)))
+str(data3)
+data<-data3
+model<-glm(No.show~SMS_received +Handcap  +Alcoholism +Diabetes  +Hipertension +Scholarship +Neighbourhood +Age +AppointmentDay+AppointmentID ,data==data,family==binomial())
+summary(model)
+model<-glm(No.show~SMS_received +Handcap  +Alcoholism +Diabetes  +Hipertension +Scholarship  +Age +AppointmentDay+AppointmentID ,data==data,family==binomial())
+summary(model)
+model<-glm(No.show~SMS_received+Alcoholism +Diabetes  +Hipertension +Scholarship  +Age +AppointmentDay+AppointmentID ,data==data,family==binomial())
+summary(model)
+model<-glm(No.show~SMS_received+Alcoholism +Diabetes  +Hipertension +Scholarship  +Age +I(AppointmentDay=="2016-05-03T00:00:00Z ")+I(AppointmentDay=="2016-05-04T00:00:00Z ")+I(AppointmentDay=="2016-05-05T00:00:00Z ")+I(AppointmentDay=="2016-05-06T00:00:00Z")+I(AppointmentDay=="2016-05-09T00:00:00Z ")+I(AppointmentDay=="2016-05-10T00:00:00Z ")+I(AppointmentDay=="2016-05-11T00:00:00Z ")+I(AppointmentDay=="2016-05-12T00:00:00Z ")+I(AppointmentDay=="2016-05-13T00:00:00Z")+I(AppointmentDay=="2016-05-16T00:00:00Z ")+I(AppointmentDay==" 2016-05-17T00:00:00Z ")+I(AppointmentDay=="2016-05-18T00:00:00Z")+I(AppointmentDay=="2016-05-19T00:00:00Z ")+I(AppointmentDay=="2016-05-20T00:00:00Z")+I(AppointmentDay=="2016-05-24T00:00:00Z ")+I(AppointmentDay=="2016-05-25T00:00:00Z")+I(AppointmentDay=="2016-05-30T00:00:00Z ")+I(AppointmentDay=="05-31T00:00:00Z ")+I(AppointmentDay=="2016-06-01T00:00:00Z ")+I(AppointmentDay=="2016-06-02T00:00:00Z ")+I(AppointmentDay=="2016-06-03T00:00:00Z")+I(AppointmentDay=="2016-06-06T00:00:00Z")+I(AppointmentDay=="2016-06-07T00:00:00Z")+AppointmentID ,data=data,family=binomial())
+summary(model)
+model<-glm(No.show~SMS_received+Alcoholism +Diabetes  +Hipertension +Scholarship  +Age +I(AppointmentDay=="2016-05-06T00:00:00Z")+I(AppointmentDay=="2016-05-13T00:00:00Z")+I(AppointmentDay=="2016-05-18T00:00:00Z")+I(AppointmentDay=="2016-05-20T00:00:00Z")+I(AppointmentDay=="2016-05-25T00:00:00Z")+I(AppointmentDay=="2016-06-03T00:00:00Z")+I(AppointmentDay=="2016-06-06T00:00:00Z")+I(AppointmentDay=="2016-06-07T00:00:00Z")+AppointmentID  ,data=data,family=binomial())
+summary(model)
+    library(boot) 
+library(car)
+library(QuantPsyc)
+library(lmtest)
+library(sandwich)
+library(vars)
+library(nortest)
+library(MASS)
+vif(model)
+
+# R square (nagelkarke)
+modelChi <- model$null.deviance - model$deviance
+#Finding the degree of freedom for Null model and model with variables
+chidf <- model$df.null - model$df.residual
+chisq.prob <- 1 - pchisq(modelChi, chidf)
+R2.hl<-modelChi/model$null.deviance
+R.cs <- 1 - exp ((model$deviance - model$null.deviance) /nrow(data))
+R.n <- R.cs /(1-(exp(-(model$null.deviance/(nrow(data))))))
+R.n ## ranges from 0 to 1; closer to 1 better the model
+prediction <- predict(model,newdata = data,type="response")
+library(pROC)
+rocCurve   <- roc(response = data$No.show, predictor = prediction, 
+levels = rev(levels(data$No.show)))
+data$No.show <- as.factor(data$No.show)
+
+predclass <-ifelse(prediction>coords(rocCurve,"best")[1],1,0)
+Confusion <- table(Predicted = predclass,Actual = data$No.show)
+AccuracyRate <- sum(diag(Confusion))/sum(Confusion)
+Gini <-2*auc(rocCurve)-1
+AUCmetric <- data.frame(c(coords(rocCurve,"best"),AUC=auc(rocCurve),AccuracyRate=AccuracyRate,Gini=Gini))
+AUCmetric <- data.frame(rownames(AUCmetric),AUCmetric)
+rownames(AUCmetric) <-NULL
+names(AUCmetric) <- c("Metric","Values")
+AUCmetric ## is high which implies the model is a good one.
+
+
+##KS Statistic
+
+data$m1.yhat <- predict(model, data, type = "response")
+library(ROCR)
+m1.scores <- prediction(data$m1.yhat, data$No.show)
+plot(performance(m1.scores, "tpr", "fpr"), col = "red")
+abline(0,1, lty = 8, col = "grey")
+m1.perf <- performance(m1.scores, "tpr", "fpr")
+ks1.logit <- max(attr(m1.perf, "y.values")[[1]] - (attr(m1.perf, "x.values")[[1]]))
+ks1.logit-ks is low..
