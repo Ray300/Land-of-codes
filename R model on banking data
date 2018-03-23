@@ -1,0 +1,107 @@
+getwd()
+setwd("C:\\Users\\SAYAN RAY\\Downloads\\DataSets")
+Data<-read.csv("bank.csv")
+summary(Data)
+str(Data)
+boxplot(Data$age)
+quantile(Data$age,c(0,0.05,0.1,0.25,0.50,0.75,0.90,0.95,0.99,0.995,1))
+Data1<-Data[(Data$age<59),]
+boxplot(Data1$age)
+boxplot(Data1$duration)
+quantile(Data1$duration,c(0,0.05,0.1,0.25,0.50,0.75,0.90,0.95,0.99,0.995,1))
+Data2<-Data1[(Data1$duration<450),]
+boxplot(Data2$duration)
+boxplot(Data2$campaign  )
+quantile(Data2$campaign,c(0,0.05,0.1,0.25,0.50,0.75,0.90,0.95,0.99,0.995,1))
+Data3<-Data2[(Data2$campaign<6),]
+boxplot(Data3$campaign)
+boxplot(Data3$pdays)
+quantile(Data3$pdays,c(0,0.05,0.1,0.25,0.50,0.75,0.90,0.95,0.99,0.995,1))
+Data4<-Data3[(Data3$pdays>998),]
+boxplot(Data4$pdays)
+boxplot(Data4$previous  )
+quantile(Data4$previous,c(0,0.05,0.1,0.25,0.50,0.75,0.90,0.95,0.99,0.995,1))
+Data5<-Data4[(Data4$previous<2),]
+boxplot(Data5$previous)
+boxplot(Data5$emp_var_rate  )
+boxplot(Data5$cons_price_idx)
+boxplot(Data5$euribor3m  )
+boxplot(Data5$nr_employed )
+sapply(Data5,function(x)sum(is.na(x)))
+data<-Data5
+str(data)
+model<-glm(y ~ nr_employed+euribor3m   +cons_conf_idx +cons_price_idx+emp_var_rate +poutcome + previous+ pdays+campaign + duration+day_of_week+month+contact +loan + housing  +default +education + marital  +job +age,data=data,family=binomial())
+summary(model)
+model<-glm(y ~ nr_employed+cons_conf_idx +cons_price_idx+emp_var_rate +poutcome+campaign + duration+day_of_week+month+contact +loan +default +education + marital  +job +age,data=data,family=binomial())
+summary(model)  
+model<-glm(y ~ nr_employed+cons_conf_idx +cons_price_idx+emp_var_rate +poutcome+ duration+day_of_week+month+contact +loan +default +education + marital  +job +age,data=data,family=binomial())
+summary(model)
+model<-glm(y ~ nr_employed+cons_conf_idx +cons_price_idx+emp_var_rate +poutcome+ duration+month+contact +loan +default +education + marital  +job +age,data=data,family=binomial())
+summary(model)
+model<-glm(y ~ nr_employed+cons_conf_idx +cons_price_idx+emp_var_rate +poutcome+ duration+month+contact +default +education + marital  +job +age,data=data,family=binomial())
+summary(model)
+model<-glm(y ~ nr_employed+cons_conf_idx +cons_price_idx+emp_var_rate +poutcome+ duration+month+contact +default+ marital  +job +age,data=data,family=binomial())
+summary(model)
+model<-glm(y ~ nr_employed+cons_conf_idx +cons_price_idx+emp_var_rate +poutcome+ duration+month+contact +default+job +age,data=data,family=binomial())
+summary(model)
+model<-glm(y ~ nr_employed+cons_conf_idx +cons_price_idx+emp_var_rate +poutcome+ duration+I(month=="nov")+I(month=="may")+I(month=="mar")+I(month=="jun")+I(month=="jul")+contact +default+job +age,data=data,family=binomial())
+summary(model)
+model<-glm(y ~ nr_employed+cons_conf_idx +cons_price_idx+emp_var_rate +poutcome+ duration+I(month=="nov")+I(month=="may")+I(month=="mar")+I(month=="jun")+I(month=="jul")+contact +I(default=="unknown")+job +age,data=data,family=binomial())
+summary(model)
+model<-glm(y ~ nr_employed+cons_conf_idx +cons_price_idx+emp_var_rate +poutcome+ duration+I(month=="nov")+I(month=="may")+I(month=="mar")+I(month=="jun")+I(month=="jul")+contact +I(default=="unknown")+I(job=="blue-collar")+I(job=="management")+I(job=="unknown")+I(job=="student")+I(job=="services")+age,data=data,family=binomial())
+summary(model)
+model<-glm(y ~ nr_employed+cons_conf_idx +cons_price_idx+emp_var_rate +poutcome+ duration+I(month=="nov")+I(month=="may")+I(month=="mar")+I(month=="jun")+I(month=="jul")+contact +I(default=="unknown")+I(job=="blue-collar")+I(job=="unknown")+I(job=="student")+I(job=="services")+age,data=data,family=binomial())
+summary(model)
+model<-glm(y ~ nr_employed+cons_conf_idx +cons_price_idx+emp_var_rate +poutcome+ duration+I(month=="nov")+I(month=="may")+I(month=="mar")+I(month=="jun")+I(month=="jul")+contact +I(default=="unknown")+I(job=="blue-collar")+I(job=="services")+age,data=data,family=binomial())
+summary(model)
+library(caret)
+library(ggplot2)
+library(MASS)
+library(car)
+library(mlogit)
+library(sqldf)
+library(Hmisc)
+vif(model)
+model<-glm(y ~ nr_employed+cons_conf_idx +cons_price_idx+poutcome+ duration+I(month=="nov")+I(month=="may")+I(month=="mar")+I(month=="jun")+I(default=="unknown")+I(job=="blue-collar")+I(job=="services")+age,data=data,family=binomial())
+summary(model)
+vif(model)
+
+## R square
+modelChi <- model$null.deviance - model$deviance
+#Finding the degree of freedom for Null model and model with variables
+chidf <- model$df.null - model$df.residual
+chisq.prob <- 1 - pchisq(modelChi, chidf)
+R2.hl<-modelChi/model$null.deviance
+R.cs <- 1 - exp ((model$deviance - model$null.deviance) /nrow(data))
+R.n <- R.cs /(1-(exp(-(model$null.deviance/(nrow(data))))))
+R.n
+
+Predicted Probabilities
+prediction <- predict(model,newdata = data,type="response")
+library(pROC)
+rocCurve   <- roc(response = data$y, predictor = prediction, 
+levels = rev(levels(data$y)))
+data$y <- as.factor(data$y)
+#Metrics - Fit Statistics
+predclass <-ifelse(prediction>coords(rocCurve,"best")[1],1,0)
+Confusion <- table(Predicted = predclass,Actual = data$y)
+AccuracyRate <- sum(diag(Confusion))/sum(Confusion)
+Gini <-2*auc(rocCurve)-1
+AUCmetric <- data.frame(c(coords(rocCurve,"best"),AUC=auc(rocCurve),AccuracyRate=AccuracyRate,Gini=Gini))
+AUCmetric <- data.frame(rownames(AUCmetric),AUCmetric)
+rownames(AUCmetric) <-NULL
+names(AUCmetric) <- c("Metric","Values")
+AUCmetric
+
+### KS statistics calculation
+data$m1.yhat <- predict(model, data, type = "response")
+library(ROCR)
+m1.scores <- prediction(data$m1.yhat, data$y)
+plot(performance(m1.scores, "tpr", "fpr"), col = "red")
+abline(0,1, lty = 8, col = "grey")
+m1.perf <- performance(m1.scores, "tpr", "fpr")
+ks1.logit <- max(attr(m1.perf, "y.values")[[1]] - (attr(m1.perf, "x.values")[[1]]))
+ks1.logit 
+
+names(data)[9] <- "pred"
+write.csv(data,"result.csv")
